@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ChoosePengiriman
+InputNomerResi
+ClickButtonKonfirmasi
+VerifyLabelPopUp
+VerifyButtonLanjutkan
+VerifyButtonBatal
+ClickTutup</description>
+   <name>ChoosePengiriman_InputNomerResi_ClickButtonKonfirmasi_VerifyLabelPopUp_VerifyButtonLanjutkan_VerifyButtonBatal_ClickTutup</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0b9d92bc-8aa0-4858-8cc2-94be1448ebd9</testCaseGuid>
+</TestCaseEntity>

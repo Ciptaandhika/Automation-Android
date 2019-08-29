@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- System will show page search not found</description>
+   <name>VerifyScreenTidakAdaPesanan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6a52782-5480-4944-8a91-3613969d913e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>tap button simpan produk
+input SKU
+tap button simpan produk</description>
+   <name>InputSKU_ClickSave</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>17f23ca7-bd40-408e-8509-2ea23fa9f01a</testCaseGuid>
+</TestCaseEntity>

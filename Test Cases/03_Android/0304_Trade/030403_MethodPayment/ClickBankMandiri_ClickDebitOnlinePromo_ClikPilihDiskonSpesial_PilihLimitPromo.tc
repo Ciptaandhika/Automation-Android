@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensure Buyer cannot use bank promotion for the second time on different item/product id</description>
+   <name>ClickBankMandiri_ClickDebitOnlinePromo_ClikPilihDiskonSpesial_PilihLimitPromo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4db9071c-c538-4730-9ed0-c9c70d5af60d</testCaseGuid>
+</TestCaseEntity>

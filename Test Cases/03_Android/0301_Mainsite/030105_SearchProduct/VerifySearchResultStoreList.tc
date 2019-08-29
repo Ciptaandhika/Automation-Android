@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify search result store list</description>
+   <name>VerifySearchResultStoreList</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>67b79e1a-ce90-4dd5-b5a5-27da27569e53</testCaseGuid>
+</TestCaseEntity>

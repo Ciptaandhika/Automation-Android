@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click tambah variant</description>
+   <name>ClickTambahVariant</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d14b668b-5bba-45be-8472-5d06bc2e8437</testCaseGuid>
+</TestCaseEntity>

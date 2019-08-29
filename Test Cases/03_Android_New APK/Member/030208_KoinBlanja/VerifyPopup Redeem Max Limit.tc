@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sistem akan menampilkan popup Maaf, kamu sudah pernah melakukan penukaran kupon ini. Kamu hanya bisa melakukan penukaran kupon yang sama sebanyak satu kali dalam satu sebulan</description>
+   <name>VerifyPopup Redeem Max Limit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af16e13b-11b8-40f5-bd91-6812ea765e13</testCaseGuid>
+</TestCaseEntity>

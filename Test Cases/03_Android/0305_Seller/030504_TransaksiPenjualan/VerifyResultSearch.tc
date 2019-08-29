@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify object after search</description>
+   <name>VerifyResultSearch</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>24aca10b-f4d7-4759-b035-90f025f58cb6</testCaseGuid>
+</TestCaseEntity>

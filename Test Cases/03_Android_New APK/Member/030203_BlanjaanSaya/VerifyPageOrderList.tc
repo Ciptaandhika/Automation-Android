@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify page Blanjaan Saya</description>
+   <name>VerifyPageOrderList</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>29fb5a4f-687b-4579-b2de-ebb76af337bb</testCaseGuid>
+</TestCaseEntity>

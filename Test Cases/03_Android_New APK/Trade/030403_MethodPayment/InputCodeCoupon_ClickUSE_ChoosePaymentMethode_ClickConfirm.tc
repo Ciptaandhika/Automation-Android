@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. on payment page, user input thematic code coupon on kupon blanja field
+ e.g :
+ product name :
+ code coupon :
+ value coupon :
+ exclude : all promotion
+ 2. click on 'USE' button
+ 3. then choose payment method : VA or online payment
+ 4. click on 'Confirm' button</description>
+   <name>InputCodeCoupon_ClickUSE_ChoosePaymentMethode_ClickConfirm</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>49aac65c-149e-4d56-8c2b-06a4f4d9c511</testCaseGuid>
+</TestCaseEntity>

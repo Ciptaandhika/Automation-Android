@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click btn turunkan produk
+click btn yakin</description>
+   <name>ClickTurunkanProduk_ClickYakin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c5c13d50-0c59-4640-9d5e-971ba75d4e40</testCaseGuid>
+</TestCaseEntity>

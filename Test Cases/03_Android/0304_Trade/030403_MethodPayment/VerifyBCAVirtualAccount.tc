@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Display pop up 'Anda tidak bisa menggunakan promosi ini'</description>
+   <name>VerifyBCAVirtualAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a045dedd-17e8-46a9-a96e-4bb15a5e7aa5</testCaseGuid>
+</TestCaseEntity>

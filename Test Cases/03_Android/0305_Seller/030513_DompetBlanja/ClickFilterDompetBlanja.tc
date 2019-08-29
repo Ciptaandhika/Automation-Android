@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3. Go to tab 'Semua'</description>
+   <name>ClickFilterDompetBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fdb39d3b-3c92-4224-901a-9f11d123efdb</testCaseGuid>
+</TestCaseEntity>

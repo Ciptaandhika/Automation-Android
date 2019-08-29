@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Icon Seach
+Input Nomer Pesanan</description>
+   <name>ClickIconSeach_InputNomerPesananDibatalkanBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5604c4d3-84a9-407c-bd52-54cb74d16be9</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>seller set product condition as 'New'</description>
+   <name>ClickRbBaru</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2c42b570-b7d9-4b65-b5ae-4ecb35a1fb63</testCaseGuid>
+</TestCaseEntity>

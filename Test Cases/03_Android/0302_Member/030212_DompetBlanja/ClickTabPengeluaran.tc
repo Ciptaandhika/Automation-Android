@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click tab pengeluaran</description>
+   <name>ClickTabPengeluaran</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d728622c-11ee-445d-8d60-37b52826ea95</testCaseGuid>
+</TestCaseEntity>

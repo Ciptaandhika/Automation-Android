@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Link Aja
+Set Jumlah Link Aja
+Click_Coupon</description>
+   <name>ClickLinkAja_DompetVA_Cashback</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>45c1cc67-5d61-494a-8e91-5dcf126745d9</testCaseGuid>
+</TestCaseEntity>

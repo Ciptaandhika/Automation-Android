@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click button tambah bank</description>
+   <name>ClickTambahBank</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a3d87325-0d29-4f61-8f94-3b13d6799a1a</testCaseGuid>
+</TestCaseEntity>

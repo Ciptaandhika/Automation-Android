@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click button ( &lt;- ) back
+- Click button ( &lt;- ) back di page list produk</description>
+   <name>ClickButtonBack_ClickButtonBackProdukDijual</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d6c147e3-5ba3-489b-bd4b-c3c032b3c0b2</testCaseGuid>
+</TestCaseEntity>

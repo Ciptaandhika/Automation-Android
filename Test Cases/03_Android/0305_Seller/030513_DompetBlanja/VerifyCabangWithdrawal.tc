@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can see 'Email' in detail transaction VA'</description>
+   <name>VerifyCabangWithdrawal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>41e45237-5c75-41eb-aacf-aad72ffeed12</testCaseGuid>
+</TestCaseEntity>

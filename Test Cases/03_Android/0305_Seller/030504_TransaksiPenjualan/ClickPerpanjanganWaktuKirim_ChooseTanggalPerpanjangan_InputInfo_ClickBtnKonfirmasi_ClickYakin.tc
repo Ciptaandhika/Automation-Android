@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click button perpanjangan waktu kirim
+- Klik pilih tanggal
+- Pilih 16 Maret 2019
+- Klik OKE
+- Input info ke pembeli
+- Klik button konfirmasi</description>
+   <name>ClickPerpanjanganWaktuKirim_ChooseTanggalPerpanjangan_InputInfo_ClickBtnKonfirmasi_ClickYakin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e3511440-f24f-42bd-91fd-6155506f1d61</testCaseGuid>
+</TestCaseEntity>

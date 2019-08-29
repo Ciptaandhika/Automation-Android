@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>search jenis pakaian spesifikasi</description>
+   <name>SearchJenisPakaianSpesifikasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d8f0e54d-874f-4203-92aa-6cbd88b73cd0</testCaseGuid>
+</TestCaseEntity>

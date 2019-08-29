@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>-scroll to kategori produk
+-click kategori produk</description>
+   <name>ClickKategoriProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>080a58a6-3ddf-42c6-ace1-81cd33798e23</testCaseGuid>
+</TestCaseEntity>

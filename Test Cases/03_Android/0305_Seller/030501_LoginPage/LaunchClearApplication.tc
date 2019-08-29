@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Onboarding screen will be displayed again If user clear data this apps
+1.1 Onboarding screen will be displayed</description>
+   <name>LaunchClearApplication</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0068d0c3-73cc-41dd-97d5-4d560e4a4d62</testCaseGuid>
+</TestCaseEntity>

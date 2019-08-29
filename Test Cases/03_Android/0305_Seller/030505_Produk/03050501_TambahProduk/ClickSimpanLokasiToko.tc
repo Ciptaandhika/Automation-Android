@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click simpan
+verify selected lokasi toko</description>
+   <name>ClickSimpanLokasiToko</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f608be0b-4361-4602-ab85-edaead76698c</testCaseGuid>
+</TestCaseEntity>

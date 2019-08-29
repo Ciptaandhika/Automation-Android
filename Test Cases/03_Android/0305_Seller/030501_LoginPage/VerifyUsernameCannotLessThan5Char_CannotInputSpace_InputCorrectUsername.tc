@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>input username less than 5 character
+add space 3 times
+scroll to dengan mendaftar
+click button daftar
+scroll to username
+input user name
+scroll to dengan mendaftar
+click daftar</description>
+   <name>VerifyUsernameCannotLessThan5Char_CannotInputSpace_InputCorrectUsername</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ff5a5039-f7d8-4718-9f1b-e7927e6d5f4b</testCaseGuid>
+</TestCaseEntity>

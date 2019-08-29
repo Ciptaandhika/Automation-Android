@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Verify on kategori screen</description>
+   <name>VerifyKategoriScreen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d8dad731-43d0-4c0b-abb2-36f2e6677ecd</testCaseGuid>
+</TestCaseEntity>

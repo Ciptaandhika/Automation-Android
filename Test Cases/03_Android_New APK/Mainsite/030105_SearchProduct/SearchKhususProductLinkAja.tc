@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click SearchBox
+- Set Text 'Produk Link Aja'
+- Enter</description>
+   <name>SearchKhususProductLinkAja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>58e22067-3fa8-4631-9dc3-f298413079ce</testCaseGuid>
+</TestCaseEntity>

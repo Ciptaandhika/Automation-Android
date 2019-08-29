@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search Kode Kupon Undian</description>
+   <name>SearchKodeKuponUndian</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>553b1c80-b5a8-4a9b-9667-33ec54b1a0c1</testCaseGuid>
+</TestCaseEntity>

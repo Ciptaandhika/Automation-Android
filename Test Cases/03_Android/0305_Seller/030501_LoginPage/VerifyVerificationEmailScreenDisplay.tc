@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>4.2  Verification email screen will be displayed</description>
+   <name>VerifyVerificationEmailScreenDisplay</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e3a47c03-70f9-4e9b-85a0-ea7fd079a3c2</testCaseGuid>
+</TestCaseEntity>

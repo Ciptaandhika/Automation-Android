@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. on payment page, for order in store A user input unique code coupon which cant combine with all promotions
+e.g :
+product name :
+code coupon :
+value coupon :
+exclude : all promotion
+
+
+2. click on 'USE' button
+
+
+3. on payment page, for order in store B user input thematic code coupon which cant combine with all promotions
+e.g :
+product name :
+code coupon :
+value coupon :
+exclude : all promotion
+
+
+4. click on 'USE' button</description>
+   <name>InputCode_ClickUse_2_Product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d057143f-4692-4d51-b419-8fea6a972123</testCaseGuid>
+</TestCaseEntity>

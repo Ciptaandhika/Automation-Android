@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify shows Jumlah Penarikan information</description>
+   <name>VerifyPenarikanDanaJumlahPenarikan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9df79f1a-8c77-4cf6-8cea-ddddce6045c2</testCaseGuid>
+</TestCaseEntity>

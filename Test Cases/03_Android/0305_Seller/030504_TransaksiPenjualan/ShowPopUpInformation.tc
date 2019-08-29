@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>show pop up information that seller can't filter more than 1 month ago</description>
+   <name>ShowPopUpInformation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f7f171dc-ce28-4f2d-a222-875bf9a542ab</testCaseGuid>
+</TestCaseEntity>

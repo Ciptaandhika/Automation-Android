@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Current Date Perpanjangan Waktu Pengiriman</description>
+   <name>VerifyCurrentDate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9ef74ad3-e88f-473e-b76c-d59cbfefc8e7</testCaseGuid>
+</TestCaseEntity>

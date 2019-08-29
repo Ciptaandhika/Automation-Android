@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify object txtBoxNamaPemilikToko
+scroll to Kode Pos
+tap btn lanjutkan
+scroll to informasi toko
+input nama pemilik toko</description>
+   <name>VerifyDSSINamaPemilikToko</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7fa73e49-1bfa-4cd5-a90d-7e40ceb03978</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Tap on one of template
+- Ensure message sent</description>
+   <name>VerifyTemplateStokHabis</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1210a645-2ae6-4842-ae22-eab5546dd5b3</testCaseGuid>
+</TestCaseEntity>

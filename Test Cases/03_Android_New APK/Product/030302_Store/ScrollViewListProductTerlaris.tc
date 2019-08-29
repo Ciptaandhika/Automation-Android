@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>scroll view list produk terlaris</description>
+   <name>ScrollViewListProductTerlaris</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ae1548fe-83fa-4135-9db5-0a8cab5e496b</testCaseGuid>
+</TestCaseEntity>

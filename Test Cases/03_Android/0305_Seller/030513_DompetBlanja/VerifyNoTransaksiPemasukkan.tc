@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify no transaksi withdrawal</description>
+   <name>VerifyNoTransaksiPemasukkan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a4f46923-37c7-4770-87b4-89ae183b2e73</testCaseGuid>
+</TestCaseEntity>

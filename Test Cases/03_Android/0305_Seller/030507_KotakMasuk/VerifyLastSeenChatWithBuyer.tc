@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>4.2 Last active buyer screen displayed</description>
+   <name>VerifyLastSeenChatWithBuyer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bcd6f2a4-9e88-4c31-9f0c-8759803a79c0</testCaseGuid>
+</TestCaseEntity>

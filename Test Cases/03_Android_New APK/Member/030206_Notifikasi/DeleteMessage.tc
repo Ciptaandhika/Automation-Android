@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click icon delete
+click button dialog YA
+verify message deleted</description>
+   <name>DeleteMessage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3f9abe34-95ba-49e5-b1f8-952495e68ed3</testCaseGuid>
+</TestCaseEntity>

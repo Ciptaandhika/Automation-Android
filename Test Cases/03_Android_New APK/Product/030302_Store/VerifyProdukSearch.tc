@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify show produk after search</description>
+   <name>VerifyProdukSearch</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c2a882aa-4ed0-46a0-b6f4-7d9f92726009</testCaseGuid>
+</TestCaseEntity>

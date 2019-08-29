@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Jasa dan LayananPengiriman Tiki - Reg</description>
+   <name>VerifyJasadanLayananPengirimanTiki-Reg</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8043494a-3958-4e0d-b37b-59556a77dee1</testCaseGuid>
+</TestCaseEntity>

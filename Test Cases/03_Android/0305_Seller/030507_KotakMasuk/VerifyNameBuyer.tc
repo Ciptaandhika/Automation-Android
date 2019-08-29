@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Result test : 3.5 Ensure Buyer name displayed</description>
+   <name>VerifyNameBuyer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f33d477e-3d8b-41e9-8f9e-04c0c78b87c8</testCaseGuid>
+</TestCaseEntity>

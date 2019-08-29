@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>input harga diskon
+input harga diskon character</description>
+   <name>VerifyInputHargaDiskon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>acf14762-5523-4dd3-9a7f-517f532b83dd</testCaseGuid>
+</TestCaseEntity>

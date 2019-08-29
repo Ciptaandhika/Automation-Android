@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click kartu kredit cicilan
+select BCA 3 bulan</description>
+   <name>ClickKartuKreditCicilan_selectBCA3bulan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dbf255e9-9edb-4483-8cef-246a78341e8c</testCaseGuid>
+</TestCaseEntity>

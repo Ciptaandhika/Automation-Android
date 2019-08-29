@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click lihat
+click hadiah undian</description>
+   <name>ClickHadiahLangsung</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>101b368e-340d-499b-b79e-6b5311662b4b</testCaseGuid>
+</TestCaseEntity>

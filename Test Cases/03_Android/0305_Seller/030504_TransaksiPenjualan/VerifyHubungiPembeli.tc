@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify hubungi pembeli</description>
+   <name>VerifyHubungiPembeli</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4b90525e-43ef-4303-92f7-c29e930b2624</testCaseGuid>
+</TestCaseEntity>

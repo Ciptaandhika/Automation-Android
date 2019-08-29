@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Choose Provinsi</description>
+   <name>ChoosePengirimanKota</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9c546fe7-7f71-4684-92c0-6de64a3c9034</testCaseGuid>
+</TestCaseEntity>

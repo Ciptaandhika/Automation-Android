@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>close dialog
+click button lihat blanjaan</description>
+   <name>ClickLihatBlanjaan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4840d066-67ab-4f5f-8b2b-463b7e2fcec7</testCaseGuid>
+</TestCaseEntity>

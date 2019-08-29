@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click method payment BRI
+- Click Kartu Kredit
+- Click Bayar</description>
+   <name>ChooseMethodPayment_BRI_KartuKredit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>75db8563-8b12-45b8-9d09-25bc0dd9a7df</testCaseGuid>
+</TestCaseEntity>

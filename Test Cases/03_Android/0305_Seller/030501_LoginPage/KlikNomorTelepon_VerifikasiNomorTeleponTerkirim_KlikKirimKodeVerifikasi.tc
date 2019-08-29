@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>6.1 Pilih metode verifikasi displayed
+6.2 Email option
+6.3 Nomor Telepon option displayed
+6. Tap Selanjutnya button</description>
+   <name>KlikNomorTelepon_VerifikasiNomorTeleponTerkirim_KlikKirimKodeVerifikasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9269045-4c4b-498b-9db9-411360be859f</testCaseGuid>
+</TestCaseEntity>

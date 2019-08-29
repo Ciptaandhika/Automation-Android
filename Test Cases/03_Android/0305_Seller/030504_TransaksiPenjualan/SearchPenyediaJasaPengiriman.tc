@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search Penyedia Jasa Pengiriman</description>
+   <name>SearchPenyediaJasaPengiriman</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd61e650-5777-4933-b092-522b9da59166</testCaseGuid>
+</TestCaseEntity>

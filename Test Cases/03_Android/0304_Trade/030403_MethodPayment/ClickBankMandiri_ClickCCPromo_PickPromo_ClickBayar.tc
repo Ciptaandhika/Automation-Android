@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Ensure that bank promotion already set                                   
+2. Select payment method with promotion</description>
+   <name>ClickBankMandiri_ClickCCPromo_PickPromo_ClickBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>81c6c091-8478-494b-b071-c5f6e4e3935f</testCaseGuid>
+</TestCaseEntity>

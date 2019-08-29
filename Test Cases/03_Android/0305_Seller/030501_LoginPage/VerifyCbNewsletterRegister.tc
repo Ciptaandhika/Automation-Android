@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify checkbox object
+verify text newsletter
+verify default checked
+tap checkbox
+tap checkbox</description>
+   <name>VerifyCbNewsletterRegister</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aaa1f688-fed1-4067-87af-a85fd9627b16</testCaseGuid>
+</TestCaseEntity>

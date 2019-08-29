@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Product with price lower than 10k</description>
+   <name>SearchProductLessThan10k</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0d5f95fc-1a0a-408e-a797-c8833775f52d</testCaseGuid>
+</TestCaseEntity>

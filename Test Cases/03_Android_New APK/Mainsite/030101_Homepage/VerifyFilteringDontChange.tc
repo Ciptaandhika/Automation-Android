@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tap Lihat Semua Toko
+Tap Filter</description>
+   <name>VerifyFilteringDontChange</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>762dee6b-ae3e-403f-9030-cdbe9bf3604b</testCaseGuid>
+</TestCaseEntity>

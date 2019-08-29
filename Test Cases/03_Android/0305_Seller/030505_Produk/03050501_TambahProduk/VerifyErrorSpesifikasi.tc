@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify error spesifikasi</description>
+   <name>VerifyErrorSpesifikasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac84d181-59e3-4152-a2d5-6db239db92ec</testCaseGuid>
+</TestCaseEntity>

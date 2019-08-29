@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Enter price
+
+
+Enter stock
+
+
+Enter SKU
+
+
+Choose varian 'Warna'
+
+
+Choose varian 'Ukuran'
+
+
+Click on button 'Simpan'</description>
+   <name>UpdateVariantProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b1755086-76d6-44d4-988e-9d5aaeb1af74</testCaseGuid>
+</TestCaseEntity>

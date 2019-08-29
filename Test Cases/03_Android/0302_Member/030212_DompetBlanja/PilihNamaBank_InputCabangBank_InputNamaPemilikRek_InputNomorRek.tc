@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>input form ubah rekening</description>
+   <name>PilihNamaBank_InputCabangBank_InputNamaPemilikRek_InputNomorRek</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2381e1f-edfc-4cf2-8741-861186db6987</testCaseGuid>
+</TestCaseEntity>

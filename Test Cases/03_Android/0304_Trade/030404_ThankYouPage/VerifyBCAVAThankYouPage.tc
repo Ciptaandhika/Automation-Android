@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. System redirect to thank you page. In thank you page, will display:
+- Payment name,
+- VA Number,
+- Payment amount,
+- Payment Guide</description>
+   <name>VerifyBCAVAThankYouPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7e7292e3-222a-4a55-a072-01edd7e85ba0</testCaseGuid>
+</TestCaseEntity>

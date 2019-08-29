@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click warna
+choose warna</description>
+   <name>ChoosePilihanVarianWarna</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0d70b5fd-cf32-422e-a809-1436ca4c1529</testCaseGuid>
+</TestCaseEntity>

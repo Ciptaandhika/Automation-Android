@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Di halaman my cashback menampilkan note &quot;Pengembalian Cashback atas order&quot;, di tab semua dan tab penerimaan</description>
+   <name>VerifynotePengembalianCashbackatasorder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1c6a809a-f0ed-4626-a230-2f9fc158e00e</testCaseGuid>
+</TestCaseEntity>

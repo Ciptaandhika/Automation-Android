@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Daftar Disini</description>
+   <name>GoToRegisterPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d098a622-2f1e-4a40-8c97-118034a3bad2</testCaseGuid>
+</TestCaseEntity>

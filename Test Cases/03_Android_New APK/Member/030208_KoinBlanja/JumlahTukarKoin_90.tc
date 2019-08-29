@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>jumlah tukar koin hingga 50</description>
+   <name>JumlahTukarKoin_90</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>76fa2423-f198-4d69-80bd-7b32802eb67a</testCaseGuid>
+</TestCaseEntity>

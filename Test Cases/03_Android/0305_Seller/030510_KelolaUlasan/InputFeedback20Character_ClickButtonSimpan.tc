@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Do not input any character for feedback</description>
+   <name>InputFeedback20Character_ClickButtonSimpan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>76c0712b-223e-498b-83d8-6ec7c306ec5e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify status pengiriman kurir instant</description>
+   <name>VerifyRedirectOrderDetail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b1388b4a-8417-4c0b-a338-a196051bbd50</testCaseGuid>
+</TestCaseEntity>

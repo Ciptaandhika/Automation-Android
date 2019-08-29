@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click 'Ingatkan Penjual' on screen blanjaan saya</description>
+   <name>ClickIngatkanPenjual</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac82edae-a083-4ee1-be8b-8b845f7fad46</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Semua Fashion</description>
+   <name>VerifySemuaFashion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>97981d52-9145-4ae8-af41-c3c9bf0a241d</testCaseGuid>
+</TestCaseEntity>

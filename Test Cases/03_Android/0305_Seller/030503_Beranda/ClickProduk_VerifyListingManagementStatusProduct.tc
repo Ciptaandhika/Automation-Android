@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>5.1 Tambah Produk will be displayed
+5.2 Produk Dijual will be displayed
+5.3 Produk Disimpan will be displayed</description>
+   <name>ClickProduk_VerifyListingManagementStatusProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>09adcbbc-c82b-4972-a598-a2164c9405ea</testCaseGuid>
+</TestCaseEntity>

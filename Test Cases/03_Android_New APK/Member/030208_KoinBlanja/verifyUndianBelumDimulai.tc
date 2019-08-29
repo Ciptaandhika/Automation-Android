@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify Undian Belum Dimulai</description>
+   <name>verifyUndianBelumDimulai</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7dc19fe8-0257-420e-9afa-1d0bf13d158a</testCaseGuid>
+</TestCaseEntity>

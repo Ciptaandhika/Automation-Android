@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click jenis pakaian
+choose option pertama</description>
+   <name>ChooseSpesifikasiBahan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cad92bfb-240f-49ae-b9c5-2e2943004191</testCaseGuid>
+</TestCaseEntity>

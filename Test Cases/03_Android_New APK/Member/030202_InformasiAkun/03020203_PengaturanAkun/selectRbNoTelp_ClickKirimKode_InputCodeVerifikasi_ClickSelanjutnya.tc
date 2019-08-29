@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>select rb no telp
+click kirim kode
+input kode verifikasi
+click selanjutnya</description>
+   <name>selectRbNoTelp_ClickKirimKode_InputCodeVerifikasi_ClickSelanjutnya</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>027809d7-2345-4b53-abdd-ba7f59162c71</testCaseGuid>
+</TestCaseEntity>

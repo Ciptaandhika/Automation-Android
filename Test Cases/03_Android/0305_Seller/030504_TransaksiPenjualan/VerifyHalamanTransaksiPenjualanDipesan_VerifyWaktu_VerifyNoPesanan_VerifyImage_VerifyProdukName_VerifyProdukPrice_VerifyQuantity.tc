@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Halaman Transaksi Penjualan Dipesan
+Verify Waktu
+Verify No Pesanan
+Verify Image
+Verify Produk Name
+Verify Produk Price
+Verify Quantity</description>
+   <name>VerifyHalamanTransaksiPenjualanDipesan_VerifyWaktu_VerifyNoPesanan_VerifyImage_VerifyProdukName_VerifyProdukPrice_VerifyQuantity</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>969c1cf4-5db4-4dec-9160-4ee4815a4272</testCaseGuid>
+</TestCaseEntity>

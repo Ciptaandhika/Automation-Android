@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>input order number which paid using Others Debit Online then clicked on 'SEARCH' button
+click on button 'Details'</description>
+   <name>ClickIconSearch_InputNomerPesananUsingOthersDebit_ClickPesananDetail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0802461c-d81e-4c37-b3d6-85a1fc8dd2a7</testCaseGuid>
+</TestCaseEntity>

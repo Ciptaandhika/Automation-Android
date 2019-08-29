@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify halaman notifikasi</description>
+   <name>VerifyNotificationPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bee2254f-0307-4ddc-94d5-0b3c78a52af5</testCaseGuid>
+</TestCaseEntity>

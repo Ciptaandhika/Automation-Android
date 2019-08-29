@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify waktu transaksi withdrawal</description>
+   <name>VerifyWaktuTransaksiWithdrawal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>44aede65-b762-4f54-9e39-0d337695045e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>-view list product store
+-scroll to Product Terlaris</description>
+   <name>ScrollViewListProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc3d169c-4309-4578-b44e-cfca1db5ac97</testCaseGuid>
+</TestCaseEntity>

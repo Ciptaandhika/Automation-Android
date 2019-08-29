@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Nominal discount should be attached in the description of Diskon Blanja</description>
+   <name>VerifyNominalDiskon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc49ac2a-d278-4cc1-add0-8385d9b798d0</testCaseGuid>
+</TestCaseEntity>

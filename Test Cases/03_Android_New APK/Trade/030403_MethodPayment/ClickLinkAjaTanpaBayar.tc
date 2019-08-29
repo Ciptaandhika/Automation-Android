@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click Link Aja
+- Click Bayar</description>
+   <name>ClickLinkAjaTanpaBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>91c9d6f4-fb01-44fa-9a4a-ff0b8bdcfc6f</testCaseGuid>
+</TestCaseEntity>

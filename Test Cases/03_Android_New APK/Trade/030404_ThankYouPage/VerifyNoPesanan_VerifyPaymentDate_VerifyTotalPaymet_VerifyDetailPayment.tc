@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify no pesanan
+verify payment date
+verify total payment with unique code
+verify click detail payment
+verify sub total pembayaran
+verify unique code
+verify total pembayaran = unique code + subtotal pembayaran</description>
+   <name>VerifyNoPesanan_VerifyPaymentDate_VerifyTotalPaymet_VerifyDetailPayment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2aa9ae79-5038-4d35-8167-cbe923ef9d46</testCaseGuid>
+</TestCaseEntity>

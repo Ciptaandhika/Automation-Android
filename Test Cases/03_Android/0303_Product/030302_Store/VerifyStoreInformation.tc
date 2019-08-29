@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify :
+	- store logo
+	- store name
+	- store location
+	- total count of product
+	- 3 service ratting seller
+	- store description</description>
+   <name>VerifyStoreInformation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>412b76ad-3005-4cc2-93a0-e3691b4417df</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify txtBoxEmail
+Tap txtBoxEmail
+Input Email
+Tap X email</description>
+   <name>VerifyEmailTextField_TapXemail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e0da0ff0-1d06-4c8a-a8c6-c9eb7a94f590</testCaseGuid>
+</TestCaseEntity>

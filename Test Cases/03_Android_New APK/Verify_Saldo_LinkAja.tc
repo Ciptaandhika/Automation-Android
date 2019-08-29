@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sistem akan memverifikasi Saldo Link Aja</description>
+   <name>Verify_Saldo_LinkAja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cef82474-5d1e-4c25-8cfc-6235c744b3bb</testCaseGuid>
+</TestCaseEntity>

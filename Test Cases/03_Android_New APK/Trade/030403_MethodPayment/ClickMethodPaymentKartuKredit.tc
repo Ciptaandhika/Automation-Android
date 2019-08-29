@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click kartu kredit</description>
+   <name>ClickMethodPaymentKartuKredit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>97cb2c21-5397-4fc1-93e7-353ea9c8b0b5</testCaseGuid>
+</TestCaseEntity>

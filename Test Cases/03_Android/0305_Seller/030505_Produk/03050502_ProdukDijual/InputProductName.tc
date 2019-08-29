@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>input produk name</description>
+   <name>InputProductName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6a0cd209-a390-494e-855d-56e18bf69262</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Nama Kupon pada pencarian nama kupon</description>
+   <name>VerifyNamaKupon_PencarianNama</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1e6f73e-33da-470c-931a-0ff64a598fe4</testCaseGuid>
+</TestCaseEntity>

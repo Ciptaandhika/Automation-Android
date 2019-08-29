@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3. Go to tab 'PENGELUARAN'</description>
+   <name>ClickTabPengeluaran</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e353823b-e7e7-4168-b736-c5044ff2b2fc</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click radiobutton nomor telepon
+- Click button kirim kode verifikasi
+- input manual kode verifikasi</description>
+   <name>ClickNomorTeleponVerifikasi_ClickKirimKodeVerifikasi_InputManualKodeVerifikasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>542056c5-3e32-4843-965d-9eef5b24315e</testCaseGuid>
+</TestCaseEntity>

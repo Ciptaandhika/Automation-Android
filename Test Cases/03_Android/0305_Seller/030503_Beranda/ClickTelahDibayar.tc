@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Telah dibayar
+</description>
+   <name>ClickTelahDibayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>488e211a-d8a3-48a4-8121-0d452d131701</testCaseGuid>
+</TestCaseEntity>

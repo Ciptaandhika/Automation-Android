@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3. Choose parent category (example: Fashion, Olahraga &amp; Kesehatan Kecantikan
+4. Choose subcategory (example: Pakaian Wanita)
+5. Choose child category( example: Celana Wanita)</description>
+   <name>ChooseKategoriAndSubKategori</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e26e902a-f2d4-414d-85fa-b8c3fe58acd1</testCaseGuid>
+</TestCaseEntity>

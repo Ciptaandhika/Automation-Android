@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click icon profil</description>
+   <name>ClickProfil</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b17741c2-3939-4ccc-be3c-93652fe0ac06</testCaseGuid>
+</TestCaseEntity>

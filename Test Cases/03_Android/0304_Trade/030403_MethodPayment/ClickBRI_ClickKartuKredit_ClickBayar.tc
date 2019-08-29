@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click on 'BRI' and then click 'Kartu Kredit' payment method then 'Bayar' the order
+and then system should redirect to VT Web Finnet</description>
+   <name>ClickBRI_ClickKartuKredit_ClickBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4424dee4-a156-4028-b77b-616fbdd1e465</testCaseGuid>
+</TestCaseEntity>

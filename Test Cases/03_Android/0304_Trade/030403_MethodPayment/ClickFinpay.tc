@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click finpay method payment</description>
+   <name>ClickFinpay</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c140cd15-333d-4996-bd10-b4649c4c4317</testCaseGuid>
+</TestCaseEntity>

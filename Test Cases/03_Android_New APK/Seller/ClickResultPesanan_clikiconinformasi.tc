@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click result pesanan yang telah dibayar
+clik icon &quot;i&quot;</description>
+   <name>ClickResultPesanan_clikiconinformasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c6f4558c-21b4-4dab-814e-0a09e053ec7f</testCaseGuid>
+</TestCaseEntity>

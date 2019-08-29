@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click on &quot;Kategori&quot; menu on bottom menu bar</description>
+   <name>GoToKategori</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8d79013d-0082-4a5c-9bee-ba79f9b2c8c6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click radio button email
+click button kirim kode verifikasi
+input kode verifikasi</description>
+   <name>ClickRbEmail_ClickKirimKodeVerifikasi_InputKodeVerifikasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f1ca5fc9-e07a-4d7b-b2b7-3641c1de406d</testCaseGuid>
+</TestCaseEntity>

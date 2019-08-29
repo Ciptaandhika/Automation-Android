@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click 'Ya, Tambahkan'
+click 'Ubah'</description>
+   <name>ClickYaTambahkan_ClickUbah</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ff490439-adf2-4828-984e-7796fc0a05d4</testCaseGuid>
+</TestCaseEntity>

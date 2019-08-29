@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify Pop Up LinkAja</description>
+   <name>verifyPopUpLinkAja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>29d22606-2d2f-4e46-91a8-987ad7ca30e9</testCaseGuid>
+</TestCaseEntity>

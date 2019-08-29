@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Delete Search Penyedia Jasa Pengiriman</description>
+   <name>DeleteSearchPenyediaJasaPengiriman</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b382f4c8-038f-4bd0-aad3-4266ffc7bbdf</testCaseGuid>
+</TestCaseEntity>

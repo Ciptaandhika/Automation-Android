@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify object postal code
+input postal code</description>
+   <name>VerifyDSSIPostalCode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>21bfb260-b6ac-414c-8510-78ce5aeb7800</testCaseGuid>
+</TestCaseEntity>

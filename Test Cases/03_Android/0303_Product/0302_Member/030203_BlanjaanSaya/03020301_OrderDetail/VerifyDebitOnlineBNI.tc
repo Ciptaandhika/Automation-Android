@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>4.3 buyer can check details order on order list and order details, and sytem show payment information as 'Debit Online'</description>
+   <name>VerifyDebitOnlineBNI</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2d05773f-982d-44c6-afe0-8cae02babc12</testCaseGuid>
+</TestCaseEntity>

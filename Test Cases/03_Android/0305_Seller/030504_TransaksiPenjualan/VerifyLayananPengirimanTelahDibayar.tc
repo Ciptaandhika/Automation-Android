@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Access  &quot;TELAH DIBAYAR&quot; screen
+2. Tap on one of order</description>
+   <name>VerifyLayananPengirimanTelahDibayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f6dc622d-9144-43bb-8dea-908cb1752ff4</testCaseGuid>
+</TestCaseEntity>

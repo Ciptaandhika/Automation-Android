@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>search jenis pakaian spesifikasi</description>
+   <name>SearchJenisPakaianSpesifikasi_ClickYaUbah_ClickUbah</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c3380958-2ce7-445a-80a1-5319fd7d394d</testCaseGuid>
+</TestCaseEntity>

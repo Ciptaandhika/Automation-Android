@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ChoosePengiriman
+InputNomerResi
+ClickButtonKonfirmasi</description>
+   <name>ChoosePengiriman_InputNomerResi_ClickButtonKonfirmasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bfcd311a-8d57-439a-834a-fa872baff79e</testCaseGuid>
+</TestCaseEntity>

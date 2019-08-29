@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensure Buyer can order product from 1 store and paid using Mandiri Ecash</description>
+   <name>ClickBankMandiri_ClickMandiriECash</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bc23b105-bcfa-4a97-a376-9755b98ed39d</testCaseGuid>
+</TestCaseEntity>

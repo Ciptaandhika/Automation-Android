@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click first bahan varian</description>
+   <name>SelectFirstBahanVarian</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6e366644-293c-4d1a-a512-ee2aa06be8ce</testCaseGuid>
+</TestCaseEntity>

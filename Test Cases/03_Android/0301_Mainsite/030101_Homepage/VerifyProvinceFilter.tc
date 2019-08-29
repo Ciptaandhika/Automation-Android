@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify province filter.</description>
+   <name>VerifyProvinceFilter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5ddbb48-ae28-454f-a7c7-ca6b529e2889</testCaseGuid>
+</TestCaseEntity>

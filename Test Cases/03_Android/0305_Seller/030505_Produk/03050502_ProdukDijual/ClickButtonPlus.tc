@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click button '+'</description>
+   <name>ClickButtonPlus</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>691a20fd-4cdc-4d5d-b271-c3881fdc32df</testCaseGuid>
+</TestCaseEntity>

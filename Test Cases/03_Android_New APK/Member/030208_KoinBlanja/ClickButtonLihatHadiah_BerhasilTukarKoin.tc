@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Button Lihat Hadiah BerhasilTukarKoin</description>
+   <name>ClickButtonLihatHadiah_BerhasilTukarKoin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db6133f5-6e07-4584-ad22-0d0c8e8d8deb</testCaseGuid>
+</TestCaseEntity>

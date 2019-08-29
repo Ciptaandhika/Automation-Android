@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click button bayar</description>
+   <name>ClickButtonBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b1ecb413-018e-44a2-8a73-521a20333669</testCaseGuid>
+</TestCaseEntity>

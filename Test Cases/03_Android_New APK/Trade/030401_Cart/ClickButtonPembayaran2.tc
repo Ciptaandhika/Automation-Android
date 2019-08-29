@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>On cart page, click 'Pembayaran'
+System will redirect to ChoosePayment page</description>
+   <name>ClickButtonPembayaran2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6319f3b-3585-4dc7-88d4-76fa5f5ba11b</testCaseGuid>
+</TestCaseEntity>

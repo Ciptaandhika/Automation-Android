@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify kategori page</description>
+   <name>VerifySpesifikasiSubMenu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bbb2fc81-51a8-41f0-a75e-3f28b12a82fa</testCaseGuid>
+</TestCaseEntity>

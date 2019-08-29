@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>VerifyPickup
+ClickPickup</description>
+   <name>VerifyPickupButton</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af2bc5e7-d771-4296-9e57-0fbac7204dee</testCaseGuid>
+</TestCaseEntity>

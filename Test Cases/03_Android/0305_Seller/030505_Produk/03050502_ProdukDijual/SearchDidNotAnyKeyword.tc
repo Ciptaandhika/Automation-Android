@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Did not input any keyword</description>
+   <name>SearchDidNotAnyKeyword</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>82a797e4-4e49-4f1d-a421-1234e15b2fc8</testCaseGuid>
+</TestCaseEntity>

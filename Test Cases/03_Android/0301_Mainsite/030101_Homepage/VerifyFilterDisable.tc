@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify filter disable.</description>
+   <name>VerifyFilterDisable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a7a2f680-5093-465c-af20-7c3e77b4bc0d</testCaseGuid>
+</TestCaseEntity>

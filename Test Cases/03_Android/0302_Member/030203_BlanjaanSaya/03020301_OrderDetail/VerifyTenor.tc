@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>VerifyTenor</description>
+   <name>VerifyTenor</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b222c78c-dcbe-42ec-8939-7398108ad876</testCaseGuid>
+</TestCaseEntity>

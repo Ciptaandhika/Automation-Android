@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>close tooltip
+verify modal close</description>
+   <name>CloseTooltipDimensiProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>09a53013-4bd9-4e5c-b230-487998ae3a76</testCaseGuid>
+</TestCaseEntity>

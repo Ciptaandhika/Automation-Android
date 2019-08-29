@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3. Choose payment method BTN - Debit Online
+4. then click 'Konfirmasi Pembayaran'</description>
+   <name>ClickBTN_ClickDebitOnline_ClickBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db8255b8-e819-4b8e-9ba7-6320d789b388</testCaseGuid>
+</TestCaseEntity>

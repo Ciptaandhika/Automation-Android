@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Input Berat Produk
+Input Panjang Produk
+Input Lebar Produk
+Input Tinggi Produk</description>
+   <name>InputBeratProduk_InputPanjangProduk_InputLebarProduk_InputTinggiProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1b39fb6d-1d49-4986-a52a-c924e27fb246</testCaseGuid>
+</TestCaseEntity>

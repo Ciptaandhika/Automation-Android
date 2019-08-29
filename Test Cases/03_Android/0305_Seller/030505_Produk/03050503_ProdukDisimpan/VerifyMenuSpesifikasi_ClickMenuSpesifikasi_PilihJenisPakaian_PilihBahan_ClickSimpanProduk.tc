@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify specification menu
+klik menu spesifikasi
+klik menu jenis pakaian
+klik jenis pakaian (dress)
+klik menu bahan
+klik bahan (stainless steel)
+klik button 'Simpan'
+klik button 'Simpan Produk'</description>
+   <name>VerifyMenuSpesifikasi_ClickMenuSpesifikasi_PilihJenisPakaian_PilihBahan_ClickSimpanProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e887679d-3b2b-4a3d-9d2a-45225543ef46</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify tipe pembayaran
+verify pembayaran tipe</description>
+   <name>VerifyTipePembayaran</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1c24cd27-13d2-4fd8-a30e-a03b0c7b5484</testCaseGuid>
+</TestCaseEntity>

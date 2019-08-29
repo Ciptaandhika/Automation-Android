@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>select option bahan pertama</description>
+   <name>ClickOptionBahanPertama</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a3cf4f0b-577f-4288-953c-c2d87c6c64ba</testCaseGuid>
+</TestCaseEntity>

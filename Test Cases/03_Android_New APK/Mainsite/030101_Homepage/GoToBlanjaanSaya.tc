@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Menu Koin Blanja</description>
+   <name>GoToBlanjaanSaya</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6a88acea-1c62-45dd-a7f4-c9392d02d7bb</testCaseGuid>
+</TestCaseEntity>

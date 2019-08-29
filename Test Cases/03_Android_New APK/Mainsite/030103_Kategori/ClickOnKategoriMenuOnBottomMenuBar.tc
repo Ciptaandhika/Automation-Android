@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click o Kategori menu</description>
+   <name>ClickOnKategoriMenuOnBottomMenuBar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>04f3081b-b30e-49ee-847a-5721ba2eb3c0</testCaseGuid>
+</TestCaseEntity>

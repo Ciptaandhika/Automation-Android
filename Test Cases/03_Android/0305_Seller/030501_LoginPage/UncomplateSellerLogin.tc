@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login with uncomplated registered seller account</description>
+   <name>UncomplateSellerLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b7d8160e-2570-489d-a0cd-3b1f718bb524</testCaseGuid>
+</TestCaseEntity>

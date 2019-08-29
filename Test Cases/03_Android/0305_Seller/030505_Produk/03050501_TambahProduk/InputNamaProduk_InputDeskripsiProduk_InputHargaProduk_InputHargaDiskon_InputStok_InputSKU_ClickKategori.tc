@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Input Field Nama Produk
+Input Field Deskripsi Produk
+Input Field Harga Produk
+Input Field Harga Diskon
+Input Field Stok
+Input Field SKU
+Click Button Kategori</description>
+   <name>InputNamaProduk_InputDeskripsiProduk_InputHargaProduk_InputHargaDiskon_InputStok_InputSKU_ClickKategori</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4d4db0ae-fc24-406b-8eeb-858025168860</testCaseGuid>
+</TestCaseEntity>

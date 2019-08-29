@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>set text SKU</description>
+   <name>VerifyInputSKU</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2b936cc8-d818-464a-b1e7-974258ad8238</testCaseGuid>
+</TestCaseEntity>

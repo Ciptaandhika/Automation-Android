@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik simpan</description>
+   <name>ClickSimpanListVariant</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ae94deb4-ce15-4733-82dd-b1462c5f80f1</testCaseGuid>
+</TestCaseEntity>

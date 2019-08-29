@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify button save deactive</description>
+   <name>VerifyEditScreen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8f80ce32-3075-48b0-82dd-cfbe247c8f9d</testCaseGuid>
+</TestCaseEntity>

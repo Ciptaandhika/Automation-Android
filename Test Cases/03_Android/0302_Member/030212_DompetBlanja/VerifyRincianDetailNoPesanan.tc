@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify object no pesanan</description>
+   <name>VerifyRincianDetailNoPesanan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8b8b857f-7679-47ea-825e-54c8e5b23c64</testCaseGuid>
+</TestCaseEntity>

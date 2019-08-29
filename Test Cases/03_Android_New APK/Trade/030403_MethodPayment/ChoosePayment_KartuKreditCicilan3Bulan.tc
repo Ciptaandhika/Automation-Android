@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- tap kartu kredit cicilan
+- pilih BCA 3 Bulan</description>
+   <name>ChoosePayment_KartuKreditCicilan3Bulan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>71ec95a7-bf71-4548-80e7-55be50b38abe</testCaseGuid>
+</TestCaseEntity>

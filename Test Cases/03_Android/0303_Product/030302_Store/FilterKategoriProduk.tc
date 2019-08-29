@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click semua produk
+verify text semua produk</description>
+   <name>FilterKategoriProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf1ee781-019f-4602-b762-4fb042c9aa8d</testCaseGuid>
+</TestCaseEntity>

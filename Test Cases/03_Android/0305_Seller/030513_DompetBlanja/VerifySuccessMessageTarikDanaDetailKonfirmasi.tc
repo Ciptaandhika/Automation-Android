@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify success message: &quot;Penarikan Dana Berhasil&quot;</description>
+   <name>VerifySuccessMessageTarikDanaDetailKonfirmasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc3a5de9-0888-4f0a-8835-1e33d2316113</testCaseGuid>
+</TestCaseEntity>

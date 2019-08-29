@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>2. click menu &quot;Dompet Blanja&quot;</description>
+   <name>ClickDetailDompetBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ed0b6b17-7831-4779-991c-f40cdfd61ac7</testCaseGuid>
+</TestCaseEntity>

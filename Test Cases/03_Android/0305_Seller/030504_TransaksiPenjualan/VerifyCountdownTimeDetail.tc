@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Countdown Time Detail</description>
+   <name>VerifyCountdownTimeDetail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e822ef67-b9dd-4d97-a4c9-357b40d962e2</testCaseGuid>
+</TestCaseEntity>

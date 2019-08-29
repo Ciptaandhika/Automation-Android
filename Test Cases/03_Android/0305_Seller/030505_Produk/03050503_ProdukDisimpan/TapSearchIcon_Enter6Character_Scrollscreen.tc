@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>4. Tap Search icon
+5. Enter 6 character
+6. Scroll screen</description>
+   <name>TapSearchIcon_Enter6Character_Scrollscreen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1957353a-66d0-4341-8f60-b675f95baff7</testCaseGuid>
+</TestCaseEntity>

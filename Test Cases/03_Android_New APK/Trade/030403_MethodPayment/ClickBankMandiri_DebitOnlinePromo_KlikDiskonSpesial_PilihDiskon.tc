@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3. Select discount promotion</description>
+   <name>ClickBankMandiri_DebitOnlinePromo_KlikDiskonSpesial_PilihDiskon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6f14e11a-a821-45ef-9bc5-ec595eac1979</testCaseGuid>
+</TestCaseEntity>

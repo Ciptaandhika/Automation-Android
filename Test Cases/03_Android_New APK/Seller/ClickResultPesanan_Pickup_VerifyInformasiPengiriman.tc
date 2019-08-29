@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Order yang telah dibayar 
+Click Pick up and konfirmasi alamat</description>
+   <name>ClickResultPesanan_Pickup_VerifyInformasiPengiriman</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>227d828d-d4a8-4b2a-8692-c186a3ecef68</testCaseGuid>
+</TestCaseEntity>

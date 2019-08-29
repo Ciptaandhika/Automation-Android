@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3. Deactivate logistic TIKI - Reguler
+4. Deactivate logistic TIKI - Overnight Service
+5. Click button &quot;Simpan&quot;</description>
+   <name>DeactivateTIKIReguler_ActivateTIKIOverNightService_ClickButtonSimpan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f96fe762-788a-4863-9405-2aa1000726b7</testCaseGuid>
+</TestCaseEntity>

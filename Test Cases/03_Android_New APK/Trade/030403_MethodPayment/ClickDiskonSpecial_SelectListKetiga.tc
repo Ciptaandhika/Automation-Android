@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click diskon special, select list ketiga</description>
+   <name>ClickDiskonSpecial_SelectListKetiga</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e8c484a0-1e11-4582-8876-01f209037bfb</testCaseGuid>
+</TestCaseEntity>

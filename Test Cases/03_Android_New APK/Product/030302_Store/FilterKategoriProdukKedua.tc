@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click menu filter produk kedua
+verify kategori produk</description>
+   <name>FilterKategoriProdukKedua</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af4a9873-ce39-4b1f-8830-82404fcf9c2c</testCaseGuid>
+</TestCaseEntity>

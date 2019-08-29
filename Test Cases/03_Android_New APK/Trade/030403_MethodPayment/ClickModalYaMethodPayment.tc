@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click back in header
+Redirect to Blanjaan Saya</description>
+   <name>ClickModalYaMethodPayment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d0363498-9ac2-4d96-a87b-57f1da06075b</testCaseGuid>
+</TestCaseEntity>

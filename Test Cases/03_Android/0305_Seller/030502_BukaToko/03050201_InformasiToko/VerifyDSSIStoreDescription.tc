@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify object store description
+tap lanjutkan
+input more than 500 description</description>
+   <name>VerifyDSSIStoreDescription</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1597d52c-10b6-46cc-bf89-a30082a4184d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify object nomor rekening</description>
+   <name>VerifyRincianDetailNomorRekening</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>38310571-b25d-4292-aeab-091cef0d6e8c</testCaseGuid>
+</TestCaseEntity>

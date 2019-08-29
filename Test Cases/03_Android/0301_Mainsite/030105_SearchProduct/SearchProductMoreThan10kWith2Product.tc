@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Add to cart product from 2 Seller. Ensure that both order has total payment >= Rp. 10.000</description>
+   <name>SearchProductMoreThan10kWith2Product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7884810c-cd02-41cd-a9a4-c76357214d5e</testCaseGuid>
+</TestCaseEntity>

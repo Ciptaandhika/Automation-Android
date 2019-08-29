@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3.5 Ensure Buyer image displayed</description>
+   <name>VerifyImageBuyer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f5c60def-997c-406c-a0c3-d326fa171f7d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ClickBurgerMenu
+ClickTrasaksiPenjualanDibayar</description>
+   <name>ClickBurgerMenu_ClickTrasaksiPenjualanDibayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>369dc7cb-8ca6-4e70-8533-b95ea412dc54</testCaseGuid>
+</TestCaseEntity>

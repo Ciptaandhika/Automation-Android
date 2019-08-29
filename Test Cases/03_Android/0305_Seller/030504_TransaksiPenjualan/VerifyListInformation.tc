@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify no pesanan
+verify nama produk
+verify harga
+verify jumlah</description>
+   <name>VerifyListInformation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>646d771c-3bb3-47ba-992a-3db17a429eee</testCaseGuid>
+</TestCaseEntity>

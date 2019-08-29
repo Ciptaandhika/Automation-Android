@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click toggle on</description>
+   <name>ToggleOnDitanggungPembeli</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1b0ec7b-1a85-4d91-870f-b5a375e4fa17</testCaseGuid>
+</TestCaseEntity>

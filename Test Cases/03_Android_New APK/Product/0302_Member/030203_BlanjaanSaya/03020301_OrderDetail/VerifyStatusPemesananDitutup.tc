@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Order automatically closed</description>
+   <name>VerifyStatusPemesananDitutup</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b3ae2290-a23f-4240-8176-4538dd4f8a55</testCaseGuid>
+</TestCaseEntity>

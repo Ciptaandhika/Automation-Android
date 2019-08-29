@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Verify label 'Baru' on screen filter</description>
+   <name>VerifyFilterLabelBaru</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ce66e753-88d4-4307-a7a8-112e5b9dfde0</testCaseGuid>
+</TestCaseEntity>

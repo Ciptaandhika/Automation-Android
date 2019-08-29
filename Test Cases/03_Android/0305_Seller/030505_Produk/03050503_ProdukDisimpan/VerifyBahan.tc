@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify menu bahan</description>
+   <name>VerifyBahan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d3081b8f-b62f-4578-880c-c92c6fd262a2</testCaseGuid>
+</TestCaseEntity>

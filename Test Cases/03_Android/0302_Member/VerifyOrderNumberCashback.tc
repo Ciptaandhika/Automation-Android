@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>5. Halaman my cashback menampilkan order number, order yang di cancel oleh buyer/admin</description>
+   <name>VerifyOrderNumberCashback</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b80a6dfd-8228-4faf-acf8-a3c26f29c17d</testCaseGuid>
+</TestCaseEntity>

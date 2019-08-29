@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click menu di seller 
+click label dipesan</description>
+   <name>ClickMenu_ClickDipesan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a4b5be78-d7fc-48a9-9825-2811f8a1ff2a</testCaseGuid>
+</TestCaseEntity>

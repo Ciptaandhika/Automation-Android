@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click bank bni
+klik kartu kredit cicilan
+select cicilan 3 bulan</description>
+   <name>ClickBNI_KartuKreditCicilan_SelectCicilan3Bulan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>953f6168-99b8-4f0b-b8f2-9e849a754ce4</testCaseGuid>
+</TestCaseEntity>

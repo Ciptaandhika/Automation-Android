@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify no telepon withdrawal</description>
+   <name>VerifyNoTeleponWithdrawal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e505bb58-cb14-47f3-9f63-a595cd1a0372</testCaseGuid>
+</TestCaseEntity>

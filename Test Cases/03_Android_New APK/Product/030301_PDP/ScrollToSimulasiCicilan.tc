@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>scroll to simulasi cicilan</description>
+   <name>ScrollToSimulasiCicilan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d09c50bc-4534-4e9a-9128-f99e7def36ad</testCaseGuid>
+</TestCaseEntity>

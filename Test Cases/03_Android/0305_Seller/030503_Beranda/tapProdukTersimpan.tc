@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>2. Tap Produk tersimpan</description>
+   <name>tapProdukTersimpan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eeafb6ae-1929-4e1d-8de7-eecc22bc6de5</testCaseGuid>
+</TestCaseEntity>

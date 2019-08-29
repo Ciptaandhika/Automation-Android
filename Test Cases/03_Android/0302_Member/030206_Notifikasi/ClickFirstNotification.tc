@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click first notification</description>
+   <name>ClickFirstNotification</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>80d84850-a762-4fc8-8391-2691b33eb6c8</testCaseGuid>
+</TestCaseEntity>

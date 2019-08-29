@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify End Redeem Time</description>
+   <name>verifyEndRedeemTimeHadiahUndian</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7f2fa67e-1a16-4326-b382-c29b21175b5a</testCaseGuid>
+</TestCaseEntity>

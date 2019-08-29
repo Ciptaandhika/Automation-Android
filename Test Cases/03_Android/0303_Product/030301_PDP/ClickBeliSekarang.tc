@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>2. Buyer add to cart the product</description>
+   <name>ClickBeliSekarang</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8bb60f61-8397-491e-877e-78bcbd6ec640</testCaseGuid>
+</TestCaseEntity>

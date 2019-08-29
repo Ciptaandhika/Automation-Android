@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>input order number which paid using BRI Kartu Kredit Cicilan clicked on 'SEARCH' button
+click on button 'Details'</description>
+   <name>ClickIconSearch_InputNomerPesananUsingBRIKartuKredit_ClickPesananDetail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cb9ea6d6-4692-4e55-83bf-521cde2c0974</testCaseGuid>
+</TestCaseEntity>

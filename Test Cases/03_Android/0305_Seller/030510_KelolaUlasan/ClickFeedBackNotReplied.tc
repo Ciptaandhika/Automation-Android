@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click FeedBack that not replied by seller</description>
+   <name>ClickFeedBackNotReplied</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4e184cd6-07c0-4b68-898a-3a6dd9053c46</testCaseGuid>
+</TestCaseEntity>

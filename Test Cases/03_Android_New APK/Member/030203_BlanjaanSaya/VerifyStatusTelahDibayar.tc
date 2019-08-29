@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify status blanjaan saya = 'Telah dibayar'</description>
+   <name>VerifyStatusTelahDibayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f6efa5b3-9af8-44c5-8cce-7bb19ae1d70e</testCaseGuid>
+</TestCaseEntity>

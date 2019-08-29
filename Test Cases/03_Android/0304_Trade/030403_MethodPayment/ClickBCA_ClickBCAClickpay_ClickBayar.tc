@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click on 'Bank BCA' and then click 'BCA Clickpay' payment method then 'Bayar' the order</description>
+   <name>ClickBCA_ClickBCAClickpay_ClickBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b9ee5ba8-38ae-4156-aa50-bdab0858e16e</testCaseGuid>
+</TestCaseEntity>

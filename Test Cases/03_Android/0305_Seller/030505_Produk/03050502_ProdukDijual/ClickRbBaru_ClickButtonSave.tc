@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>2. seller change product condition
+ ie : 
+ - current cond set is 'second'
+ - modify cond set is 'New'
+ 3. seller click button 'Lanjutkan</description>
+   <name>ClickRbBaru_ClickButtonSave</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cbe3582c-3faf-489c-9436-953e01ad6497</testCaseGuid>
+</TestCaseEntity>

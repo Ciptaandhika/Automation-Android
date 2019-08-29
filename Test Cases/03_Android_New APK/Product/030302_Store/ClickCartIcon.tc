@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click icon cart</description>
+   <name>ClickCartIcon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c1fabd98-9920-4b92-8e4a-5d3aa2d84c21</testCaseGuid>
+</TestCaseEntity>

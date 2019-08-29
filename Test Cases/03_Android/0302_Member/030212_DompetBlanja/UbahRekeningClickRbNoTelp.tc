@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click radio button no telp</description>
+   <name>UbahRekeningClickRbNoTelp</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5e28439-a8e4-462f-9341-1d69dc64ef9a</testCaseGuid>
+</TestCaseEntity>

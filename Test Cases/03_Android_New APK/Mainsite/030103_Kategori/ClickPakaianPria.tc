@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Pakaian Pria
+Verify Semua Pakaian Pria</description>
+   <name>ClickPakaianPria</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7a414cc1-103f-48f3-9504-6810bb9a438c</testCaseGuid>
+</TestCaseEntity>

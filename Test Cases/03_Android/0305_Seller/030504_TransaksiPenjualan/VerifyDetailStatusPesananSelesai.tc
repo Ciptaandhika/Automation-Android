@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify status pesanan
+verify pesanan status</description>
+   <name>VerifyDetailStatusPesananSelesai</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bcd4d409-0c96-448b-8ba4-ac2d745e547b</testCaseGuid>
+</TestCaseEntity>

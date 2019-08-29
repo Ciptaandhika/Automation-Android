@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Verify reset filter on Filter screen</description>
+   <name>VerifyResetFilter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf403527-bc3b-42a5-80e5-3d229898e371</testCaseGuid>
+</TestCaseEntity>

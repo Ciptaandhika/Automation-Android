@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify jenis pakaian selected</description>
+   <name>VerifyJenisPakaianSelected</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f4ad2c59-2de7-43d9-8205-26dbcaba5102</testCaseGuid>
+</TestCaseEntity>

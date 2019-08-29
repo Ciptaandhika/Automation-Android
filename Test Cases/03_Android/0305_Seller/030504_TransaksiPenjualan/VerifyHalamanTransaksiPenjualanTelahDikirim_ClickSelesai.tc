@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>9.2 User will redirect to order management -  Telah Dikirim
+10.1 Selesai  can be tap</description>
+   <name>VerifyHalamanTransaksiPenjualanTelahDikirim_ClickSelesai</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e0b95d48-1b62-4baa-88f1-80b984302779</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- set text No HP
+- click btn aktifkan linkAja</description>
+   <name>AktifkanLinkAja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eefa7097-ca4d-481b-ade1-bddf6095107c</testCaseGuid>
+</TestCaseEntity>

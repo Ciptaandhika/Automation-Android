@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sistem akan memverifikasi button tukar hadiah langsung aktif</description>
+   <name>VerifyCardHadiahLangsungEnableButtonTukar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2faa1043-3eea-4f0e-943c-a2dffa5c0b61</testCaseGuid>
+</TestCaseEntity>

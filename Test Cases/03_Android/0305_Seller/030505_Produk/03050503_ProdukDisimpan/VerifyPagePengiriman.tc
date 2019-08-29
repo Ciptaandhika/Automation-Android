@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify header pengiriman</description>
+   <name>VerifyPagePengiriman</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f960113d-b649-4044-9c41-6221e4c7a9bd</testCaseGuid>
+</TestCaseEntity>

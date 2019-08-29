@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click bayar on blanjaan saya</description>
+   <name>ClickBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dcff4270-02af-44e5-9c93-f06cf39343f1</testCaseGuid>
+</TestCaseEntity>

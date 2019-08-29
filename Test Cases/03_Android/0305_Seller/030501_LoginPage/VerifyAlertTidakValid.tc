@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>alert ketika email lupa password belum terdaftar</description>
+   <name>VerifyAlertTidakValid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>66eb94e9-5648-4c82-9c27-ee99512aab57</testCaseGuid>
+</TestCaseEntity>

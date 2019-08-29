@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>set text SKU</description>
+   <name>InputSKUVarian</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c32dd002-7253-48d5-9a8a-2565a4b8bd45</testCaseGuid>
+</TestCaseEntity>

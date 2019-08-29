@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify empty state.</description>
+   <name>VerifyEmptyState</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5448e763-c1a7-4a1f-b04e-65b241a776fc</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Verify Rincian Harga</description>
+   <name>VerifyRincianHargaTelahDibayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac7f5e2f-8e50-4fc6-bad2-2c41b4339bd4</testCaseGuid>
+</TestCaseEntity>

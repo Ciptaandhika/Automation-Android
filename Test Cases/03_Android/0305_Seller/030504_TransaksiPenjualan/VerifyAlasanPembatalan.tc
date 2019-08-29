@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify element exist 'Alasan Pembatalan'
+Verify element exist Content on cancel reason</description>
+   <name>VerifyAlasanPembatalan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2518158-4ac5-49b8-a75c-1941859c523c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3. Choose payment method BNI - Debit Online
+ 4. then click 'Konfirmasi Pembayaran'</description>
+   <name>ClickBNI_ClickDebitOnline_ClickBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>07e52eb9-b22b-432e-8f6e-391a2b31b866</testCaseGuid>
+</TestCaseEntity>

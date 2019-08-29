@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Store owner name displayed should be same with entered data previously
+Phone number displayed should be same with entered data previously
+Store name displayed should be same with entered data previously
+Url store displayed should be same with entered data previously
+Store Description displayed should be same with entered data previously
+Store Address displayed should be same with entered data previously
+Province displayed should be same with selecte data previously
+City displayed should be same with selecte data previously
+district displayed should be same with selecte data previously
+Postal code displayed should be same with selecte data previously
+Checkbox Term of condition as a seller will be displayed
+Simpan button will be displayed</description>
+   <name>DSSIVerifyAllDataInKonfirmasiData</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cdc0558d-3b35-429d-9b4c-6cc366d19837</testCaseGuid>
+</TestCaseEntity>

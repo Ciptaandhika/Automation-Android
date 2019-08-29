@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Verify 'Urutkan' screen</description>
+   <name>VerifyUrutkanScreen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2bcfe80-fdd3-40e4-8cf6-82d3ed3bfc81</testCaseGuid>
+</TestCaseEntity>

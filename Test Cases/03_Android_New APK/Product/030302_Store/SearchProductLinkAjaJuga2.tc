@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cari Product link aja juga dari wacam toko</description>
+   <name>SearchProductLinkAjaJuga2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>446f1d9a-4a15-4288-a8f5-159effe75a2e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- set text PIN linkAja
+- click btn continue</description>
+   <name>SetPinLinkAja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d1ac8246-5faa-4861-9e59-499e60107bc4</testCaseGuid>
+</TestCaseEntity>

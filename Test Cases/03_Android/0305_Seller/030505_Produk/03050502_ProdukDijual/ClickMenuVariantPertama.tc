@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click menu variant pertama</description>
+   <name>ClickMenuVariantPertama</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da8f310d-d439-4c07-abe5-2840338a653c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>tick produk pertama</description>
+   <name>TickCheckboxprodukpertama</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea1f6b98-3f5f-44fe-ba81-982ffbc60f64</testCaseGuid>
+</TestCaseEntity>

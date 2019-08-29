@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify object menu pengiriman</description>
+   <name>VerifyMenuPengiriman</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d5e12bc9-c902-4be2-b7cd-cd92f036c028</testCaseGuid>
+</TestCaseEntity>

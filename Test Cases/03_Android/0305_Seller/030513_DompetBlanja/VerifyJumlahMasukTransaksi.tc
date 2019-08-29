@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify jumlah transaksi row teratas</description>
+   <name>VerifyJumlahMasukTransaksi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2dede31-1273-4e14-8f5a-bd5d44329b19</testCaseGuid>
+</TestCaseEntity>

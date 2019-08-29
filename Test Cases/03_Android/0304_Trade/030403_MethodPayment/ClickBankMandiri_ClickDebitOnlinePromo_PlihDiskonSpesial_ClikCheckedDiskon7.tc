@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. On cart page, select payment method which has discount bank promotion 
+ 2. Check on discount promotion dropdown</description>
+   <name>ClickBankMandiri_ClickDebitOnlinePromo_PlihDiskonSpesial_ClikCheckedDiskon7</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e653e54f-2f74-4361-94ec-b1584d29dca9</testCaseGuid>
+</TestCaseEntity>

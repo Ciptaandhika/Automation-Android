@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Choose location pinpoint
+Click button &quot;Pilih Lokasi&quot;</description>
+   <name>ChooseLocationPinPoint_ClickButtonPilihLokasi2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d4affaaa-ef7a-46d2-9351-20ce79bab2d8</testCaseGuid>
+</TestCaseEntity>

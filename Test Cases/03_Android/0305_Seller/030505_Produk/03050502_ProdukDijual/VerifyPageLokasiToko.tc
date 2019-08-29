@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify header lokasi toko</description>
+   <name>VerifyPageLokasiToko</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>336baa53-15fb-49b0-b769-bf2e601dc1f2</testCaseGuid>
+</TestCaseEntity>

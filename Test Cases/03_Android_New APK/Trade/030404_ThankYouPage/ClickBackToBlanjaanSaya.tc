@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click back in header
+Redirect to Blanjaan Saya</description>
+   <name>ClickBackToBlanjaanSaya</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b9f814ec-3eaa-4367-9bf0-c5c24a1d3e61</testCaseGuid>
+</TestCaseEntity>

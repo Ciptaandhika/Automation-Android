@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ClickBtnInfo
+ClikSayaMengerti</description>
+   <name>ClickButtonInfo_ClikSayaMengerti</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>502cadb2-b6aa-4815-84b8-04ec5a1574b8</testCaseGuid>
+</TestCaseEntity>

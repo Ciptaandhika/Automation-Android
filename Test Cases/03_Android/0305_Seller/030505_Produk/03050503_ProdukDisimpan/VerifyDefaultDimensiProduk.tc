@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify panjang = 1 
+verify lebar = 1 
+verify tinggi = 1</description>
+   <name>VerifyDefaultDimensiProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9f3cf2e9-2444-4ced-9f9c-0de3142caf24</testCaseGuid>
+</TestCaseEntity>

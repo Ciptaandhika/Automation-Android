@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>-click button grid
+-take screenshot
+-click button list
+-take screenshot</description>
+   <name>ClickBtnGrid_ClickBtnList</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2a3c379f-fe6b-49e4-85aa-eb3569f79f0b</testCaseGuid>
+</TestCaseEntity>

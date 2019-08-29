@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click on 'Batalkan Blanjaan' second card
+- When pop up appear choose 'Silahkan pilih alasan'
+- Click 'OK'</description>
+   <name>ClickBatalkanBlanjaan_ClickSilahkanPilihAlasan_ClickSayaTidakMau_SecondCard</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e1c47503-f944-43c5-9b89-99d9f640088d</testCaseGuid>
+</TestCaseEntity>

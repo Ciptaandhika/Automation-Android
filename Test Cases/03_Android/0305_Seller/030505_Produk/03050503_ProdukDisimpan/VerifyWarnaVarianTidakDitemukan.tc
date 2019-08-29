@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify label 'Warna tidak ditemukan'</description>
+   <name>VerifyWarnaVarianTidakDitemukan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>466e0888-0409-482d-a8e0-b93fba77c25b</testCaseGuid>
+</TestCaseEntity>

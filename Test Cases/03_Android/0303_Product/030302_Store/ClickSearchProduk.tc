@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click search box</description>
+   <name>ClickSearchProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>932f2fef-f44c-4e08-bb79-ac1c040b7cc2</testCaseGuid>
+</TestCaseEntity>

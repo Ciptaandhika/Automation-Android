@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify object provinsi
+tap lanjutkan
+choose provinsi</description>
+   <name>VerifyDSSIProvinsi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf37a737-9305-4850-b727-2e649673d959</testCaseGuid>
+</TestCaseEntity>

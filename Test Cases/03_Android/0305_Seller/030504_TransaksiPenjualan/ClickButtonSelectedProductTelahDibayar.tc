@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click Product on Telah Dibayar</description>
+   <name>ClickButtonSelectedProductTelahDibayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>39d39a05-978c-493c-ac53-6c42dffe79ac</testCaseGuid>
+</TestCaseEntity>

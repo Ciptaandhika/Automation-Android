@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Input field &quot;Nama Lengkap&quot;</description>
+   <name>InputFieldNamaLengkap</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f157df57-1b97-46e8-be81-ba53be202787</testCaseGuid>
+</TestCaseEntity>

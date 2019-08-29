@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify error message: &quot;Akun Virtual dibekukan&quot;</description>
+   <name>VerifyErrorMessageAkunDibekukanTarikDanaDetailKonfirmasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6fc86ab0-113c-4d83-acc7-e5cc65ba94db</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click button simpan
+input nama produk
+click button simpan</description>
+   <name>EmptyPrice_ClickButtonSave</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec529133-d2a4-4e84-a223-97bf15fb28c3</testCaseGuid>
+</TestCaseEntity>

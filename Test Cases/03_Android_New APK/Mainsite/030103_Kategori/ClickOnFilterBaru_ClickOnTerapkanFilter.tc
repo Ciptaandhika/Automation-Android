@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>-See button &quot;Terapkan Filter&quot;</description>
+   <name>ClickOnFilterBaru_ClickOnTerapkanFilter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a9adb084-68ad-4e5c-8281-e42f07b5da44</testCaseGuid>
+</TestCaseEntity>

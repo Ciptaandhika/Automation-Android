@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik menu jenis pakaian
+klik dress
+klik simpan</description>
+   <name>UbahSpesifikasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>09bc74b0-4ba0-4d7a-8bad-c3a8e9c1c6b5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tap Lihat Semua Toko
+Tap Filter
+Choose Location
+Tap button Terapkan Filter
+Verify filter result</description>
+   <name>VerifyFilterLocation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2087c600-fe0a-4f02-aa5a-cfa81c7f39ea</testCaseGuid>
+</TestCaseEntity>

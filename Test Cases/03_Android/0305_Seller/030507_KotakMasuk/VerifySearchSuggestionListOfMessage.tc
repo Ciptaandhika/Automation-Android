@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>4.3 suggestion list will be displayed</description>
+   <name>VerifySearchSuggestionListOfMessage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1fe6349b-9db6-4c3e-a126-e21b64d836e7</testCaseGuid>
+</TestCaseEntity>

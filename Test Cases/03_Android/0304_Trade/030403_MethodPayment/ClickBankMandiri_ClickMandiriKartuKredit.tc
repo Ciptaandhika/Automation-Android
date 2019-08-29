@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Clikc dropdown mandiri kartu kredit</description>
+   <name>ClickBankMandiri_ClickMandiriKartuKredit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>52bcd215-a75b-4fae-8c57-22a7dac82b17</testCaseGuid>
+</TestCaseEntity>

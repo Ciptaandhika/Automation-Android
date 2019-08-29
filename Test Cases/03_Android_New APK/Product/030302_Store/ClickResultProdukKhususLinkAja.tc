@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Hasil Pencarian Produk Khusus Link Aja</description>
+   <name>ClickResultProdukKhususLinkAja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4f4642c6-8f6f-42de-a44b-803adaef79f2</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click button tarik dana</description>
+   <name>ClickBtnTarikDana</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>faa3de0d-5a97-4dd8-8df3-d002055500b0</testCaseGuid>
+</TestCaseEntity>

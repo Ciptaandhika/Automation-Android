@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Step:
+6. Verify Recomendation item
+
+ExpectedResult :
+6.1 Product name will be displayed
+6.2 Produk Price displayed
+6.3 SKU product will be displayed
+6.4 Product Varian
+6.5 Status Product
+6.6 Reason Rejected (if any)
+6.7 Submit Product (if any)</description>
+   <name>VerifyRecomendationItem</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>119cbf78-8890-416f-8c99-1e41a45f84ca</testCaseGuid>
+</TestCaseEntity>

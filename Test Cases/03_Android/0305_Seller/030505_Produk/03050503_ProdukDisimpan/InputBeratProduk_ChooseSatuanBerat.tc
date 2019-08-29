@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>set text txtBox Berat Produk
+click cmbbx satuan berat
+verify satuan berat (gr, kg)
+pilih satuan berat
+verify satuan berat selected</description>
+   <name>InputBeratProduk_ChooseSatuanBerat</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a01d345e-935d-4631-b359-f0895baae1fc</testCaseGuid>
+</TestCaseEntity>

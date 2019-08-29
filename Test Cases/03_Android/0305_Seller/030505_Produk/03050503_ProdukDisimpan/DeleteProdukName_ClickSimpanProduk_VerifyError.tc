@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>delete text produk name
+click simpan produk
+verify error</description>
+   <name>DeleteProdukName_ClickSimpanProduk_VerifyError</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1f08aed5-76e2-4a57-a94e-a758dc4e7bef</testCaseGuid>
+</TestCaseEntity>

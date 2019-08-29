@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify ceklis merah di menu harga termahal</description>
+   <name>VerifySelectHargaTermahal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bc91890c-e102-46fc-bbde-73c698a9d586</testCaseGuid>
+</TestCaseEntity>

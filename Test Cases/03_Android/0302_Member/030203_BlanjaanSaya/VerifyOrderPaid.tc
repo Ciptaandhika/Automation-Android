@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify method pembayaran BCA VA Order Detail</description>
+   <name>VerifyOrderPaid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6b10225-d0d6-46ef-8eeb-6df8f562f0aa</testCaseGuid>
+</TestCaseEntity>

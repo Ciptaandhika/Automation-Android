@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click produk link aja 1K</description>
+   <name>ClickResultProdukLinkAja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc151be1-58f1-48e0-ba4c-10035998e2f2</testCaseGuid>
+</TestCaseEntity>

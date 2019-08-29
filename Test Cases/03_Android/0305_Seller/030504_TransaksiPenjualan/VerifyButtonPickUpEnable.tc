@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Button Pick Up Enable</description>
+   <name>VerifyButtonPickUpEnable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c773622b-f2c8-4399-bf70-17e6f6ef030c</testCaseGuid>
+</TestCaseEntity>

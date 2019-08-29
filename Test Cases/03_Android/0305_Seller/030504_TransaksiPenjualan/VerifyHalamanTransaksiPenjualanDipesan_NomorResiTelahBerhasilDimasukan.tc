@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Halaman  Transaksi Penjualan
+Show Information Nomor Resi Telah Berhasil Dimasukan</description>
+   <name>VerifyHalamanTransaksiPenjualanDipesan_NomorResiTelahBerhasilDimasukan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>19f95fd6-d4f5-4285-b7c9-6b5ba0a72cd6</testCaseGuid>
+</TestCaseEntity>

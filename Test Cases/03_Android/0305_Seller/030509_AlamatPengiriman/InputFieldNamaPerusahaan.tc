@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Input company name</description>
+   <name>InputFieldNamaPerusahaan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c6394807-bf02-4774-8fb7-21da80207f81</testCaseGuid>
+</TestCaseEntity>

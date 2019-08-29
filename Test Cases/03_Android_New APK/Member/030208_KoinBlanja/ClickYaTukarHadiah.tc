@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+<<<<<<< HEAD:Test Cases/03_Android_New APK/Member/030208_KoinBlanja/ClickYaKetentuanHadiahLangsung.tc
+   <description>clik button ya</description>
+   <name>ClickYaKetentuanHadiahLangsung</name>
+=======
+   <description></description>
+   <name>ClickYaTukarHadiah</name>
+>>>>>>> d0897f8686fe60edf4d21e13d0aa08d02ec649ac:Test Cases/03_Android_New APK/Member/030208_KoinBlanja/ClickYaTukarHadiah.tc
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8b2eb370-7b67-4dbf-b324-6f8f4ddf4822</testCaseGuid>
+</TestCaseEntity>

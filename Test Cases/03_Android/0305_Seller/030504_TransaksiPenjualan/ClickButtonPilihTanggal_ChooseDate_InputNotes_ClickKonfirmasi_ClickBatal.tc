@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ClickButtonPilihTanggal
+ChooseDate_InputNotes
+ClickKonfirmasi
+ClickBatal</description>
+   <name>ClickButtonPilihTanggal_ChooseDate_InputNotes_ClickKonfirmasi_ClickBatal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5ea506a-f698-4aca-bd21-682b1ff455d8</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ClickT ukar Koin pada Hadiah Undian</description>
+   <name>ClickTukarKoin_HadiahUndian</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9c0a68f0-2260-4f7a-8b87-a49ea7f31058</testCaseGuid>
+</TestCaseEntity>

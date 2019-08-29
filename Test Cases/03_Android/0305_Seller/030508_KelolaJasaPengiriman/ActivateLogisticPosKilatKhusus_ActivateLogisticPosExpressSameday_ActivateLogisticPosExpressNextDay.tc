@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Activate logistic Pos Indonesia - Pos Kilat Khusus
+- Activate logistic Pos Indonesia - Pos Express Sameday
+- Activate logistic Pos Indonesia - Pos Express Next Day
+- Click button &quot;Simpan&quot;</description>
+   <name>ActivateLogisticPosKilatKhusus_ActivateLogisticPosExpressSameday_ActivateLogisticPosExpressNextDay</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3e488f18-a28e-49cd-b9a3-4944aafa5efb</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Tap on one of template
+- Ensure message sent</description>
+   <name>VerifyBubbleChatAsSellerBarangReady</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1426a9a2-b201-4b3b-81c7-ee2e3b1766f8</testCaseGuid>
+</TestCaseEntity>

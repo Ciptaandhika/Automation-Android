@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click icon Plus
+Click icon Min</description>
+   <name>VerifyIconAddRedQty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>64615b0c-b732-4d29-901a-9c524767fdaa</testCaseGuid>
+</TestCaseEntity>

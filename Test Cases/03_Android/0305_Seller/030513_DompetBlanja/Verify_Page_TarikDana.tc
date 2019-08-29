@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik Tarik Dana
+- Verify Halaman Tarik Dana</description>
+   <name>Verify_Page_TarikDana</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>81c849df-98cb-4a3b-a348-5591db9659b6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>input txtbox sku</description>
+   <name>InputPilihanVariantSKU</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5cfa5e76-fd5f-46b3-9db7-2500483c035a</testCaseGuid>
+</TestCaseEntity>

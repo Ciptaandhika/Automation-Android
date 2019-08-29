@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Tap Back button</description>
+   <name>ClickButtonBackPesananTelahDibayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ecc0f63d-d725-4fe5-b02d-71c27b9eb6e5</testCaseGuid>
+</TestCaseEntity>

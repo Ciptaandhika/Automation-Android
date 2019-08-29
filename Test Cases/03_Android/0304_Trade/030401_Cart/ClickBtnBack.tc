@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click button icon back</description>
+   <name>ClickBtnBack</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af4f94ff-ee12-44c0-b29e-e919f1d70c36</testCaseGuid>
+</TestCaseEntity>

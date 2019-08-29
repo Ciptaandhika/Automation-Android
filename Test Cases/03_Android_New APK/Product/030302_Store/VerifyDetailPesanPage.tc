@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify detail pesan page</description>
+   <name>VerifyDetailPesanPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cb6e0cbe-18fe-493a-8ede-b9469ee8bc46</testCaseGuid>
+</TestCaseEntity>

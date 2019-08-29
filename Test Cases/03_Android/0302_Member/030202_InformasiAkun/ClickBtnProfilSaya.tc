@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click button profil saya</description>
+   <name>ClickBtnProfilSaya</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ce0b0a03-bc03-4126-bc1e-1fdd0a713023</testCaseGuid>
+</TestCaseEntity>

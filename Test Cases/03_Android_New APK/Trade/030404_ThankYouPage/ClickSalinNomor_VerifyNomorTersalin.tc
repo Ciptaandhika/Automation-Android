@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click salin nomor
+verify nomor tersalin</description>
+   <name>ClickSalinNomor_VerifyNomorTersalin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>348cd935-fff6-4c47-9014-75e7adc62d0d</testCaseGuid>
+</TestCaseEntity>

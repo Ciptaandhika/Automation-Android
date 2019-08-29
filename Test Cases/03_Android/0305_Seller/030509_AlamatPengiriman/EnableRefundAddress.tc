@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Enable refund address</description>
+   <name>EnableRefundAddress</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5755bb80-3e64-4c34-8c83-7150ae8cf677</testCaseGuid>
+</TestCaseEntity>

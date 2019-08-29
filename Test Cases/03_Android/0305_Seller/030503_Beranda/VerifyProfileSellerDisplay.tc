@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3.2 Profile seller will be displayed
+3.2.2 Store logo will be displayed
+3.2.3  Email will be displayed</description>
+   <name>VerifyProfileSellerDisplay</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>85a766f7-e5c5-443f-92df-33d4ab4eb1cb</testCaseGuid>
+</TestCaseEntity>

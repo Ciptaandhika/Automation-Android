@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click tooltip on logistic provider First Logistic - Reguler</description>
+   <name>ClickToolTipFirstLogisticReguler</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>64bed049-7826-403f-88d7-eb5e95bee8f0</testCaseGuid>
+</TestCaseEntity>

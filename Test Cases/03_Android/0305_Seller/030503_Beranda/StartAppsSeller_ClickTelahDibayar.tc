@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Start Apps Seller
+Click Telah dibayar
+Click cardPesanan
+Click Kirim Pesanan
+Input Resi
+Click Konfirmasi
+Klik Lanjutkan</description>
+   <name>StartAppsSeller_ClickTelahDibayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>abe67cbd-176a-4461-aa4a-d9d91edbd941</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tap field Pencarian
+Set Provice</description>
+   <name>SearchProvince</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b020120e-34e2-445c-841f-8f2198950f8b</testCaseGuid>
+</TestCaseEntity>

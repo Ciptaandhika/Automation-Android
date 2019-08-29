@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify installment cicilan
+- get text biaya cicilan
+- klik button bayar</description>
+   <name>Verify_Cicilan_And_Click_Bayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>58b46bf9-1cc8-490f-ba10-56a24d042c08</testCaseGuid>
+</TestCaseEntity>

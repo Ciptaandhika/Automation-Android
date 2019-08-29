@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>2. Tap Notification menu</description>
+   <name>TapButtonNotification</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>557019ec-434f-4275-a667-218ad5783403</testCaseGuid>
+</TestCaseEntity>

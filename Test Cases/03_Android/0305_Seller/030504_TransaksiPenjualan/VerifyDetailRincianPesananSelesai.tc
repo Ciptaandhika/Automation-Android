@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3.1 Name of product will be displayed
+3.2 Price will be displayed
+3.3 Quantity Will be displayed
+3.4 Email / No Tlp will be displayed
+3.5 Catatan Pembeli will be displayed</description>
+   <name>VerifyDetailRincianPesananSelesai</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5d847461-7464-4814-b6e4-7d3cafdefc3b</testCaseGuid>
+</TestCaseEntity>

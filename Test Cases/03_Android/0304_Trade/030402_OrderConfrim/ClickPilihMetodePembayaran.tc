@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>2. Buyer add to cart the product</description>
+   <name>ClickPilihMetodePembayaran</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3e5bc491-265c-492e-ad7e-e6d6c0c3e6b4</testCaseGuid>
+</TestCaseEntity>

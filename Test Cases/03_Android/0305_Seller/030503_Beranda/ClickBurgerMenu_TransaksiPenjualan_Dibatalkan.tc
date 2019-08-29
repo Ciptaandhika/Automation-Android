@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. seller click menu 'Transaksi Penjualan'
+2. click on tab 'DIPESAN'</description>
+   <name>ClickBurgerMenu_TransaksiPenjualan_Dibatalkan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>263f71e9-51f9-4ac6-8879-37708f67df04</testCaseGuid>
+</TestCaseEntity>

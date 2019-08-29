@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify order number</description>
+   <name>VerifyOrderNumber</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b0514733-e1ce-4e91-827d-3a639fc14eb9</testCaseGuid>
+</TestCaseEntity>

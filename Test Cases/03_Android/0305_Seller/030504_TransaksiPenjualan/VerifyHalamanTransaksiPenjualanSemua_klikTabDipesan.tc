@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>6.2 User will redirect to order management - Semua
+7. Tap on Dipesan</description>
+   <name>VerifyHalamanTransaksiPenjualanSemua_klikTabDipesan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7e4c7169-901d-432b-bf63-2f103755cb47</testCaseGuid>
+</TestCaseEntity>

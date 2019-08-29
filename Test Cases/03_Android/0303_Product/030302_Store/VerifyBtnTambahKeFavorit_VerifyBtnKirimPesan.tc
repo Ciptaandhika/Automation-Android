@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify btn tambah ke favorit
+verify btn kirim pesan</description>
+   <name>VerifyBtnTambahKeFavorit_VerifyBtnKirimPesan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>acc1685b-6fd4-40cc-b4fe-2a2a804ff006</testCaseGuid>
+</TestCaseEntity>

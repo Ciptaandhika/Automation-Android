@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3.2 ensure, another order which do onetime checkout, order state still 'Placed'</description>
+   <name>VerifyOrderPlaced</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d5893522-2334-492b-9031-8c8c921cad40</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3. Go to tab 'PEMASUKAN'</description>
+   <name>VerifyTabPenarikan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>800b7c6f-8372-4a03-8cd8-f31ad391e5df</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sistem akan memverifikasi halaman login</description>
+   <name>VerifikasiNonMember</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7e752e6c-c4a8-459b-aace-1286b7202d58</testCaseGuid>
+</TestCaseEntity>

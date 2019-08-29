@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify page success register as seller</description>
+   <name>VerifyPageSuccessRegisterAsSeller</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7dfd757a-227b-4d06-a4c2-7c2da40e29bf</testCaseGuid>
+</TestCaseEntity>

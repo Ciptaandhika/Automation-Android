@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Expand Search</description>
+   <name>VerifyExpandSearch</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dbdbf280-2f17-4307-b02b-9b0a1cb4e7a6</testCaseGuid>
+</TestCaseEntity>

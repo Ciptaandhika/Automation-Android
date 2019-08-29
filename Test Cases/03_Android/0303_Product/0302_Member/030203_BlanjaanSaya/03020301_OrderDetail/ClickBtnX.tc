@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>6. Click X button or clicks on pop-up background</description>
+   <name>ClickBtnX</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0cef765d-7196-4cb8-a22c-031450f9cb14</testCaseGuid>
+</TestCaseEntity>

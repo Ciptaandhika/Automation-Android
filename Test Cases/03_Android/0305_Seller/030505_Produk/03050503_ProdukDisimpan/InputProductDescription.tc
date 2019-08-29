@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>input product description (Minimal Character 1 and Maximal 2000 character)</description>
+   <name>InputProductDescription</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>00191caf-9f5b-4151-8a93-f4f2f5291093</testCaseGuid>
+</TestCaseEntity>

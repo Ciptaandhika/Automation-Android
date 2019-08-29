@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify :
+1. image icon
+2. informasi &quot;Anda Berhasil Buka Toko&quot;
+3. informasi Information text &quot;Selamat! Anda berhasil membuka {user store name} Yuk upload produk kamu sebanyak-banyaknya! Dapatkan kesempatan toko kamu untuk dipromosikan dengan mengupload lebih dari 10 produk di BLANJA.com
+4. button Tambahkan Produk
+5. href Masuk ke Toko Saya</description>
+   <name>VerifySuccessRegisterAsSellerScreen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c3c5feee-7f81-4747-a2b4-496dc009e6b9</testCaseGuid>
+</TestCaseEntity>

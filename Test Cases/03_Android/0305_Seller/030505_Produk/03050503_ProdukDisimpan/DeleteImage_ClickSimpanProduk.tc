@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>hapus satu gambar
+klik button simpan produk</description>
+   <name>DeleteImage_ClickSimpanProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4ee56576-80de-4f46-9274-81a9338f4d55</testCaseGuid>
+</TestCaseEntity>

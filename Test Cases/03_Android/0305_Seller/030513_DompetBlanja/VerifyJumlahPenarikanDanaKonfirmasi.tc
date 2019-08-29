@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify jumlah transaksi withdrawal</description>
+   <name>VerifyJumlahPenarikanDanaKonfirmasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>18853717-dc87-40e3-a7cf-7d779a90ea7a</testCaseGuid>
+</TestCaseEntity>

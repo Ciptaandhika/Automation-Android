@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click tooltip on logistic provider TIKI - Over Night Service</description>
+   <name>ClickToolTipTIKIOverNightService</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e0f2d48a-5b1e-4042-b44a-99ee7e97ad10</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Kembali ke Kategori Sebelumnya</description>
+   <name>ClickKembalikeKategoriSebelumnya</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dcf9cac5-de0d-482e-a90c-c35b3f42b49e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify number in cart</description>
+   <name>VerifyNumberInCart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f4bc0baa-d528-40fb-a74e-97326cf45d20</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Chat with Buyer As Seller</description>
+   <name>TypingMessageAsSeller_ClickSend</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8f6e149f-1a8b-4d35-bfd3-1652dd060e7e</testCaseGuid>
+</TestCaseEntity>

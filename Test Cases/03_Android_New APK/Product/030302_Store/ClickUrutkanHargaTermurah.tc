@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click produk terlaris</description>
+   <name>ClickUrutkanHargaTermurah</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f880a28a-5688-4ca4-876b-d09f4660eb47</testCaseGuid>
+</TestCaseEntity>

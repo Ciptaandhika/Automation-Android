@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click menu Masuk | Daftar</description>
+   <name>ClickMasukDaftar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db726806-d519-4ef4-998d-33f31e7a16a8</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify object parent gender
+verify radio button pria
+verify radio button wanita
+tap radio button pria
+tap radio button wanita</description>
+   <name>VerifyRbGender_TapRbPria_TapRbWanita</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>34b7f7fc-033a-4163-8c19-1eb68a42c6f5</testCaseGuid>
+</TestCaseEntity>

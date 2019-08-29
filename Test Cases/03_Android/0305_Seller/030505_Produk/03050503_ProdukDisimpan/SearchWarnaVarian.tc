@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>tap text box
+set text warna varian
+search</description>
+   <name>SearchWarnaVarian</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>53bb31b6-ac5f-461c-be88-6fd81e5b168e</testCaseGuid>
+</TestCaseEntity>

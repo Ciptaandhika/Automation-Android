@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pembayaran menggunakan LinkAja
+Popup informasi Ok saya mengerti</description>
+   <name>ClickLinkAja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad2ca43f-dbeb-4589-9016-f1618d4e882d</testCaseGuid>
+</TestCaseEntity>

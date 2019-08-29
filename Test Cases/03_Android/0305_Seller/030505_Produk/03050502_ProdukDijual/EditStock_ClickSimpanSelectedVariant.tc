@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>edit stock
+klik simpan</description>
+   <name>EditStock_ClickSimpanSelectedVariant</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6826137-de54-46d3-946d-215dbc1faeee</testCaseGuid>
+</TestCaseEntity>

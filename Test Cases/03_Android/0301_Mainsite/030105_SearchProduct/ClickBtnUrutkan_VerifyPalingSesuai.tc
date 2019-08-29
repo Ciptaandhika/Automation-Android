@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>-click button urutkan
+-screenshot urutkan</description>
+   <name>ClickBtnUrutkan_VerifyPalingSesuai</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0cba1421-dbdc-4ba2-99f9-060e2ebf84fc</testCaseGuid>
+</TestCaseEntity>

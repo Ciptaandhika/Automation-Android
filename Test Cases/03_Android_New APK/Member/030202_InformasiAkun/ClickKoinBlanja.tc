@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click koin blanja</description>
+   <name>ClickKoinBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>312c1ce7-5308-4334-93bd-329874c14314</testCaseGuid>
+</TestCaseEntity>

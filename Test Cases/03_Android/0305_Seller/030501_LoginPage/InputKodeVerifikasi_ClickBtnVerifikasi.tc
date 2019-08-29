@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>delay 1 menit</description>
+   <name>InputKodeVerifikasi_ClickBtnVerifikasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>87f2cef5-cd85-4748-bdf2-e814559e196b</testCaseGuid>
+</TestCaseEntity>

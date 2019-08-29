@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Scroll to text
+Click btn tukar</description>
+   <name>ClickKuponKopiTiam</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a4536c48-83af-411b-b7f6-5b8456218c30</testCaseGuid>
+</TestCaseEntity>

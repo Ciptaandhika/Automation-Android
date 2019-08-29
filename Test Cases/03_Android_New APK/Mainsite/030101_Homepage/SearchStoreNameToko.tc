@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search store name.</description>
+   <name>SearchStoreNameToko</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>16d0f28e-2e98-4dd3-b37d-bb5639210ad3</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Delete Button</description>
+   <name>VerifyDeleteButton</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9cdce6eb-8b39-4676-845b-79bf302a0b4a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify input kode verifikasi
+set text kode verifikasi</description>
+   <name>VerifyInputKodeVerifikasi_InputKodeVerifikasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e895b53f-0fb6-470b-a67b-8e8fdb000d8e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Scroll One Time Telah Dibayar</description>
+   <name>ScrollOneTimeTelahDibayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6de1774b-ca55-465d-998f-f79b44787bff</testCaseGuid>
+</TestCaseEntity>

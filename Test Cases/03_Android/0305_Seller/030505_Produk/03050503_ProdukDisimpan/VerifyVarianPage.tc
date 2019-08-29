@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify halaman varian</description>
+   <name>VerifyVarianPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b571460b-0ad1-4905-8345-d5eb59ee5fc1</testCaseGuid>
+</TestCaseEntity>

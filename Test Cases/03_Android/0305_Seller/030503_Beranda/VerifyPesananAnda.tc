@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3. Verify Summary of my order section</description>
+   <name>VerifyPesananAnda</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e268e20f-e1ba-4091-b435-3bf95e02028b</testCaseGuid>
+</TestCaseEntity>

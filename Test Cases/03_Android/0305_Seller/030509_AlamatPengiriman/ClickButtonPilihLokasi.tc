@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click on button &quot;Pilih Lokasi&quot; Set pinpoint GO-SEND</description>
+   <name>ClickButtonPilihLokasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b0940a82-467b-4c09-a06f-df0544c15270</testCaseGuid>
+</TestCaseEntity>

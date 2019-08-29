@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify title message
+verify detail message
+verify date message</description>
+   <name>VerifyTitleDetailDateMessage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5719eba6-e6f9-4e75-baad-6d68106817e3</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Menunggu Pembayaran</description>
+   <name>ClickMenungguPembayaran</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7ee316e4-565d-46fe-ade0-578d6a3702f1</testCaseGuid>
+</TestCaseEntity>

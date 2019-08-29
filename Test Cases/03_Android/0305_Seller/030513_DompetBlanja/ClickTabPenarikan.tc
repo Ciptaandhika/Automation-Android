@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3. Go to tab 'PENARIKAN'</description>
+   <name>ClickTabPenarikan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef6ad093-be3e-4245-9e58-c76981fb7d32</testCaseGuid>
+</TestCaseEntity>

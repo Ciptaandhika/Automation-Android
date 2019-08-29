@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Jasa dan Layanan Pengiriman Pos Indonesia - Pos Express Same Day</description>
+   <name>VerifyJasadanLayananPengirimanPosIndonesia-PosExpressSameDay</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6265cb4-1ca2-494f-b8ee-756b95a368e6</testCaseGuid>
+</TestCaseEntity>

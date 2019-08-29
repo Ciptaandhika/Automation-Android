@@ -1,0 +1,15 @@
+*.class
+*.swp
+Libs/TempTestCase*
+Libs/TempTestSuite*
+bin/lib/TempTestCase*
+Reports/
+*.txt
+*.classpath
+*.project
+Profiles/staging.glbl
+appium.log
+bin/
+Libs/
+Libs/internal/GlobalVariable.groovy
+.DS_Store

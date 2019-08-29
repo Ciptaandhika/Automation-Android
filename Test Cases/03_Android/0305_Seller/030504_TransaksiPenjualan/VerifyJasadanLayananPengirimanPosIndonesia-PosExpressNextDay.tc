@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Jasa dan Layanan Pengiriman Pos Indonesia - Pos Express Next Day</description>
+   <name>VerifyJasadanLayananPengirimanPosIndonesia-PosExpressNextDay</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>704b18c2-d7d3-401f-aa9d-c094e5c79ad4</testCaseGuid>
+</TestCaseEntity>

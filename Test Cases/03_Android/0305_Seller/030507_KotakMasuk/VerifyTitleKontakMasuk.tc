@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3.2 &quot;Kotak Masuk&quot; will be displayed as title of screen</description>
+   <name>VerifyTitleKontakMasuk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a266fae9-05e5-4aff-b3b9-f52a8bba0622</testCaseGuid>
+</TestCaseEntity>

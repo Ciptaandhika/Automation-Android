@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Tap on Checkbox for product want to deleted
+- Tap Hapus button</description>
+   <name>TapCheckBoxHapusProduk_TapHapusButton</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b116c422-f0cc-4767-97b6-0e97b68a5dc2</testCaseGuid>
+</TestCaseEntity>

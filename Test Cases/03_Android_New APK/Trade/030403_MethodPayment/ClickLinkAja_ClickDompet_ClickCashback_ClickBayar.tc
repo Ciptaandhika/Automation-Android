@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click Link Aja
+- Click Bayar</description>
+   <name>ClickLinkAja_ClickDompet_ClickCashback_ClickBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d510f043-0e8b-4ec8-abf5-b512bf078d5c</testCaseGuid>
+</TestCaseEntity>

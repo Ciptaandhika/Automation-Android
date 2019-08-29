@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Deactivate logistic Pos Indonesia - Pos Kilat Khusus
+- Deactivate logistic Pos Indonesia - Pos Express Next Day
+- Deactivate logistic Pos Indonesia - Pos Express Same Day</description>
+   <name>DeactivateLogisticPosKilatKhusus_DeactivateLogisticPosExpressSameday_DeactivateLogisticPosExpressNextDay</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3b7d478f-4aa1-4efc-9acd-5c0c889c9b8a</testCaseGuid>
+</TestCaseEntity>

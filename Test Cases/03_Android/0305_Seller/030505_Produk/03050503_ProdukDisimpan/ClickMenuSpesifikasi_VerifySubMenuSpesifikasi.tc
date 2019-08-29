@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click menu spesifikasi
+verify sub menu spesifikasi :
+	- jenis pakaian
+	- ukuran
+	- bahan
+	- kapasitas ukuran</description>
+   <name>ClickMenuSpesifikasi_VerifySubMenuSpesifikasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8a4b15e9-1379-4816-a215-fe23857401a9</testCaseGuid>
+</TestCaseEntity>

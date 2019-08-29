@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Verify button non aktif 'Terapkan Filter'</description>
+   <name>VerifyNonAktifButtonTerapkanFilter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9aee2234-adfa-4e6b-85a3-569988f22847</testCaseGuid>
+</TestCaseEntity>

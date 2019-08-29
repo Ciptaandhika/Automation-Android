@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Activate some logistic providers</description>
+   <name>ActivateSomeLogistic</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5928a6d1-e4fc-43f4-a6ec-6a04cb009a24</testCaseGuid>
+</TestCaseEntity>

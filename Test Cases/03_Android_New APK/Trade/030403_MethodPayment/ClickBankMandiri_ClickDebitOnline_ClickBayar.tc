@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3. Choose payment method Mandiri - Debit Online
+ 4. then click 'Konfirmasi Pembayaran'</description>
+   <name>ClickBankMandiri_ClickDebitOnline_ClickBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7aeaa745-19f3-489a-b718-b930badcc86b</testCaseGuid>
+</TestCaseEntity>

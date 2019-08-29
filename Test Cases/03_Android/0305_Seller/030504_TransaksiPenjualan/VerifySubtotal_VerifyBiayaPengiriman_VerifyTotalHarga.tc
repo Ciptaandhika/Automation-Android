@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>VerifySubtotal
+VerifyBiayaPengiriman
+VerifyTotalHarga</description>
+   <name>VerifySubtotal_VerifyBiayaPengiriman_VerifyTotalHarga</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad461879-20eb-4f05-8dd2-32dbf3bade27</testCaseGuid>
+</TestCaseEntity>

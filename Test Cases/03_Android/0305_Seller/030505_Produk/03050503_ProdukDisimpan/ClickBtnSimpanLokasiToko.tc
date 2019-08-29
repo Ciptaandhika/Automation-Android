@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>clik btn simpan lokasi toko</description>
+   <name>ClickBtnSimpanLokasiToko</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>00b246b2-9cc6-46af-b7c8-b42aad16af4f</testCaseGuid>
+</TestCaseEntity>

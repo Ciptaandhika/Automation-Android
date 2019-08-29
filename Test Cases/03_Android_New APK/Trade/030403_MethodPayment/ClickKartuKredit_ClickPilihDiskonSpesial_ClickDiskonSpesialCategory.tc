@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Go to choose payment page
+ 2. On choose payment page, select bank promotion on dropdown list</description>
+   <name>ClickKartuKredit_ClickPilihDiskonSpesial_ClickDiskonSpesialCategory</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac60332d-31f9-49f9-8a57-b4d52e0b8869</testCaseGuid>
+</TestCaseEntity>

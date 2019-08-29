@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click simpan spesifikasi</description>
+   <name>ClickSimpanSpesifikasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a4eaa3b9-a82e-42ef-9c53-31d7d9b2c19e</testCaseGuid>
+</TestCaseEntity>

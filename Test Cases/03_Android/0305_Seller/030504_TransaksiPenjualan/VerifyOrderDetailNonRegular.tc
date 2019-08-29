@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify label order tidak dapat dilihat
+verify label informasi order tidak dapat dilihat</description>
+   <name>VerifyOrderDetailNonRegular</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c6de29fb-b1ed-4072-9a7c-92898e437bd6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Button Perpanjang Waktu Kirim</description>
+   <name>VerifyButtonPerpanjangWaktuKirim</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>07e3ea62-2f3f-44fd-8bac-83c2655faea4</testCaseGuid>
+</TestCaseEntity>

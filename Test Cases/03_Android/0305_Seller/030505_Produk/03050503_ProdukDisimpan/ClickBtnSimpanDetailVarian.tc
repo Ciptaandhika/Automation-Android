@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click button simpan di halaman detail varian</description>
+   <name>ClickBtnSimpanDetailVarian</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6377d0e0-ed47-425d-846d-6595be129255</testCaseGuid>
+</TestCaseEntity>

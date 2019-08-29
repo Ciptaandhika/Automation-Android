@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Verify new style on Searching Page</description>
+   <name>VerifyNewStyleSearchingPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd800ac4-83df-4a49-8b4f-a7656194d7bf</testCaseGuid>
+</TestCaseEntity>

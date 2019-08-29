@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify error nama</description>
+   <name>VerifyErrorNama</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e110c0a6-3a7e-4baf-9e74-e16e8cf25a8a</testCaseGuid>
+</TestCaseEntity>

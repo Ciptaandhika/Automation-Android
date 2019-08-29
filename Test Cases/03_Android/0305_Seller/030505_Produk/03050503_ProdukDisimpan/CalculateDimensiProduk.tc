@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>calculate dimensi produk
+rumus : (p*l*t)/(6000)*1kg</description>
+   <name>CalculateDimensiProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>34dc669a-183e-4eb1-b32e-de3638393b0a</testCaseGuid>
+</TestCaseEntity>

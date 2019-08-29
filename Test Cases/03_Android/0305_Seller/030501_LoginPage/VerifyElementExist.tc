@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>2. Verify Login screen</description>
+   <name>VerifyElementExist</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e0ea7d2c-bf6f-48b4-99d2-4a0025315b3c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click Burger Menu
+- Click Kelola Jasa Pengiriman</description>
+   <name>ClickBurgerMenu_ClickKelolaJasaPengiriman</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7ba62d7e-115a-44d4-b328-0f65cba6eae0</testCaseGuid>
+</TestCaseEntity>

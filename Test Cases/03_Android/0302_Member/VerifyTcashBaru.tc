@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Tcash Baru</description>
+   <name>VerifyTcashBaru</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>beb22f06-e899-44ef-987e-eb62c6871169</testCaseGuid>
+</TestCaseEntity>

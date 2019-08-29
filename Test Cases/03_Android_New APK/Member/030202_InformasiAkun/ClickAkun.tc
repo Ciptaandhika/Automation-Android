@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik akun</description>
+   <name>ClickAkun</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7516e61c-18da-4746-8647-b7a2100b5d58</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search store name.</description>
+   <name>SearchStoreNameSuspendByAdmin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d57c8694-60aa-4c4b-bb51-f867b85c2db2</testCaseGuid>
+</TestCaseEntity>

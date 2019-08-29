@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Scroll to konfirmasi
+Click konfirmasi
+click modal ya</description>
+   <name>ScrollToKonfirmasi_ClickKonfirmasi_ClickModalYA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2eb3587-a55a-456e-81db-bf523cd9b570</testCaseGuid>
+</TestCaseEntity>

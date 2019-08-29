@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify result page filter.</description>
+   <name>VerifyResultPageFilter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5b76a6cd-de14-47d8-b3b6-31e491e3f7ef</testCaseGuid>
+</TestCaseEntity>

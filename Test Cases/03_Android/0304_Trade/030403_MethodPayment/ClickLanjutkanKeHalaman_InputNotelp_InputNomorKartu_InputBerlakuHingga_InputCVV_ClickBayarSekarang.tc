@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click lanjutkan ke halaman
+Input no telp
+input nomor kartu
+input berlaku hingga
+input cvv
+click bayar sekarang</description>
+   <name>ClickLanjutkanKeHalaman_InputNotelp_InputNomorKartu_InputBerlakuHingga_InputCVV_ClickBayarSekarang</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8825a22b-3279-457e-9330-89eb1c7fa30c</testCaseGuid>
+</TestCaseEntity>

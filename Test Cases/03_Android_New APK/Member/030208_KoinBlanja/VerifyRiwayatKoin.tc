@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify element exist
+Verify element exist</description>
+   <name>VerifyRiwayatKoin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cde1491b-6832-4e59-958d-e2626126a37f</testCaseGuid>
+</TestCaseEntity>

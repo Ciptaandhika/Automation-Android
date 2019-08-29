@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify header display
+verify back button
+verify kode keamanan telah dikirim
+veriy kode keamanan field
+verify belum menerima kode</description>
+   <name>VerifyVerificationTeleponPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2f34415b-1018-4c6f-b634-0139379c61cc</testCaseGuid>
+</TestCaseEntity>

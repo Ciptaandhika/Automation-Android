@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Display pop up 'Anda tidak bisa menggunakan promosi ini'</description>
+   <name>VerifyAlertPromoTidakBisaDigunakan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d78dbfdf-a6d1-4b06-99fa-40e74d35f633</testCaseGuid>
+</TestCaseEntity>

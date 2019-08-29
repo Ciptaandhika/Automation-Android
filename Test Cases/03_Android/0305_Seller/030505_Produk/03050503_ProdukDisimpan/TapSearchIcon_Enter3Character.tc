@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Tap Search icon
+- Enter 3 character</description>
+   <name>TapSearchIcon_Enter3Character</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4457604c-dee0-4fa5-9a4d-cefdcf45746c</testCaseGuid>
+</TestCaseEntity>

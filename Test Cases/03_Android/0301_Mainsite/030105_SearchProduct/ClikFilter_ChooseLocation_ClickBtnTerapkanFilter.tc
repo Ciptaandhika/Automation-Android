@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>-click button filter
+-click comboBox DKI jakarta
+-click button terapkan filter</description>
+   <name>ClikFilter_ChooseLocation_ClickBtnTerapkanFilter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b9aa279a-25e0-406d-9c34-070284e03df5</testCaseGuid>
+</TestCaseEntity>

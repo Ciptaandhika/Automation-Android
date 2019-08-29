@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify waktu pemesanan
+verify total pesanan
+verify list order dibatalkan</description>
+   <name>VerifyListOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c156727f-4a64-49a8-b734-a932c049af74</testCaseGuid>
+</TestCaseEntity>

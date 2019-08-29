@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Icon Tcash</description>
+   <name>VerifyIconTcash</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9d730d0-a88b-4b39-9d09-6442ed95a96c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Verify DITURUNKAN tab</description>
+   <name>ClickDiturunkanTab</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af99a31d-9530-4385-8dd1-03a99e615767</testCaseGuid>
+</TestCaseEntity>

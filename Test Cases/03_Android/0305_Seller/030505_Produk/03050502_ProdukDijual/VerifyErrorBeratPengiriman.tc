@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>empty field berat
+verify error berat</description>
+   <name>VerifyErrorBeratPengiriman</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f824d906-efad-458a-b42e-d1a38b634e55</testCaseGuid>
+</TestCaseEntity>

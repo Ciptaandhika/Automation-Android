@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensure that all category appears on top of the page</description>
+   <name>VerifyCategoryOnTop</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dfac8196-741e-46c2-81e4-61a65ce1e4ca</testCaseGuid>
+</TestCaseEntity>

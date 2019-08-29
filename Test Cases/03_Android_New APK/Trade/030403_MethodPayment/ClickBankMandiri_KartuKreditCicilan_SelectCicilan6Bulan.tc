@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click mandiri 
+click kartu kredit cicilan
+pilih cicilan 6 bulan</description>
+   <name>ClickBankMandiri_KartuKreditCicilan_SelectCicilan6Bulan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6b51da43-d6fb-442e-bc31-6aa366ee2438</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click disini jika belum set password dompet blanja</description>
+   <name>ClickKlikDisini</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef689525-0cdd-4158-a15d-38dccbe7247a</testCaseGuid>
+</TestCaseEntity>

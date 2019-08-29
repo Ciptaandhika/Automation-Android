@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Halaman Verifikasi Email</description>
+   <name>VerifyVerifikasiEmailBelumdiVerifikasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8195e40-ef23-4712-9b36-24a9b41b6576</testCaseGuid>
+</TestCaseEntity>

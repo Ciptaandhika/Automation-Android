@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Ayo Gabung di BLANJA.com!</description>
+   <name>VerifyAyoGabung</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f5b3e39f-153a-460d-a63f-9ed6e771cc2e</testCaseGuid>
+</TestCaseEntity>

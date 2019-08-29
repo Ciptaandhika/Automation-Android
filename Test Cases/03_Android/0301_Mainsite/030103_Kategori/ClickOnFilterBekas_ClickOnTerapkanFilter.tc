@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Filter
+Choose Bekas
+Terapkan Filter</description>
+   <name>ClickOnFilterBekas_ClickOnTerapkanFilter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>471a7ccf-8f30-410d-b72a-163b825333d6</testCaseGuid>
+</TestCaseEntity>

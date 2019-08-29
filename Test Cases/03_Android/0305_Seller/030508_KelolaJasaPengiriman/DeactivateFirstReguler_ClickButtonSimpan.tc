@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Deactivate logistic First Logistic - Reguler
+- Click button &quot;Simpan&quot;</description>
+   <name>DeactivateFirstReguler_ClickButtonSimpan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>510b85e5-c43c-4ec6-baac-e0436d04be9b</testCaseGuid>
+</TestCaseEntity>

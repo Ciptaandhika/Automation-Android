@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click button 'Lainnya'</description>
+   <name>GoToLainnyaPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0f8d0fef-3564-4ce1-8d1d-70cf56cce03b</testCaseGuid>
+</TestCaseEntity>

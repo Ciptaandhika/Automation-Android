@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify detail text informasi dompet blanja</description>
+   <name>Verify_Label_InformasiDompetBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>43f017ea-821e-4e34-a8fc-31a43e16f3c4</testCaseGuid>
+</TestCaseEntity>

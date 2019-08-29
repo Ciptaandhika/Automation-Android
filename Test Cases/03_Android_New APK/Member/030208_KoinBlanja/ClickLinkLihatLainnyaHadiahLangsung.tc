@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User klik menu Koin Blanja
+ 
+User klik Link Lihat Lainnya</description>
+   <name>ClickLinkLihatLainnyaHadiahLangsung</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>14a3f0f2-baa2-4bd9-961f-1965fbb6d325</testCaseGuid>
+</TestCaseEntity>

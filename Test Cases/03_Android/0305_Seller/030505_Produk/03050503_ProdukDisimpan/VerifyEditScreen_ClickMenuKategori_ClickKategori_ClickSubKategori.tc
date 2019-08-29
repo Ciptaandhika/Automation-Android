@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyEditScreen_ClickMenuKategori_ClickKategori_ClickSubKategori</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9efbefd-f83e-48a5-a4b3-f1714731c165</testCaseGuid>
+</TestCaseEntity>

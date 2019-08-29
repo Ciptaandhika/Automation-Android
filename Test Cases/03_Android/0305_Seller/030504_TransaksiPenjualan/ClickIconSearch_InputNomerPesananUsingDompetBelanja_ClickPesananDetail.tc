@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>input order number which paid using Dompet Blanja then clicked on 'SEARCH' button
+
+click on button 'Details'</description>
+   <name>ClickIconSearch_InputNomerPesananUsingDompetBelanja_ClickPesananDetail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7ec6f10f-8512-40b6-93fb-0abd0da39ba5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify halaman hadiah undian</description>
+   <name>VerifyDirectKeHalamanHadiahUndian</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>070ee122-6eb3-447d-80e6-04424053a461</testCaseGuid>
+</TestCaseEntity>

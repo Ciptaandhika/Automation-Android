@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify button tarik dana
+If balance > 0 then the button will be able to show
+If balance = 0 then the button will not be able to show</description>
+   <name>VerifyBtnTarikDana</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e1e81bc7-07cf-4cc5-9d1a-9b0675a141a7</testCaseGuid>
+</TestCaseEntity>

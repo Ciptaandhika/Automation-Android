@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click Icon Search on Search Result</description>
+   <name>ClickIconSearch</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>93fe8567-2aa1-4173-9e85-138da09afd76</testCaseGuid>
+</TestCaseEntity>

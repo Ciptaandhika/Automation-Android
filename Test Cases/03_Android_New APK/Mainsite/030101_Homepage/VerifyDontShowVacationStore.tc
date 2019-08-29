@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify don't show vacation store.</description>
+   <name>VerifyDontShowVacationStore</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>70d0d083-fcc7-4148-9d92-b6d642f8c249</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik detail kupon hadian langsung
+sistem akan memverifikasi hal kupon hadiah langsung</description>
+   <name>VerifyHalDetailKuponHadiahLangsung_KodeTersalin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0edd71c3-a445-4865-b032-03c1da17dbb7</testCaseGuid>
+</TestCaseEntity>

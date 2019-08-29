@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>seller click button 'Lanjutkan'</description>
+   <name>ClickButtonTambahkanProdukIni</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e41b7bec-9d82-4b30-9f4c-d44da238eeb0</testCaseGuid>
+</TestCaseEntity>

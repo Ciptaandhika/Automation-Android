@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify kategori and sub kategori</description>
+   <name>VerifyKategoriSelected</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d4d6fbae-722a-4e89-b492-065c11b8e2d9</testCaseGuid>
+</TestCaseEntity>

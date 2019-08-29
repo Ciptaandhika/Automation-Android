@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>search varian warna</description>
+   <name>SearchVariantWarna</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc5df576-9980-4cd7-86c6-a5dccee94e14</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Remove keyword</description>
+   <name>ClickButtonRemoveKeyword</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>319ea7b7-2dc9-4db6-8702-434ecf0c8f31</testCaseGuid>
+</TestCaseEntity>

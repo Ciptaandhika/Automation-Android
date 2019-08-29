@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>2. On choose payment page, check on Himbara Bank payment
+ 3. Choose 'Kartu Kredit' in Bank Himbara (Mandiri/BNI)</description>
+   <name>ClickBNI_ClickKartuKredit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>72901a2a-6e8c-4074-81e3-411d7686bfe6</testCaseGuid>
+</TestCaseEntity>

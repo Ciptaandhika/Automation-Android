@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click button hapus
+click button yakin</description>
+   <name>ClickHapusDetailVarian</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d77bd7ef-f542-4c3c-b736-212e0945a760</testCaseGuid>
+</TestCaseEntity>

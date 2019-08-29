@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>input order number which paid using Mandiri E-Cash then clicked on 'SEARCH' button
+click on button 'Details'</description>
+   <name>ClickIconSearch_InputNomerPesananUsingMandiriECash_ClickPesananDetail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af11ce23-e80f-436e-b51d-bd446d35da19</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click produk promo card pertama</description>
+   <name>ClickProdukPromoPertama</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>64306506-a38b-4b2d-a22a-3f4e41655c55</testCaseGuid>
+</TestCaseEntity>

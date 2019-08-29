@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tap Lihat Semua Toko
+Tap Filter</description>
+   <name>VerifyLocationResetFilter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f261f417-3853-4829-9ba0-2a9bcf4a7546</testCaseGuid>
+</TestCaseEntity>

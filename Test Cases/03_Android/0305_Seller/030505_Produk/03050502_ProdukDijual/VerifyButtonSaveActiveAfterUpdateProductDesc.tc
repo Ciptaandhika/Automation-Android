@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click button simpan
+input deskripsi produk
+click button simpan</description>
+   <name>VerifyButtonSaveActiveAfterUpdateProductDesc</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6d680b7-548c-46d0-9704-b24caedb3d13</testCaseGuid>
+</TestCaseEntity>

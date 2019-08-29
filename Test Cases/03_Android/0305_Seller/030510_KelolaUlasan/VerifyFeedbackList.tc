@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>System will show feedback that has been verified by admin blanja</description>
+   <name>VerifyFeedbackList</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>262e1875-7e9a-49e1-94a6-8eeaaf776e0f</testCaseGuid>
+</TestCaseEntity>

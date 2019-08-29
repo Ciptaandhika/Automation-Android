@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Set text qty</description>
+   <name>SetQuantityHadiahUndian</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d5e1fca5-68af-4ddb-8e0c-0531fd9da6e3</testCaseGuid>
+</TestCaseEntity>

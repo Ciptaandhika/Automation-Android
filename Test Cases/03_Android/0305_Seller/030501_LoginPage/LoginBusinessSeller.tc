@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login with bussiness seller account</description>
+   <name>LoginBusinessSeller</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>65127605-f7b9-4734-bb0f-7a6a9aa34d06</testCaseGuid>
+</TestCaseEntity>

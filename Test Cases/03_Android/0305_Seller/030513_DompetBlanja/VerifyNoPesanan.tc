@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>show No. Pesanan</description>
+   <name>VerifyNoPesanan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>41cbdca1-5b4c-4818-984c-7b88c2bcfd18</testCaseGuid>
+</TestCaseEntity>

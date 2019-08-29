@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify pesanan dibayar menggunakan linkaja</description>
+   <name>VerifyPembayaranLinkAja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9d5fa2bb-5be4-4c1e-b49b-8aefd80de6ea</testCaseGuid>
+</TestCaseEntity>

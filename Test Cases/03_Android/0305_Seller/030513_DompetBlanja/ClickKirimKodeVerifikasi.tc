@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Kirim Kode Verifikasi
+delay untuk input kode verifikasi</description>
+   <name>ClickKirimKodeVerifikasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c856d661-a194-41b9-831e-1b747ac67f72</testCaseGuid>
+</TestCaseEntity>

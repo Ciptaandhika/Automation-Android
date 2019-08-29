@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Redirect Ke tab Kupon Hadiah Langsung</description>
+   <name>VerifyKuponSaya_RedirectKetabKuponHadiahUndian</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>10513104-25ab-4411-a43d-933333b3c280</testCaseGuid>
+</TestCaseEntity>

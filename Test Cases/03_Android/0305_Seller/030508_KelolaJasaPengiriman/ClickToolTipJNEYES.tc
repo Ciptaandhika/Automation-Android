@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click ToolTip on JNE YES</description>
+   <name>ClickToolTipJNEYES</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>04732db1-c94a-49d0-bd7e-44b92daa2a97</testCaseGuid>
+</TestCaseEntity>

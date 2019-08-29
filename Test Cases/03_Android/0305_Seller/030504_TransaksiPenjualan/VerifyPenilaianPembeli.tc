@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify label penilaian pembeli
+verify tidak ada rating
+verify rating produk
+verify rating pelayanan
+verify rating pengiriman
+verify komentar rating</description>
+   <name>VerifyPenilaianPembeli</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ace26e67-e3f5-4824-bc4d-519bcda11437</testCaseGuid>
+</TestCaseEntity>

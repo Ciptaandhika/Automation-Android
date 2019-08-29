@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Page Aktivasi Tcash</description>
+   <name>VerifyPageAktivasiTcash</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7c0fa350-55a9-4f9f-bad5-b0612b13e15a</testCaseGuid>
+</TestCaseEntity>

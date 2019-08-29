@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tap Enter button on native keyboard without enter keyword</description>
+   <name>TapEnterKeyboard</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>345c19ab-5931-4795-816c-233157db8f44</testCaseGuid>
+</TestCaseEntity>

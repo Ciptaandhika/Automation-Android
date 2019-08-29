@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Input nomor resi</description>
+   <name>InputNomorResi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec12acac-41d3-4ecf-b000-b07d48af6239</testCaseGuid>
+</TestCaseEntity>

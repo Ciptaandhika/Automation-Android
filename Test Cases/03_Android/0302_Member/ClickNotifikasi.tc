@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to Akun</description>
+   <name>ClickNotifikasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b63c8634-0a7a-4e9c-bf1d-453cdd222739</testCaseGuid>
+</TestCaseEntity>

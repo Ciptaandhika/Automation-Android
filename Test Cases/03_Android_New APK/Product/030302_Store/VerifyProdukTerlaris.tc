@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify label produk terlaris
+verify first card produk terlaris</description>
+   <name>VerifyProdukTerlaris</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9079b859-e9c9-4e3b-900d-aee1b0bd2941</testCaseGuid>
+</TestCaseEntity>

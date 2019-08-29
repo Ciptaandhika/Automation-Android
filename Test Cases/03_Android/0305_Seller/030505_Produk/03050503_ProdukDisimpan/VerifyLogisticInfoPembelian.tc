@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify logistic info pembelian (Berat pengiriman xxkg, Ditanggung pembeli)</description>
+   <name>VerifyLogisticInfoPembelian</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb06145c-2082-4b4d-ba93-bad5bac7afab</testCaseGuid>
+</TestCaseEntity>

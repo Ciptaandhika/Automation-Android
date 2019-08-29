@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik submit produk
+verify btn Batal dan btn Yakin</description>
+   <name>TapSubmitProduk_VerifyBtnBatalYakinPopup</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f4ecedfe-e2f1-4e16-a8ed-d6bd779b5705</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click menu kategori
+select kategori
+select sub kategori
+select spesification
+click simpan produk</description>
+   <name>ChangeKategoriProduct_SelectSpesification</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>46b42394-88a2-4e91-8d9a-6206ae215aa0</testCaseGuid>
+</TestCaseEntity>

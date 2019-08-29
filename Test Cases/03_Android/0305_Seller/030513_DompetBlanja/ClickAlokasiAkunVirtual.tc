@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click label alokasi akun virtual</description>
+   <name>ClickAlokasiAkunVirtual</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a481010c-fe5a-4d1e-9cae-5b65f61ab79b</testCaseGuid>
+</TestCaseEntity>

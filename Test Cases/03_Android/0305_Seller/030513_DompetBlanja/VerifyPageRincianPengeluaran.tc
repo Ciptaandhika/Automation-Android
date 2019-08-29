@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify page rincian pengeluaran</description>
+   <name>VerifyPageRincianPengeluaran</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>897d0d24-603b-49cc-9597-42244c5a9d01</testCaseGuid>
+</TestCaseEntity>

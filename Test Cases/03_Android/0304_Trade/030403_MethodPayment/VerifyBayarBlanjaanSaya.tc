@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Bayar Blanjaan Saya</description>
+   <name>VerifyBayarBlanjaanSaya</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dda36d5e-b37d-405a-a789-f0022bac7a46</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify icon i
+click icon i</description>
+   <name>VerifyIconIGojek_ClickIcon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>76e86dff-ce16-4ee9-aab1-8714c77737ea</testCaseGuid>
+</TestCaseEntity>

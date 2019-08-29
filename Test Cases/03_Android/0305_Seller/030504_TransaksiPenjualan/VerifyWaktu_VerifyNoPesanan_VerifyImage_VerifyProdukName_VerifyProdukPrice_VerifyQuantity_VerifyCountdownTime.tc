@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>VerifyWaktu
+VerifyNoPesanan
+VerifyImage
+VerifyProdukName
+VerifyProdukPrice
+VerifyQuantity
+VerifyCountdownTime</description>
+   <name>VerifyWaktu_VerifyNoPesanan_VerifyImage_VerifyProdukName_VerifyProdukPrice_VerifyQuantity_VerifyCountdownTime</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>73e35b23-b0e7-4f59-a769-8cc0f7b46f98</testCaseGuid>
+</TestCaseEntity>

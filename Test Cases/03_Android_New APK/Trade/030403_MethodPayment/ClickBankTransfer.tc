@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click bank transfer</description>
+   <name>ClickBankTransfer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e31701d8-e093-4388-b05c-b87202e29ee7</testCaseGuid>
+</TestCaseEntity>

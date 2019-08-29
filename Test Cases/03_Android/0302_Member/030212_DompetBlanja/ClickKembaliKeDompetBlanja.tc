@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>8. click button 'Kembali ke Dompet Blanja'</description>
+   <name>ClickKembaliKeDompetBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c4e4b3ad-a0d3-47f5-9696-c78c84de0cb0</testCaseGuid>
+</TestCaseEntity>

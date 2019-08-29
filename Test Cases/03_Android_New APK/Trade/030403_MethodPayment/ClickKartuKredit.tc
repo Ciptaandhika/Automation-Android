@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>6. Choose payment method Others - Kartu Kredit and then click 'Bayar' the order</description>
+   <name>ClickKartuKredit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da1d5b05-fd2e-4e3e-9b66-ef0bebe55713</testCaseGuid>
+</TestCaseEntity>

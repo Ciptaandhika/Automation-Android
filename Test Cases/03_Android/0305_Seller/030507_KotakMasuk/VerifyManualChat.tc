@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Tap on one of template
+- Ensure message sent</description>
+   <name>VerifyManualChat</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>adb597c1-23b4-4776-a804-9c873ddc4304</testCaseGuid>
+</TestCaseEntity>

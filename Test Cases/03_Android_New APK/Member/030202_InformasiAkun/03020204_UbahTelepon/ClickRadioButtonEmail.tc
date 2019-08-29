@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Choose 'Email' for 'metode verifikasi'</description>
+   <name>ClickRadioButtonEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c125712c-b1b3-413e-b3ce-cdd4f56514c8</testCaseGuid>
+</TestCaseEntity>

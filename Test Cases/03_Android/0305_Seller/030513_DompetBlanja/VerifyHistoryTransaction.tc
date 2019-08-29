@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify history transaction using Virtual Account</description>
+   <name>VerifyHistoryTransaction</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ff2920c5-587f-4428-8a93-17417bc20351</testCaseGuid>
+</TestCaseEntity>

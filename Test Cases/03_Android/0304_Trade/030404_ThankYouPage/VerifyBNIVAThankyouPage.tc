@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. 'BNI VA' payment method will appear
+ 2. After buyer click on 'BNI VA' payment method, System redirect to thank you page. In thank you page, will display:
+- Payment name,
+- VA Number,
+- Payment amount,
+- Expired date,
+- Payment Guide</description>
+   <name>VerifyBNIVAThankyouPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0116482d-af66-4179-955e-b0fafdcf8638</testCaseGuid>
+</TestCaseEntity>

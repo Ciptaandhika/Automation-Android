@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik order detail yang menggunakan installment payment 
+- verify informasi order detail</description>
+   <name>Verify_OrderDetail_InstallmentMethod</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3c101399-8223-4788-b28e-02d2335c2f6a</testCaseGuid>
+</TestCaseEntity>

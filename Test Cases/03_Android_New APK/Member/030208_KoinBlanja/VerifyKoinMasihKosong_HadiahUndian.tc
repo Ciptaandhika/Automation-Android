@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Koin Masih Kosong</description>
+   <name>VerifyKoinMasihKosong_HadiahUndian</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0327059a-fe72-4e52-9c79-4f98b6ea6972</testCaseGuid>
+</TestCaseEntity>

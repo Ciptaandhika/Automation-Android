@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click tambah foto
+verify object kamera
+verify object galeri</description>
+   <name>ClickTambahFoto_VerifyKameraAndGaleri</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>25bf9ab8-feb3-4918-92a7-7ea4fc1de4ce</testCaseGuid>
+</TestCaseEntity>

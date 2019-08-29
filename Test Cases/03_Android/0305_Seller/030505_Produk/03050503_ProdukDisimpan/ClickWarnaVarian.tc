@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click warna varian</description>
+   <name>ClickWarnaVarian</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fcbd7f07-90f1-4a99-8804-64b5495eb011</testCaseGuid>
+</TestCaseEntity>

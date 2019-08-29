@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>4. Verify active menu
+4.1 Beranda
+4.2 Transaksi Penjualan (Semua, Dipesan, Telah Dibayar, Telah Dikirim, Selesai, Dibatalkan)
+4.3 Produk (Tambah Produk, Produk Dijual, Produk Disimpan)
+4.4 Kotak Masuk
+4.5 Kelola Notifiikasi
+4.6 Bantuan
+4.7 Keluar</description>
+   <name>VerifyActiveMenu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d61aaa74-7eb4-4f2f-af96-f02c3b5a61ee</testCaseGuid>
+</TestCaseEntity>

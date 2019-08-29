@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Expected Result :
+8.4 Confirmation information will be displayed on Product tersimpan screen</description>
+   <name>VerifyPopUpBerhasilMenaikkanProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f11a697b-05a4-4c77-91d8-ba958f808a7f</testCaseGuid>
+</TestCaseEntity>

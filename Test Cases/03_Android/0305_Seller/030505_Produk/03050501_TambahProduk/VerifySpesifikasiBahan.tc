@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify spesifikasi bahan</description>
+   <name>VerifySpesifikasiBahan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3cd1e245-c9ab-4a33-b9a1-5eaedcb005e3</testCaseGuid>
+</TestCaseEntity>

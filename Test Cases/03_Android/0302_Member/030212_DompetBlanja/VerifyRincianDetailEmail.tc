@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify object email</description>
+   <name>VerifyRincianDetailEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>beb32a54-36e1-4497-be67-0189b162a765</testCaseGuid>
+</TestCaseEntity>

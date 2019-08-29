@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click spesifikasi
+click jenis pakaian
+click search keywoard</description>
+   <name>ClickSpesifikasi_ClickJenisPakaian_Searchkeyword</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>15c0916e-0b53-4f7f-a7a2-9d1519631d73</testCaseGuid>
+</TestCaseEntity>

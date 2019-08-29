@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to menu &quot;Alamat pengiriman&quot;</description>
+   <name>GoToAlamatPengirimanPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7b8c4f4b-a369-4ad5-8e1e-e0e482658661</testCaseGuid>
+</TestCaseEntity>

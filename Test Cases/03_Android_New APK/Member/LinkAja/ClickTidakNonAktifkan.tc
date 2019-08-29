@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click button Yakin</description>
+   <name>ClickTidakNonAktifkan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1c25538a-6f3b-4c4d-9c72-d537c32c34d1</testCaseGuid>
+</TestCaseEntity>

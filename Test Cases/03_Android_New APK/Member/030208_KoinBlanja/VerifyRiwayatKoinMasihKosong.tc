@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify riwayat koin masih kosong</description>
+   <name>VerifyRiwayatKoinMasihKosong</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ceee1eb7-b99c-4442-a2b2-1af2fa675891</testCaseGuid>
+</TestCaseEntity>

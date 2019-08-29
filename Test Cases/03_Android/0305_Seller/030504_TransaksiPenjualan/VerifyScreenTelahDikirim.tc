@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Verify screen telah dikirim</description>
+   <name>VerifyScreenTelahDikirim</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>650da5b7-c1ca-4235-a3cc-ad4c0deb57d0</testCaseGuid>
+</TestCaseEntity>

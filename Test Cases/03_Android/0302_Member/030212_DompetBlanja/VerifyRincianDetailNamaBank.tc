@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify object nama bank</description>
+   <name>VerifyRincianDetailNamaBank</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b828c9ea-03ff-432e-8b54-e6f1567dc49d</testCaseGuid>
+</TestCaseEntity>

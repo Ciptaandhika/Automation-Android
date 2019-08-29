@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click toggle cashback
+input saldo terpakai</description>
+   <name>ClickToggleCashback_SliderOn</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2202aee5-a8ee-445d-9dae-c9469a671ed1</testCaseGuid>
+</TestCaseEntity>

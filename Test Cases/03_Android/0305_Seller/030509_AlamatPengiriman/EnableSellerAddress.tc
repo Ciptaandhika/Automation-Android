@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Enable seller address</description>
+   <name>EnableSellerAddress</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4029b29f-a101-486d-90f2-21c02353bdf2</testCaseGuid>
+</TestCaseEntity>

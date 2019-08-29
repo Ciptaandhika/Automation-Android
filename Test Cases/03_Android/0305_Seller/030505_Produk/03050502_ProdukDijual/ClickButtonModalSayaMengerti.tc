@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click button saya mengerti</description>
+   <name>ClickButtonModalSayaMengerti</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6363ce6a-050d-4483-9a75-e15e1b9e390b</testCaseGuid>
+</TestCaseEntity>

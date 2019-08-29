@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify object foto utama
+verify object nama produk
+verify object deskripsi
+verify object harga
+verify object diskon
+verify object stok
+verify object sku
+verify object button simpan produk</description>
+   <name>VerifyEditScreenInput</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>55b232f1-0d88-4c07-8c6f-aa27c1d1c5d6</testCaseGuid>
+</TestCaseEntity>

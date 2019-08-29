@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Tap delete icon on produk tersimpan</description>
+   <name>TapDeleteIcon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0630a16-4214-4aa0-9d94-825e8936e1cc</testCaseGuid>
+</TestCaseEntity>

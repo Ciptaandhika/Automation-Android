@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- User can see 'sisa saldo'</description>
+   <name>VerifySisaSaldo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7586c28a-5db0-4245-9a62-17c5c53ea3d5</testCaseGuid>
+</TestCaseEntity>

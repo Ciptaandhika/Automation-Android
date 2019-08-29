@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>4.2 Buyer name entered Less Than 3 Character</description>
+   <name>TypingSearchBuyerNameLessThan3Character</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a86ba92e-c16c-4318-8ca8-e1a0ec5b10f5</testCaseGuid>
+</TestCaseEntity>

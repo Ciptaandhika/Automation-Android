@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify nomor telepon textbox
+verify label pastikan nomor telepon aktif
+tap nomor telepon textbox
+set no telp
+set no telp lebih dari 16
+set no telp kurang dari 8
+hide keyboard
+scroll to dengan mendaftar
+tap btn daftar</description>
+   <name>VerifyNomorTelepon_InputNomorTelepon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>54ba0d16-481f-4a7c-a0d4-cc1aa445f831</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click Product
+- Click Button Tambah ke Troli</description>
+   <name>ClickCartIcon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>30f732bc-4beb-4ab8-b692-7cb23e3f4ce6</testCaseGuid>
+</TestCaseEntity>

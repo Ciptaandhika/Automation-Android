@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>VerifyHalamanTransaksiPenjualanDipesan
+Status pengiriman</description>
+   <name>VerifyHalamanTransaksiPenjualanDipesan_StatusPengiriman</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c86bbd42-c50f-487b-b162-2d94afb7f388</testCaseGuid>
+</TestCaseEntity>

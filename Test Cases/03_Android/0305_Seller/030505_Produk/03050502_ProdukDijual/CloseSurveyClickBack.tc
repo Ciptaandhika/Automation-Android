@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>close survey</description>
+   <name>CloseSurveyClickBack</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dfba9785-e25f-4952-a008-79d31217113f</testCaseGuid>
+</TestCaseEntity>

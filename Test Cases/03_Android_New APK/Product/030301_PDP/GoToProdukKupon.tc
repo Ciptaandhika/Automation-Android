@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>search produk
+klik produk kupon</description>
+   <name>GoToProdukKupon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>258eb4ab-6600-4f67-8908-4198a99ae59b</testCaseGuid>
+</TestCaseEntity>

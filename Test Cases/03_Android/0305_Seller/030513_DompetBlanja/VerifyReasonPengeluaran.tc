@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify waktu transaksi withdrawal</description>
+   <name>VerifyReasonPengeluaran</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9194548f-091a-4c08-b027-4875f69994cb</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>input txtbox price</description>
+   <name>InputPilihanVariantPrice</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a3c1dc40-d9c3-4ee7-b1b3-978a1dff9743</testCaseGuid>
+</TestCaseEntity>

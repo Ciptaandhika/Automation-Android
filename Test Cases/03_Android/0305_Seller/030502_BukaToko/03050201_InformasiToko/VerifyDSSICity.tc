@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify object kota kabupaten
+tap lanjutkan
+choose provinsi
+choose kota kabupaten</description>
+   <name>VerifyDSSICity</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>667da4ad-712c-4be5-a6b9-bd08e1cfb71e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click on 'BNI' and then click 'Virtual Account' payment method the 'Bayar' the order</description>
+   <name>ClickBNI_ClickVirtualAccount_ClickBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3032a356-2131-47cb-86b9-821f7e890de5</testCaseGuid>
+</TestCaseEntity>

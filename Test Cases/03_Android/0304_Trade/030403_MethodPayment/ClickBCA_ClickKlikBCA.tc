@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click BCA
+Click Klik BCA</description>
+   <name>ClickBCA_ClickKlikBCA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cd8e6adc-7c5c-409a-85fc-0e6a868b2b85</testCaseGuid>
+</TestCaseEntity>

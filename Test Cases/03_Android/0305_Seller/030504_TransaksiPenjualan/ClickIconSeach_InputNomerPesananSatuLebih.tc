@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Icon Seach
+Input Nomer Pesanan yang mempunyai lebih dari satu produk</description>
+   <name>ClickIconSeach_InputNomerPesananSatuLebih</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0febdb9c-0fa1-43de-a2dc-58ad82021e25</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify kv banner</description>
+   <name>VerifyKVBanner</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e39b7035-82bb-4b12-a029-d35104a24fac</testCaseGuid>
+</TestCaseEntity>

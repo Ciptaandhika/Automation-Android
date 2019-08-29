@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify show Nama Pemilik Rekening information</description>
+   <name>VerifyPenarikanDanaNamaPemilikRekening</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dad60d1d-75a6-4013-b5f1-08359906a516</testCaseGuid>
+</TestCaseEntity>

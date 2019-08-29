@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify tab semua
+verify total produk
+verify list produk displayed</description>
+   <name>VerifyTabSemuaTotalProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4ed3a90d-5b7b-4607-9bc2-6144245a6f50</testCaseGuid>
+</TestCaseEntity>

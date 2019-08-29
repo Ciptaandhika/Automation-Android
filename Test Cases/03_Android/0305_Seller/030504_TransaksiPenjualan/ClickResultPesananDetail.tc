@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>delay
+Click btnDetailOrder</description>
+   <name>ClickResultPesananDetail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>daa30034-7914-4040-b705-feebac8ed9a1</testCaseGuid>
+</TestCaseEntity>

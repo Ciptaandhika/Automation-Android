@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify element exist &quot;Pesanan telah ditutup (Pembeli tidak membayar pada waktunya, dibataklkan oleh sistem)&quot;</description>
+   <name>VerifyPesananDitutupDirefund</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7c8def42-ef6f-49f9-97ca-86872a607b83</testCaseGuid>
+</TestCaseEntity>

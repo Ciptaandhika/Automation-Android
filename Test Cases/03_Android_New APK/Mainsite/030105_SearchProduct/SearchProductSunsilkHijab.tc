@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click SearchBox
+- Set Text 'Produk Link Aja'
+- Enter</description>
+   <name>SearchProductSunsilkHijab</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5c5cf738-8fd7-4d85-b61f-3a867093c199</testCaseGuid>
+</TestCaseEntity>

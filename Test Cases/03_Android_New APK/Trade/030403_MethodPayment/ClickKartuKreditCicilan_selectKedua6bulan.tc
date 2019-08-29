@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Kartu Kredit Cicilan
+Select 6 bulan</description>
+   <name>ClickKartuKreditCicilan_selectKedua6bulan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5742e37a-e18c-4af5-86ca-83588a41539a</testCaseGuid>
+</TestCaseEntity>

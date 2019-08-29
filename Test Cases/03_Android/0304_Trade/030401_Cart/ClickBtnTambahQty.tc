@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Btn Tambah Qty</description>
+   <name>ClickBtnTambahQty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>21734137-d7f5-432a-91ec-f4c4edff6b6e</testCaseGuid>
+</TestCaseEntity>

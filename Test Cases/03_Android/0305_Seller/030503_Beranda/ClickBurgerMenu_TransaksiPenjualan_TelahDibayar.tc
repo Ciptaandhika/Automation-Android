@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click Burger 
+- Transaksi Penjualan -> Telah Dibayar</description>
+   <name>ClickBurgerMenu_TransaksiPenjualan_TelahDibayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5a5422f-836b-4b2d-9ff8-addee687c670</testCaseGuid>
+</TestCaseEntity>

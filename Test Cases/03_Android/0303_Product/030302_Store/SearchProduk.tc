@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>-set text produk
+-click search in keyboard</description>
+   <name>SearchProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cda85ba8-579f-420e-930f-73188a8e2526</testCaseGuid>
+</TestCaseEntity>

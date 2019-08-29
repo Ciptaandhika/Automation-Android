@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tap kirim ulang
+verify object kirim ulang setelah</description>
+   <name>TapKirimUlang_VerifyKirimUlangSetelah</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7c43880c-84e1-40f7-a3cb-5d63b279ac49</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Scrolling to Down</description>
+   <name>ScrollToDown</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b5c586c5-8c5e-4f3a-8e5e-42632a3337b2</testCaseGuid>
+</TestCaseEntity>

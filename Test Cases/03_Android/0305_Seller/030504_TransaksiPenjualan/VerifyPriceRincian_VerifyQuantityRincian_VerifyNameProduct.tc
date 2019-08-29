@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>VerifyPriceRincian
+VerifyQuantityRincian
+VerifyNameProduct</description>
+   <name>VerifyPriceRincian_VerifyQuantityRincian_VerifyNameProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>77a955bc-7296-40e6-87f6-b60bdcceb640</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>seller click selected order</description>
+   <name>ClickCardPesanan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4e431825-3853-49c7-adfe-3c5b63a3c774</testCaseGuid>
+</TestCaseEntity>

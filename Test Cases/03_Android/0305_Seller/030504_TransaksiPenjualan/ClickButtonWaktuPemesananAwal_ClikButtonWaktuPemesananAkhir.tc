@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click Button Waktu Pemesanan Awal
+- Click Button Waktu Pemesanan Akhir</description>
+   <name>ClickButtonWaktuPemesananAwal_ClikButtonWaktuPemesananAkhir</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>59e376b3-e983-45f2-9b8c-37ed83d28bf5</testCaseGuid>
+</TestCaseEntity>

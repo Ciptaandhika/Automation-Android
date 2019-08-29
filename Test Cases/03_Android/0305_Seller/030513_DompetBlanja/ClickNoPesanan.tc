@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click no pesanan</description>
+   <name>ClickNoPesanan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ae87a93f-e0f8-4d0d-9467-919954131e77</testCaseGuid>
+</TestCaseEntity>

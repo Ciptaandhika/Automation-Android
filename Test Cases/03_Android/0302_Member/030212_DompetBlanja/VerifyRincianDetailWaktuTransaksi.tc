@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify object waktu transaksi</description>
+   <name>VerifyRincianDetailWaktuTransaksi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad2c6ff9-995b-43c2-ae14-6cadb611d8c8</testCaseGuid>
+</TestCaseEntity>

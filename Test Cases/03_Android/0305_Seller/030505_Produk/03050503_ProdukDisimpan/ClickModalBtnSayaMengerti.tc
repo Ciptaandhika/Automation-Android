@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click modal button saya mengerti
+verify pop up will be close</description>
+   <name>ClickModalBtnSayaMengerti</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>522821e8-0c1e-44e6-b745-283db57e9112</testCaseGuid>
+</TestCaseEntity>

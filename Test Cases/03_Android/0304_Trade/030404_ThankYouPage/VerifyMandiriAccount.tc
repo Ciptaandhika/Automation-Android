@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify mandiri bank icon
+verify mandiri bank account number
+verify mandiri bank info
+verify wording 'Proses verifikasi dilakukan pada jam kerja.'
+verify salin nomor</description>
+   <name>VerifyMandiriAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2f0ac7f2-0374-49c7-9e5b-839a9da43113</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClickBNI_ClickVirtualAccount_ClickBayar-morethan10k</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>496b9ebc-aed0-4e78-b7fc-bcd4b89fbe3b</testCaseGuid>
+</TestCaseEntity>

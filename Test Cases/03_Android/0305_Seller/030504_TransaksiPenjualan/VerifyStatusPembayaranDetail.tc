@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>VerifyStatusPembayaranDetail</description>
+   <name>VerifyStatusPembayaranDetail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c033ab36-6cca-4a8c-9947-aaa42a164614</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Tap on one of template
+- Ensure message sent</description>
+   <name>VerifyTemplateBarangDiKirimHariIni</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>23cfb23c-b4a1-44fc-9fb5-846ffea130b4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>-click tab toko</description>
+   <name>ClickTabToko</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cb3c6033-73f7-4c76-9c58-270e7d2995d5</testCaseGuid>
+</TestCaseEntity>

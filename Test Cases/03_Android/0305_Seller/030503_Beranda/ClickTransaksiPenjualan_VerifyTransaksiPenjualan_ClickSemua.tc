@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>4. Tap Transaksi Penjualan
+4.1 Transaksi Penjualan will be expand
+5. Verify Transaksi penjualan
+5.1 Semua, Dipesan will be displayed
+5.2 Dipesan will be displayed
+5.3 Telah Dibayar, will be displayed
+5.4 Telah Dikirim will be displayed
+5.5  Selesai will be displayed
+5.6  Ditolak will be displayed</description>
+   <name>ClickTransaksiPenjualan_VerifyTransaksiPenjualan_ClickSemua</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>710c5274-aaa9-4b5f-ab40-27832eadf3e0</testCaseGuid>
+</TestCaseEntity>

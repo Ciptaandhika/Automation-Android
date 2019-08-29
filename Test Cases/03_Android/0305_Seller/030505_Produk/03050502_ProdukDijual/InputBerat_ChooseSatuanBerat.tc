@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>input txtbox berat
+pilih satuan berat</description>
+   <name>InputBerat_ChooseSatuanBerat</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e0c76ca8-1c22-4c20-9ba9-df284794335a</testCaseGuid>
+</TestCaseEntity>

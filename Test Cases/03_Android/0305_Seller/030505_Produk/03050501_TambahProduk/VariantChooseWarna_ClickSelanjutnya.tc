@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>choose cb warna
+click selanjutnya</description>
+   <name>VariantChooseWarna_ClickSelanjutnya</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c141978b-df16-476e-8f9e-58233e5a59fb</testCaseGuid>
+</TestCaseEntity>

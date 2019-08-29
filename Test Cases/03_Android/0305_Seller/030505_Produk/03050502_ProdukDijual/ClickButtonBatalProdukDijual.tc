@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click 'Batal' on pop up after 'Turunkan Produk' at Produk Dijual page</description>
+   <name>ClickButtonBatalProdukDijual</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d574c7f6-636c-423a-af43-2f488c20da43</testCaseGuid>
+</TestCaseEntity>

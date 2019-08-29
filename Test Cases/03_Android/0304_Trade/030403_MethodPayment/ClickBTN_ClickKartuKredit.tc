@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click method payment BTN
+click kartu kredit</description>
+   <name>ClickBTN_ClickKartuKredit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3087b6cc-b591-4359-8b34-13b11afd99f0</testCaseGuid>
+</TestCaseEntity>

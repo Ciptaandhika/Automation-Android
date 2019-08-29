@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click SearchBox
+- Set Text 'Rejoice'
+- Enter</description>
+   <name>SearchRejoiceProduct2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>454bf810-c543-4f18-b105-de457add1645</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Button Tukar Disable pada Hadiah Undian</description>
+   <name>VerifyButtonTukarDisable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>34cb6573-70ca-422d-83c9-089e2b41bc30</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>2. Enter product SKU</description>
+   <name>InputProdukSKU</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cbdd7b9b-740b-4d9c-a310-0585073c1b43</testCaseGuid>
+</TestCaseEntity>

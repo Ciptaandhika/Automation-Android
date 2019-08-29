@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Access  &quot;TELAH DIBAYAR&quot; screen
+2. Tap on one of order</description>
+   <name>VerifyTipePembayaranTelahDibayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa2503cf-fd3a-448d-a3b0-298c8dea3e59</testCaseGuid>
+</TestCaseEntity>

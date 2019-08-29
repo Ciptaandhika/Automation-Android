@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3. Go to tab 'Semua'</description>
+   <name>VerifyTarikDanaDetail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf31bba6-c52f-4bfb-af48-29729b51d8a8</testCaseGuid>
+</TestCaseEntity>

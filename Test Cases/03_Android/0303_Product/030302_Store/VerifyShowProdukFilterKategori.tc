@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify show produk filter kategori</description>
+   <name>VerifyShowProdukFilterKategori</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8eef51d1-52c6-4b65-b601-3e8bb588e92a</testCaseGuid>
+</TestCaseEntity>

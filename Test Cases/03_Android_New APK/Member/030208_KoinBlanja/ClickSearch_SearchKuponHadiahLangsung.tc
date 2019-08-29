@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Klik Search Hadiah 
+Cari Kupon Hadiah Langsung</description>
+   <name>ClickSearch_SearchKuponHadiahLangsung</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>33f3a1b6-54b4-4914-87b5-951e1075d60a</testCaseGuid>
+</TestCaseEntity>

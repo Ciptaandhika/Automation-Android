@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify button save deactive
+change product name
+click simpan produk</description>
+   <name>VerifyEditScreen_ChangeProductDescription_ClickSimpanProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8dedc929-c59a-4205-a46f-0b1483635672</testCaseGuid>
+</TestCaseEntity>

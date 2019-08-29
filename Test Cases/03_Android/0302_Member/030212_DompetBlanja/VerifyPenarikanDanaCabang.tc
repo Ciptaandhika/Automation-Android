@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify cabang</description>
+   <name>VerifyPenarikanDanaCabang</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>439c14ea-08bb-477e-b07a-69d6e61badfb</testCaseGuid>
+</TestCaseEntity>

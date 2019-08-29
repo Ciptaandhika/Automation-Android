@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get text
+Verify</description>
+   <name>VerifyKoinBerkurang</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8accbd4b-db18-4a0b-9bc5-bbb6fd4612fb</testCaseGuid>
+</TestCaseEntity>

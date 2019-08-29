@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click klik disini VA untuk set password dompet blanja</description>
+   <name>ClickKlikDisiniVA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb29be67-6d40-4dca-a444-da50d61e04cf</testCaseGuid>
+</TestCaseEntity>

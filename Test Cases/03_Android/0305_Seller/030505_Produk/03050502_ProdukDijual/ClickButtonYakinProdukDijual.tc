@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click 'Yakin' on pop up after 'Turunkan Produk' at Produk Dijual page</description>
+   <name>ClickButtonYakinProdukDijual</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af627d83-b83c-4e49-a650-12b36e1cbbe6</testCaseGuid>
+</TestCaseEntity>

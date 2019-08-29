@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify button daftar</description>
+   <name>VerifyDaftarButton</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8a8b45b2-84ec-43b8-ad1a-d87db9274b4d</testCaseGuid>
+</TestCaseEntity>

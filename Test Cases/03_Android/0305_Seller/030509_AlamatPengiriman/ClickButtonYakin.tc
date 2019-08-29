@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click on button &quot;YAKIN&quot;</description>
+   <name>ClickButtonYakin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4733fb11-4c20-488f-bd17-eebc530e8389</testCaseGuid>
+</TestCaseEntity>

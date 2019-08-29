@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sistem akan memverifikasi startd date dan disabled button tukar</description>
+   <name>VerifyEndDateHadiahLangsung</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e22dce9a-0749-4d9b-9bf4-2249e3faa39c</testCaseGuid>
+</TestCaseEntity>

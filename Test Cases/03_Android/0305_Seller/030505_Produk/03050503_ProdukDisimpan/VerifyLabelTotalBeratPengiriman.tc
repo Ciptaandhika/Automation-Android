@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify label total berat pengiriman</description>
+   <name>VerifyLabelTotalBeratPengiriman</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e049bd24-10e6-41e1-a387-d61396101b66</testCaseGuid>
+</TestCaseEntity>

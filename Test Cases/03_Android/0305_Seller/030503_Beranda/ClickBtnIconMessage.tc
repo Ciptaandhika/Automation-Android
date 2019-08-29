@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to message</description>
+   <name>ClickBtnIconMessage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f1aa39b9-de10-4984-84ee-0376e6ac2a1a</testCaseGuid>
+</TestCaseEntity>

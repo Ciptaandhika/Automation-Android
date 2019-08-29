@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>input stok
+input stok character</description>
+   <name>InputProdukStok</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d421e42c-ce70-4052-974e-9fcdd7bfb098</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik menu kategori
+klik back</description>
+   <name>ClickKategori_Klikback</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f48ab829-7dd1-4761-840b-8be81be9186f</testCaseGuid>
+</TestCaseEntity>

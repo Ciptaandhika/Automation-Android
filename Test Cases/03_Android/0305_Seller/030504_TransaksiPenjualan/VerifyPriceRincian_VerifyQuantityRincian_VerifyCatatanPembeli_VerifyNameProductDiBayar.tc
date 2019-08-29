@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>VerifyPriceRincian
+VerifyQuantityRincian
+VerifyCatatanPembeli
+VerifyNameProductDiBayar</description>
+   <name>VerifyPriceRincian_VerifyQuantityRincian_VerifyCatatanPembeli_VerifyNameProductDiBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c3da946f-3e54-41d3-8930-c19249c31d67</testCaseGuid>
+</TestCaseEntity>

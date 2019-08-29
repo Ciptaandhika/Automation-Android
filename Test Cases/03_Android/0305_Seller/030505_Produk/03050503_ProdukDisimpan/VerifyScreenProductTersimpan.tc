@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Product tersimpan screen</description>
+   <name>VerifyScreenProductTersimpan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>89cab56b-0d6f-4dad-b1a0-eb5016b1a832</testCaseGuid>
+</TestCaseEntity>

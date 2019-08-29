@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Close Survey Dialog</description>
+   <name>CloseSurveyDialog</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4390337d-2f4a-480d-b8f5-1d7b780e9f00</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click combobox variant</description>
+   <name>ClickVariantBahanTambahVariant</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d19fa58f-4985-4d12-a8d1-4bfb8638e274</testCaseGuid>
+</TestCaseEntity>

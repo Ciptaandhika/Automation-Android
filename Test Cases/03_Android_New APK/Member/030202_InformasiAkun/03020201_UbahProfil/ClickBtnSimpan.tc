@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>4. Tick checkbox newsletter</description>
+   <name>ClickBtnSimpan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e31e8a4b-87ad-4f23-ac56-d3275f504ea3</testCaseGuid>
+</TestCaseEntity>

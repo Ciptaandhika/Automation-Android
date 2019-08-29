@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify object url
+input url
+input kosong
+tap lanjutkan</description>
+   <name>VerifyDSSIUrl</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a4c7221f-450e-464a-a537-34fa12572065</testCaseGuid>
+</TestCaseEntity>

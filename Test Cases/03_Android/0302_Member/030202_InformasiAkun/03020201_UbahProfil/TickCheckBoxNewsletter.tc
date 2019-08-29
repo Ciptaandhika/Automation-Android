@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tick checkbox newsletter</description>
+   <name>TickCheckBoxNewsletter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2880a3fe-fdea-487e-8ccf-b823275b876c</testCaseGuid>
+</TestCaseEntity>

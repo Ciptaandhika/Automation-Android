@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>2. Seller doesn't have any transaction yet</description>
+   <name>VerifyScreenTidakAdaTransaksi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f660e649-eeb1-42f1-aae5-fbb1a7602374</testCaseGuid>
+</TestCaseEntity>

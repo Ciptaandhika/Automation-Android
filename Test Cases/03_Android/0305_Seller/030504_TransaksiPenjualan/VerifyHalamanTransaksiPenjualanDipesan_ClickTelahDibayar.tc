@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>7.2 User will redirect to order management - Dipesan
+8.1  Telah Dibayar can be tap</description>
+   <name>VerifyHalamanTransaksiPenjualanDipesan_ClickTelahDibayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cd4b137c-6341-4176-a6c3-d95c6b1cb973</testCaseGuid>
+</TestCaseEntity>

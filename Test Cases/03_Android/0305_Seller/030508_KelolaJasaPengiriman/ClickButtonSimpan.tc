@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click button &quot;Simpan&quot;</description>
+   <name>ClickButtonSimpan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd24b26c-71c1-400c-8345-74626ccb3de1</testCaseGuid>
+</TestCaseEntity>

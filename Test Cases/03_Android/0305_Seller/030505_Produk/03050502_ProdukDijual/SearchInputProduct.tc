@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Search input exact product</description>
+   <name>SearchInputProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>67d6a945-a256-4e2a-aa99-f6303abfc619</testCaseGuid>
+</TestCaseEntity>

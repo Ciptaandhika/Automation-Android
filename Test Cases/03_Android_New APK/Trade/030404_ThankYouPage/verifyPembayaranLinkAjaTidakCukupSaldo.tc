@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyPembayaranLinkAjaTidakCukupSaldo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6837d085-2548-4549-bc2a-3655f9056885</testCaseGuid>
+</TestCaseEntity>

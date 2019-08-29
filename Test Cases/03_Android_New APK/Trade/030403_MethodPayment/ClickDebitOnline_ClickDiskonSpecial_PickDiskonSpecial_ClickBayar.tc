@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>2. Select payment method with promotion
+ 3. Select promotion on dropdown bank payment promotion</description>
+   <name>ClickDebitOnline_ClickDiskonSpecial_PickDiskonSpecial_ClickBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6ed5d719-fd7a-4912-84da-d2ec0dabc9ee</testCaseGuid>
+</TestCaseEntity>

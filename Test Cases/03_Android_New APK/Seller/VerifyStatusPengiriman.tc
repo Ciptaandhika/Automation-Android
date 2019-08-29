@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify status pengiriman kurir instant</description>
+   <name>VerifyStatusPengiriman</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc89ef36-57e2-46f1-b2ae-e75c4bc378f2</testCaseGuid>
+</TestCaseEntity>

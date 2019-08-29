@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click produk terlaris kedua</description>
+   <name>ClickProdukTerlarisKedua</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c1860804-c2f8-4e39-9d1d-30709a48b880</testCaseGuid>
+</TestCaseEntity>

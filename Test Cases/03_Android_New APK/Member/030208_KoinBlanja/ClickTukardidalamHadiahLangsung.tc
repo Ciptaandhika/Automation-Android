@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Tukar di dalam tab Hadiah Langsung</description>
+   <name>ClickTukardidalamHadiahLangsung</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>01972886-2cc2-4fe6-99cd-852e45fe7828</testCaseGuid>
+</TestCaseEntity>

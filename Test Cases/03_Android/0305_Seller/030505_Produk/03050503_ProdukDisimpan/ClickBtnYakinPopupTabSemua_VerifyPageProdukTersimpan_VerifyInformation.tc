@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click button yakin
+verify page produk tersimpan
+verify information 'Anda telah berhasil menaikkan produk'</description>
+   <name>ClickBtnYakinPopupTabSemua_VerifyPageProdukTersimpan_VerifyInformation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>26a9cedd-7558-4332-8efd-95ec9592e0a2</testCaseGuid>
+</TestCaseEntity>

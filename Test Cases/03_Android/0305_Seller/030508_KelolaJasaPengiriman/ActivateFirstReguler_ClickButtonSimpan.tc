@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click Reguler on First Logistic for Activate The Logistic
+- Click Simpan</description>
+   <name>ActivateFirstReguler_ClickButtonSimpan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2359ed4-6b77-407c-9569-aee7d2f87af3</testCaseGuid>
+</TestCaseEntity>

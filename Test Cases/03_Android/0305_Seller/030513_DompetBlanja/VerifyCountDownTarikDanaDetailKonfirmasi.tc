@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify Countdown Kode Verifikasi</description>
+   <name>VerifyCountDownTarikDanaDetailKonfirmasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>15540f04-6894-4eb3-816a-d20f27952d7f</testCaseGuid>
+</TestCaseEntity>

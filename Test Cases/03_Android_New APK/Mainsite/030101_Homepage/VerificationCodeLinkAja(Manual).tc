@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- input kode OTP (Manual)
+- click btn process</description>
+   <name>VerificationCodeLinkAja(Manual)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>faf2a57a-d823-4288-b417-6ed421e5ead5</testCaseGuid>
+</TestCaseEntity>

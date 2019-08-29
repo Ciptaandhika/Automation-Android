@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify element exist</description>
+   <name>VerifyAktifkanLinkAja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d6ccdc7b-8962-4291-9083-a6ff07923475</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify akun linkAja</description>
+   <name>verifyAkunLinkAja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>368fd387-4998-41cb-a639-dc800a23d99d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Halaman Transaksi Penjualan Dipesan
+Verify Total Order Tab Pesanan
+Scroll One Time</description>
+   <name>VerifyHalamanTransaksiPenjualanDipesan_VerifyTotalOrderTabPesanan_ScrollOneTime</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9482ee2-5ed2-4aab-a037-cd825f6fb72b</testCaseGuid>
+</TestCaseEntity>

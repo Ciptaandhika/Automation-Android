@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Klik dan Verify Menu Telah Dibayar</description>
+   <name>Klik dan Verify Telah Dibayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f822e798-ed59-4255-ac7d-b749547d0ae1</testCaseGuid>
+</TestCaseEntity>

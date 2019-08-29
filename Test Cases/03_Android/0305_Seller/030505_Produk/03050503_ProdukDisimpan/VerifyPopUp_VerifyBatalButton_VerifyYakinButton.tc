@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>7.2 popup confirmation will be displayed
+7.3 Yakin button will be displayed
+7.4 Batal button will be displayed</description>
+   <name>VerifyPopUp_VerifyBatalButton_VerifyYakinButton</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6acbc75e-2e26-4ef5-a636-8269e73835ea</testCaseGuid>
+</TestCaseEntity>

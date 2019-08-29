@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Masa Berlaku Koin Blanja.</description>
+   <name>VerifyMasaBerlakuKoinBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a92b1409-a4f7-4e8f-a292-78218e11f533</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click button 'Turunkan Produk'</description>
+   <name>ClickTurunkanProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2ddde97e-3b78-4d35-bd03-7b99c5d63627</testCaseGuid>
+</TestCaseEntity>

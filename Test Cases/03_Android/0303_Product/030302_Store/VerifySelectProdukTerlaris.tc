@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify ceklis merah di menu produk terlaris</description>
+   <name>VerifySelectProdukTerlaris</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b10f2426-0e20-4450-87b9-fedf74ceceb9</testCaseGuid>
+</TestCaseEntity>

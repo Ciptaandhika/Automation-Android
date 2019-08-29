@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click button akun</description>
+   <name>GoToAkunPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>87d1fe43-a4f0-40d9-8f4d-96c2b647f767</testCaseGuid>
+</TestCaseEntity>

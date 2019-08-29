@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Lihat popup hadiah undian</description>
+   <name>VerifyLihatHadiahUndian</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4cfe5a7f-d16f-4d79-9671-ec4a386c2ef6</testCaseGuid>
+</TestCaseEntity>

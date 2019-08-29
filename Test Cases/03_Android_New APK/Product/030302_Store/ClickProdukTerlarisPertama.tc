@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click produk terlaris pertama</description>
+   <name>ClickProdukTerlarisPertama</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6c3bd0b-dfcb-41fa-a243-ed6c80dbe9a4</testCaseGuid>
+</TestCaseEntity>

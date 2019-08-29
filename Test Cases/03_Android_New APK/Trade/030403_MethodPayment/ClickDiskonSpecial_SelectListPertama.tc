@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>2. Select payment method with promotion</description>
+   <name>ClickDiskonSpecial_SelectListPertama</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9d8b0662-9cef-46a7-ab60-1bc085e8d88a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify label informasi pengiriman
+verify label descripsi pengiriman
+verify button saya mengerti</description>
+   <name>VerifyInformasiPengirimanGojek</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b61a2efb-440d-4d1b-8f93-68f92a2e371e</testCaseGuid>
+</TestCaseEntity>

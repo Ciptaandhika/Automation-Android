@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click label lihat selengkapnya</description>
+   <name>ClickLabelLihatSelengkapnya</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>02547400-5f21-4830-bf8a-7d4cac8eb970</testCaseGuid>
+</TestCaseEntity>

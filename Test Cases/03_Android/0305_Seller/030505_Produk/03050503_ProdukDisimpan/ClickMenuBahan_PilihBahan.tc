@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click menu bahan
+pilih menu stainless steel</description>
+   <name>ClickMenuBahan_PilihBahan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>80861f39-ff07-428c-9655-3d2dee3f47b9</testCaseGuid>
+</TestCaseEntity>

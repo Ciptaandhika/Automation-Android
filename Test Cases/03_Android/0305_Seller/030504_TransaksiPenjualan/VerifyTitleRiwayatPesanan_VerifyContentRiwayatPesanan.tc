@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>VerifyTitleRiwayatPesanan
+VerifyContentRiwayatPesanan</description>
+   <name>VerifyTitleRiwayatPesanan_VerifyContentRiwayatPesanan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cab5ccf3-66ee-45a8-b8f4-8e17418e81d6</testCaseGuid>
+</TestCaseEntity>

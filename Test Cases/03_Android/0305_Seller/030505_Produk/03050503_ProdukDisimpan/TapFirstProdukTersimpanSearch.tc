@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tap on one of Recomendation product</description>
+   <name>TapFirstProdukTersimpanSearch</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b967a14d-1c7d-4ea8-ad0f-1fc45792c419</testCaseGuid>
+</TestCaseEntity>

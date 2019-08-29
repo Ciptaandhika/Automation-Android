@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can enter keyword
+information to fill out search box will be displayed</description>
+   <name>SearchProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c4a31b4e-fa95-493d-bdba-27e8f12d524c</testCaseGuid>
+</TestCaseEntity>

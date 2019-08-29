@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>input order number which paid using BNI Debit Online then clicked on 'SEARCH' button
+click on button 'Details'</description>
+   <name>ClickIconSearch_InputNomerPesananUsingBNIDebit_ClickPesananDetail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>56335f9e-9401-4125-a3ab-aaf54e6febb0</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Jasa Pengirman JNE dan Layanan Pengiriman Reguler</description>
+   <name>VerifyJasadanLayananPengirimanJNEReguler</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fb8555f3-f1d8-4bbb-8331-ddf657dca422</testCaseGuid>
+</TestCaseEntity>

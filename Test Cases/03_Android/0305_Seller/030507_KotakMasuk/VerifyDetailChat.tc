@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Result test : 5.1 Ensure user redirect to detail chat page
+5.2 Ensure user can see conversation</description>
+   <name>VerifyDetailChat</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7909e693-110a-4c2a-bfce-54981cd7d558</testCaseGuid>
+</TestCaseEntity>

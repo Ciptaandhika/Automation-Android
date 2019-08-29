@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>2. Select payment method with promotion
+ 3. Select promotion on dropdown bank payment promotion</description>
+   <name>ClickKartuKredit_ClickPilihDiskonSpesial_ClickDiskonSpesialCategory_ClickBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>297e552d-2fa1-43a1-b83e-facf388988a9</testCaseGuid>
+</TestCaseEntity>

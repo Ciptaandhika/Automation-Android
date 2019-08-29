@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>4.1 Total list of product will be displayed
+4.2 Product list displayed
+4,3 All status Product tersimpan will be displayed</description>
+   <name>VerifyProductList</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>135729a8-d711-412f-b111-5886f12b9aa8</testCaseGuid>
+</TestCaseEntity>

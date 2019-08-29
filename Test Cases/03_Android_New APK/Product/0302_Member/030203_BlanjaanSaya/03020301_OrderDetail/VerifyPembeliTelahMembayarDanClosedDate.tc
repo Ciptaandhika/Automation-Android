@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Order automatically closed</description>
+   <name>VerifyPembeliTelahMembayarDanClosedDate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d30d296d-acb2-417a-b9c2-9d132048b8d6</testCaseGuid>
+</TestCaseEntity>

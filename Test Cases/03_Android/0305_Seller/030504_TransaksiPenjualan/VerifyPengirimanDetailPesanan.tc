@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Pengiriman Detail Pesanan</description>
+   <name>VerifyPengirimanDetailPesanan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5668cc5a-a123-47d6-8460-1e7e69d12732</testCaseGuid>
+</TestCaseEntity>

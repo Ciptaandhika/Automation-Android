@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>VerifyXButton
+VerifyTitle
+VerifyInfo
+VerifyField
+VerifyUnggahBukti
+VerifyKonfirmasiButton
+VerifyImg
+VerifyInfoImg
+ClickKonfim</description>
+   <name>VerifyXButton_VerifyTitle_VerifyInfo_VerifyField_VerifyUnggahBukti_VerifyKonfirmasiButton_VerifyImg_VerifyInfoImg_ClickKonfim</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1862855f-5bda-4328-9f30-566ae7d5d654</testCaseGuid>
+</TestCaseEntity>

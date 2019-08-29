@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Verify Screen 'Sedang Diverifikasi'</description>
+   <name>VerifyScreenSedangDiverifikasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac48806a-79c0-40b2-8ff9-ca91fdb61f83</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify anda belum memiliki rekening information</description>
+   <name>VerifyAndaBelumMemilkiRekening</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef371cff-aa35-4056-b21b-75dea5bfc52e</testCaseGuid>
+</TestCaseEntity>

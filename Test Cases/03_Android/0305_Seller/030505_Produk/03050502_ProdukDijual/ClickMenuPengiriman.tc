@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click menu pengiriman</description>
+   <name>ClickMenuPengiriman</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2255acd3-1908-45bf-acd8-4fdd39e2efb4</testCaseGuid>
+</TestCaseEntity>

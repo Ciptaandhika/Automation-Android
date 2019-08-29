@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Verify Confirmation digital order screen</description>
+   <name>VerifyConfirmationPengirmanProdukDigital</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>511da427-006e-460f-a0fb-7ac517e4ca2e</testCaseGuid>
+</TestCaseEntity>

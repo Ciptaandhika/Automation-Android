@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click one of categories
+- See &quot;Urutkan&quot; button on bottom menu bar</description>
+   <name>ClickOnOfCategories_ SeeUrutkanButtonOnBottomMenuBar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8050e24d-f329-4009-b662-6d28755d9032</testCaseGuid>
+</TestCaseEntity>

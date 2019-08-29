@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>empty textBox SKU
+click simpan produk</description>
+   <name>EmptySKU_ClickSimpanProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>25d8ad14-7249-4341-9ada-bab2982a2008</testCaseGuid>
+</TestCaseEntity>

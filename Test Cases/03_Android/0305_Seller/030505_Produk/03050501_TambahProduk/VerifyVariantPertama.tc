@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify variant pertama</description>
+   <name>VerifyVariantPertama</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>78d8aa63-d9c3-4038-b06c-1a37ed6cb878</testCaseGuid>
+</TestCaseEntity>

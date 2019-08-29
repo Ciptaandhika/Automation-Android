@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify waktu transaksi row teratas</description>
+   <name>VerifyWaktuTransaksiPengeluaran</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>efcc9a6d-31c0-4971-bc04-5e6ee79d6823</testCaseGuid>
+</TestCaseEntity>

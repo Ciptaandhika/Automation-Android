@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Ensure that bank promotion already set for that product id
+ 2. Select payment method with promotion
+ 3. Select promotion on dropdown bank payment promotion</description>
+   <name>ClickBankMandiri_ClickDebitOnlinePromo_ClickPilihDiskonSpesial_PilihDiskonSpesial9</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b345d886-0b49-4f0b-a3bc-aba9dc2cdd2f</testCaseGuid>
+</TestCaseEntity>

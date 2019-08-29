@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click tooltip on logistic provider Jet Express - Reguler</description>
+   <name>ClickToolTipJexExpressReguler</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a94e2c06-e718-4fab-9ca8-b42e725bc798</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify card hadiah undian</description>
+   <name>VerifyCardHadiahUndian</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c05d4a37-d056-4a53-baea-1f0782fdc2a5</testCaseGuid>
+</TestCaseEntity>

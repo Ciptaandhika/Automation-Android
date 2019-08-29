@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Veerify Catatan
+Display information &quot;opsional&quot; on field &quot;Catatan&quot;
+When user did not input this field, then save address. System will saved address successfully</description>
+   <name>VerifyCatatan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7cd4d28e-826c-4f17-adf8-528b63848e53</testCaseGuid>
+</TestCaseEntity>

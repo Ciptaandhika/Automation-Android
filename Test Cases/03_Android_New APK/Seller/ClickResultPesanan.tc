@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click pesanan pada order list</description>
+   <name>ClickResultPesanan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d7454ac8-1150-47cb-943b-6f62f52f08c2</testCaseGuid>
+</TestCaseEntity>

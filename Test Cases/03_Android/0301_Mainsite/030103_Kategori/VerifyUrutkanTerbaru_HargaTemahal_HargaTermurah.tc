@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Verify 'Urutkan Screen' terbaru, harga termahal, harga termurah</description>
+   <name>VerifyUrutkanTerbaru_HargaTemahal_HargaTermurah</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a0150a50-0421-4060-afce-480d4a363396</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>disable toggle ditanggung pembeli</description>
+   <name>ToggleOffDitanggungPembeli</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b87a62db-bf6f-41af-98c1-881b23f53dc8</testCaseGuid>
+</TestCaseEntity>

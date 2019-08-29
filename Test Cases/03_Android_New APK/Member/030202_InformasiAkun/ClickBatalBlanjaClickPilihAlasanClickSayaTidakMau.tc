@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click on 'Batalkan Blanjaan'
+- When pop up appear choose 'Silahkan pilih alasan'
+- Click 'OK'</description>
+   <name>ClickBatalBlanjaClickPilihAlasanClickSayaTidakMau</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>516be82e-c312-4ec8-a4ef-5c5f79911f4f</testCaseGuid>
+</TestCaseEntity>

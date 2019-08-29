@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify page konfirmasi pembayaran</description>
+   <name>VerifyPageKonfirmasiPembayaran</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b528b39b-254c-4fed-bb5b-82ac94c7484c</testCaseGuid>
+</TestCaseEntity>

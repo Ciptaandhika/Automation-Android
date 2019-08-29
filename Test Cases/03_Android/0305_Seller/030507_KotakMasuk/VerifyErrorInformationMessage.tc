@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Result test : 3.5 Ensure Time sent message will be displayed</description>
+   <name>VerifyErrorInformationMessage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe77e191-a0b2-4190-847b-ebd3368c7bfa</testCaseGuid>
+</TestCaseEntity>

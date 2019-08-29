@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>search warna variant</description>
+   <name>SearchVariantWarnaTambahVariant</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c405a074-de24-4160-8eea-22d1ae5e235c</testCaseGuid>
+</TestCaseEntity>

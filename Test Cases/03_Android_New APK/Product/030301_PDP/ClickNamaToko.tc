@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>-click menu nama toko</description>
+   <name>ClickNamaToko</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>58817157-b449-474f-a67a-2a0be67056d3</testCaseGuid>
+</TestCaseEntity>

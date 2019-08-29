@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>6. Tap on one of Recomendation product
+7. Tap &quot;Submit Produk&quot;</description>
+   <name>TapButtonBackEditProfilePage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>129e9e19-7b3b-4460-ae0a-564a7b6a9e45</testCaseGuid>
+</TestCaseEntity>

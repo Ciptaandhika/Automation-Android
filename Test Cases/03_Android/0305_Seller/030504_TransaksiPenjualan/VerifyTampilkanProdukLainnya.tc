@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify tampilkan produk lainnya</description>
+   <name>VerifyTampilkanProdukLainnya</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a7678ffe-1128-4d1f-a8b1-8dd895386937</testCaseGuid>
+</TestCaseEntity>

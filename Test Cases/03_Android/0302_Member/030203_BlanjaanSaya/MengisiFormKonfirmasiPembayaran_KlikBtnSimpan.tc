@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>mengisi form konfirmasi pembayaran
+klik simpan</description>
+   <name>MengisiFormKonfirmasiPembayaran_KlikBtnSimpan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d47e5f51-12a5-4ae5-9e9d-f7484d41e5e5</testCaseGuid>
+</TestCaseEntity>

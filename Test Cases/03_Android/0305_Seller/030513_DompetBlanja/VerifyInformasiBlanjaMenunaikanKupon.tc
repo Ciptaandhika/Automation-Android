@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify informasi  'Blanja menunaikan kupon blanja yang telah terpakai dan membayarkan pada penjual'</description>
+   <name>VerifyInformasiBlanjaMenunaikanKupon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>64eaaa8c-4ef2-439f-8943-1c6ad646f890</testCaseGuid>
+</TestCaseEntity>

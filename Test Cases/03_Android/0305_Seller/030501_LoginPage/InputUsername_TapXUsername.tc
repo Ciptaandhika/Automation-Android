@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Input username
+Tap X button username</description>
+   <name>InputUsername_TapXUsername</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2315dde1-8729-4168-80d4-4e07798d25a2</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click button baru on kategori screen</description>
+   <name>ClickBtnBaru</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>65be4a33-9b7f-4d80-9534-8a3a1ba30c4e</testCaseGuid>
+</TestCaseEntity>

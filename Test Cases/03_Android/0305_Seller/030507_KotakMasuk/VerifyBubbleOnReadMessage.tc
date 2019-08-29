@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Bubble count will be displayed on read message</description>
+   <name>VerifyBubbleOnReadMessage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea574525-3e69-4027-8f3e-5d2775f4aaf3</testCaseGuid>
+</TestCaseEntity>

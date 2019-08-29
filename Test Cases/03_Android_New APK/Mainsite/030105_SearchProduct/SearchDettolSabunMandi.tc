@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click SearchBox
+- Set Text 'Produk Link Aja'
+- Enter</description>
+   <name>SearchDettolSabunMandi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e449b06a-046b-43a4-9130-972cfd77eb72</testCaseGuid>
+</TestCaseEntity>

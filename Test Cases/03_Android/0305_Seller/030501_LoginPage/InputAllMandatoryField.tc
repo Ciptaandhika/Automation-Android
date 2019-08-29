@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Username entered
+Nomor telepon entered
+Email entered
+Password entered
+Confirmation Password entered
+Select Gender
+Tap Daftar button</description>
+   <name>InputAllMandatoryField</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2c0ae7dc-e8ab-4346-9246-987ad0cf7842</testCaseGuid>
+</TestCaseEntity>

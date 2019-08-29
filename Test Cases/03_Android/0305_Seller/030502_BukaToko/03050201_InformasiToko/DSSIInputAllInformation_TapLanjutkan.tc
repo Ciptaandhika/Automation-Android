@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Enter Store owner name
+Enter Phone number
+Enter Store name
+Enter Url store
+Enter Store Description
+Enter Store Address
+Select Province
+Select City
+Select district
+Enter Postal code
+tap Lanjutkan button</description>
+   <name>DSSIInputAllInformation_TapLanjutkan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4629a8cf-66da-4d63-a3d0-db627b8d0295</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>kosongkan txtBox panjang, lebar, tinggi</description>
+   <name>EmptyPanjangLebarTinggi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b4f613bc-ab8c-4e65-9b3c-1c5c98002344</testCaseGuid>
+</TestCaseEntity>

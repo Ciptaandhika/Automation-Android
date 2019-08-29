@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click on order number</description>
+   <name>ClickFeedBackRepliedOrderNumber</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3ebf09cf-ac2c-4110-bab9-d60dfe3a19c0</testCaseGuid>
+</TestCaseEntity>

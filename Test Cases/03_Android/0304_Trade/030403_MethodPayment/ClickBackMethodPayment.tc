@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click back in header
+Redirect to Blanjaan Saya</description>
+   <name>ClickBackMethodPayment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c276f5b6-c676-406f-81a9-e57b2defe62b</testCaseGuid>
+</TestCaseEntity>

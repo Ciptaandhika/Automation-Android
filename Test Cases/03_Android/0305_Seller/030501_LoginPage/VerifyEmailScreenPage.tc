@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>X button displayed
+&quot;Verifikasi Email&quot; will be displayed as title
+Image and text will be displayed
+Registered mail will be displayed
+Belum  menerima email ? kirim ulang will be displayed</description>
+   <name>VerifyEmailScreenPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe29bd0c-cd1c-4472-aa61-0aef7900a3da</testCaseGuid>
+</TestCaseEntity>

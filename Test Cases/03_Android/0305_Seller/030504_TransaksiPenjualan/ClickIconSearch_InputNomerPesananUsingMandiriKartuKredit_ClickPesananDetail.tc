@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>input order number which paid using Mandiri Kartu Kredit Cicilan then clicked on 'SEARCH' button
+click on button 'Details'</description>
+   <name>ClickIconSearch_InputNomerPesananUsingMandiriKartuKredit_ClickPesananDetail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>195cff84-d500-422d-867a-a8dfb41530ce</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Onboarding screen will be displayed for all user never opened this apps.
+1. Launch application</description>
+   <name>FirstLaunchingApps</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>63580da0-3c29-4bab-8bfd-4b328b80d875</testCaseGuid>
+</TestCaseEntity>

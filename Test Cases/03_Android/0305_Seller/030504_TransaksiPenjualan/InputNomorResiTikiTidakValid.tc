@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Input nomor resi</description>
+   <name>InputNomorResiTikiTidakValid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c1fbbb13-1bb7-44c8-8cd8-5f7bd7c95481</testCaseGuid>
+</TestCaseEntity>

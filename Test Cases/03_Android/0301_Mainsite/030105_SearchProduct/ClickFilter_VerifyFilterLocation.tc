@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>-click button filter
+-screenshoot</description>
+   <name>ClickFilter_VerifyFilterLocation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f1ea3014-71b0-48b6-b0e1-4dee9f353276</testCaseGuid>
+</TestCaseEntity>

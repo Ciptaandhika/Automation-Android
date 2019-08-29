@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>tap icon search
+search notification (title)
+verify result search</description>
+   <name>SearchNotification</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a76b09f4-1088-4b8f-8328-7fb9802f9295</testCaseGuid>
+</TestCaseEntity>

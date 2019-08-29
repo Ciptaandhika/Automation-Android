@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click SearchBox
+- Set Text 'Produk Link Aja'
+- Enter</description>
+   <name>SearchProductLinkAjaJugaRp1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>df9e5b9e-bd10-492c-9dcc-1a493db3055f</testCaseGuid>
+</TestCaseEntity>

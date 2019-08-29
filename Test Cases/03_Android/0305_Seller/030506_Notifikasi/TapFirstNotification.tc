@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>4. Tap Notification</description>
+   <name>TapFirstNotification</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d64c1da8-c318-4c0e-9aa5-c982e98dfb22</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click cashback.</description>
+   <name>VerifyPengembalianCashback</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>42ae04b7-449e-4fb2-9bd9-9944a0ba9bce</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>input price discount produk
+verify with global variable</description>
+   <name>VerifyProductPriceDiscountFormat</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>430eeec4-0d4b-4f97-8e4e-1ab5028f956e</testCaseGuid>
+</TestCaseEntity>

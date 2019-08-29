@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>input order number which paid using E-pay BRI then clicked on 'SEARCH' button
+ click on button 'Details'</description>
+   <name>ClickIconSearch_InputNomerPesananUsingEPayBRI_ClickPesananDetail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>96c3d55f-2797-4539-96ee-2a3909952506</testCaseGuid>
+</TestCaseEntity>

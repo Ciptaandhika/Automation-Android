@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- scroll to text keluar
+- tap keluar
+</description>
+   <name>Logout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2a28bd79-a389-4a49-beaf-3abd61362c4a</testCaseGuid>
+</TestCaseEntity>

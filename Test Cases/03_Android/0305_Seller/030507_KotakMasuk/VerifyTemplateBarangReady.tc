@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Tap on one of template
+- Ensure message sent</description>
+   <name>VerifyTemplateBarangReady</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b98f4da2-9b91-4923-aee2-5b9e77d75af5</testCaseGuid>
+</TestCaseEntity>

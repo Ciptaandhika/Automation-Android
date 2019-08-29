@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- System will show date start from 1 month ago until current date</description>
+   <name>VerifyWaktuPemesanan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>94d10d52-386a-4675-8df6-70e7ccbb519f</testCaseGuid>
+</TestCaseEntity>

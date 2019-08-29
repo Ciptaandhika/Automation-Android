@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Do not fill mandatory field
+Click on button &quot;Simpan&quot;</description>
+   <name>ClearMandatoryField</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7239a541-de93-417d-a2ee-72bf2921f986</testCaseGuid>
+</TestCaseEntity>

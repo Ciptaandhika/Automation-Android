@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click bank mandiri (box)
+click bank transfer</description>
+   <name>ClickBankMandiri_ClickBankTransfer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee99c4db-b1dd-4b60-a48c-2c9b7de763c9</testCaseGuid>
+</TestCaseEntity>

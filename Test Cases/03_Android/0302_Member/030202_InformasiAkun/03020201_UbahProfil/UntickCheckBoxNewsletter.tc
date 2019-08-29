@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Untick checkbox newsletter</description>
+   <name>UntickCheckBoxNewsletter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1da5c55a-1226-4aad-862d-c7033434de29</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify no transaksi pengeluaran</description>
+   <name>VerifyNoTransaksiPengeluaran</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cb097c66-74a1-4fe4-ab57-bb847de5669c</testCaseGuid>
+</TestCaseEntity>

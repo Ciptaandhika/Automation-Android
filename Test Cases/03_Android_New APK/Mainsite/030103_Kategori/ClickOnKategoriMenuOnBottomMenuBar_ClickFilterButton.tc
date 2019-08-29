@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>-Click one of categories
+-Click &quot;Filter&quot; button</description>
+   <name>ClickOnKategoriMenuOnBottomMenuBar_ClickFilterButton</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2a76201f-5728-4441-b70d-023b78ada744</testCaseGuid>
+</TestCaseEntity>

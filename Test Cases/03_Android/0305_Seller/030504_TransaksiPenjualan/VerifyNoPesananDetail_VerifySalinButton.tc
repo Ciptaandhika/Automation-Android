@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify No Pesanan Detail
+Verify Salin Button</description>
+   <name>VerifyNoPesananDetail_VerifySalinButton</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e558f92c-d9f0-44d6-aff7-6f93b15c9a3a</testCaseGuid>
+</TestCaseEntity>

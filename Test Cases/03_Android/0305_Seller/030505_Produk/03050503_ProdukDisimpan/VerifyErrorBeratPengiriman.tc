@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify message error berat pengiriman</description>
+   <name>VerifyErrorBeratPengiriman</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2139107e-05be-4d2f-9467-e7dd2dd8dc35</testCaseGuid>
+</TestCaseEntity>

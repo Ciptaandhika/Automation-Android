@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1.1 Login screen displayed
+2.1 Username/Email/No. Telepon field displayed
+2.2 Password field displayed
+2.3 User can enter this field
+2.4 This field is mandatory
+3.1 Username and password entered
+4.1 Button can be tap
+4.2 User will redirect to basic dashboard</description>
+   <name>userLoginCorrectly</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8ebe8a24-74eb-43ea-8d8e-25c2473bb14d</testCaseGuid>
+</TestCaseEntity>

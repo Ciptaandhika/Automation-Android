@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3.2 Keluar menu will be displayed
+3.1  Keluar can be tap
+3.2  User will logout from application</description>
+   <name>VerifyKeluar_ClickKeluar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9c418738-f8aa-4b32-a037-18bc5b53d2e2</testCaseGuid>
+</TestCaseEntity>

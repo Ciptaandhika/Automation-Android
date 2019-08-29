@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Pickup Driver</description>
+   <name>ClickPickupDriver</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c44296be-fc4b-4674-9f50-b92a977938c9</testCaseGuid>
+</TestCaseEntity>

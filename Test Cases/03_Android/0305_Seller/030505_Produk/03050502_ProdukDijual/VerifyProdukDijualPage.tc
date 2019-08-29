@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify produk dijual page</description>
+   <name>VerifyProdukDijualPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>79180288-1ff9-4165-b0de-938e1f96f4b5</testCaseGuid>
+</TestCaseEntity>

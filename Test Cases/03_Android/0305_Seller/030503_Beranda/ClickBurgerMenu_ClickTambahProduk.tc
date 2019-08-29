@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click burger menu
+Cick Produk dijual</description>
+   <name>ClickBurgerMenu_ClickTambahProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8dfa48ce-0573-4b8b-98c8-2be9388ab92a</testCaseGuid>
+</TestCaseEntity>

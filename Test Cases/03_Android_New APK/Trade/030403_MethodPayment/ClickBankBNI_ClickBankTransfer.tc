@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click bank bni
+click bank transfer di bni box</description>
+   <name>ClickBankBNI_ClickBankTransfer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f908a442-5cea-4822-85d2-df5efaf6ded9</testCaseGuid>
+</TestCaseEntity>

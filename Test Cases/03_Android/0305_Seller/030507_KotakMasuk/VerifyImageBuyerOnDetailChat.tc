@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Expected result : 4.2 Ensure user can see buyer image</description>
+   <name>VerifyImageBuyerOnDetailChat</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c6d4d83d-f675-41a6-9ff6-0e6877d8f33a</testCaseGuid>
+</TestCaseEntity>

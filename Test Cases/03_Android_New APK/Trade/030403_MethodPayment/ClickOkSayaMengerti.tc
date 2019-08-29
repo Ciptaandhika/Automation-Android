@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click modal ok saya mengerti</description>
+   <name>ClickOkSayaMengerti</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ba54c79b-25ab-4350-8e7e-94b25bd34592</testCaseGuid>
+</TestCaseEntity>

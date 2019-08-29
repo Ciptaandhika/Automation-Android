@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Verify screen tooltip ' Waktu Pemesanan '</description>
+   <name>VerifyScreenToolTipWaktuPemesanan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6f2392d-6dec-497e-aefd-72a4dda79887</testCaseGuid>
+</TestCaseEntity>

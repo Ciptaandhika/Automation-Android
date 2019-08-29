@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify searh province result.</description>
+   <name>VerifySearchProviceResult</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>28d6f9a3-a713-44c7-9e69-326f51ee53de</testCaseGuid>
+</TestCaseEntity>

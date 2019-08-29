@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tap href lihat lainnya
+Verify Element exist</description>
+   <name>VerifyCardLihatLainnya</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0d13be22-5b7c-4456-b471-829e66f7b9ae</testCaseGuid>
+</TestCaseEntity>

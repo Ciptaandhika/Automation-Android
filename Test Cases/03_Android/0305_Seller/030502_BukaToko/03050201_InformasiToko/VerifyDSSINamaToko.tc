@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify object txtBoxNamaToko
+input nama toko lebih dari 30
+input nama toko
+input nama toko kosong
+tap lanjutkan</description>
+   <name>VerifyDSSINamaToko</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4871e387-3384-4398-9f5d-e810cf757c17</testCaseGuid>
+</TestCaseEntity>

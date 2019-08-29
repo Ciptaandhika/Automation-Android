@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ClickHrefSemuaProduk</description>
+   <name>VerifyHrefSemuaProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>869d1a01-9575-4679-998d-bdaee28715d1</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>4.3 Ensure information text will be displayed &quot;Silahkan input minimal 3 karakter&quot;</description>
+   <name>VerifySilahkanInputMinimal3Karakter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cb309198-88ab-44f1-ae56-e267589a8d99</testCaseGuid>
+</TestCaseEntity>

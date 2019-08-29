@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click BatalkanBlanjaan
+- Verify Warning
+- Click Silahkan Pilih Alasan
+- Click OK</description>
+   <name>ClickBatalkanBlanjaan_VerifyWarning_ClickSilahkanPilihAlasan_ClickOK</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6ebbdc0-0046-41ea-b343-86b1fbc9b50e</testCaseGuid>
+</TestCaseEntity>

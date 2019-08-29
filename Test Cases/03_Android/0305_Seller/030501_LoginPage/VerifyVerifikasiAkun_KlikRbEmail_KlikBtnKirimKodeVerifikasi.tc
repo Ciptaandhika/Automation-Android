@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to verifikasi akun page</description>
+   <name>VerifyVerifikasiAkun_KlikRbEmail_KlikBtnKirimKodeVerifikasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>31c348c6-3940-4047-ae3c-d708884dd0bf</testCaseGuid>
+</TestCaseEntity>

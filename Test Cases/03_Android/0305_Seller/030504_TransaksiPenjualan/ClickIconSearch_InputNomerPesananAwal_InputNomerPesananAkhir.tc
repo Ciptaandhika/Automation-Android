@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Icon Search
+Input Nomer Pesanan Awal
+Input Nomer Pesanan Akhir</description>
+   <name>ClickIconSearch_InputNomerPesananAwal_InputNomerPesananAkhir</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>74a6a6df-c049-4b2c-81e5-94687820ecee</testCaseGuid>
+</TestCaseEntity>

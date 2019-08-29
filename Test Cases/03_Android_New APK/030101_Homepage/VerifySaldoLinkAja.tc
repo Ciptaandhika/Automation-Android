@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Enter Link Aja
+Get Saldo Link Aja</description>
+   <name>VerifySaldoLinkAja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9ef0c6c4-1fe0-45c1-9d82-2e3b50986839</testCaseGuid>
+</TestCaseEntity>

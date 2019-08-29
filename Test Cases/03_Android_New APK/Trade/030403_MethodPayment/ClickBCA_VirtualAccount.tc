@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>pembayaran menggunakan bca virtual account</description>
+   <name>ClickBCA_VirtualAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eac9cc8d-5491-43c6-8b08-3e98211c07e8</testCaseGuid>
+</TestCaseEntity>

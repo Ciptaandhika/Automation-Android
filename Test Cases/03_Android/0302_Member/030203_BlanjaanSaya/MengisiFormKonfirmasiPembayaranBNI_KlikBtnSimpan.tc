@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>mengisi form konfirmasi pembayaran
+klik simpan</description>
+   <name>MengisiFormKonfirmasiPembayaranBNI_KlikBtnSimpan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>89352107-f4f1-485d-92cd-92daf5b2b8e1</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,48 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import internal.GlobalVariable as GlobalVariable
+
+Mobile.setText(findTestObject('0305_Seller/030501_LoginPage/txtBoxUsernameRegister'), GlobalVariable.UsernameSellerLoginPage, 
+    0)
+
+Mobile.setText(findTestObject('0305_Seller/030501_LoginPage/txtBoxNomorTeleponRegister'), GlobalVariable.NoTelpLoginPage, 
+    0)
+
+Mobile.setText(findTestObject('0305_Seller/030501_LoginPage/txtBoxEmailRegister'), GlobalVariable.EmailSellerRegisterLoginPage, 
+    0)
+
+try {
+	Mobile.hideKeyboard()
+} catch (Exception e) {
+	e.printStackTrace()
+}
+
+Mobile.scrollToText(GlobalVariable.ScrollToDenganMendaftarRegisterLoginPage, FailureHandling.STOP_ON_FAILURE)
+
+Mobile.setText(findTestObject('0305_Seller/030501_LoginPage/txtBoxPasswordRegister'), GlobalVariable.Password8CharNumRegisterLoginPage, 
+    0)
+
+Mobile.setText(findTestObject('0305_Seller/030501_LoginPage/txtBoxConfirmationPasswordRegister'), GlobalVariable.Password8CharNumRegisterLoginPage, 
+    GlobalVariable.Timeout)
+
+try {
+	Mobile.hideKeyboard()
+} catch (Exception e) {
+	e.printStackTrace()
+}
+
+Mobile.tap(findTestObject('0305_Seller/030501_LoginPage/rbPria'), GlobalVariable.Timeout)
+
+Mobile.tap(findTestObject('0305_Seller/030501_LoginPage/btnDaftar'), GlobalVariable.Timeout)
+

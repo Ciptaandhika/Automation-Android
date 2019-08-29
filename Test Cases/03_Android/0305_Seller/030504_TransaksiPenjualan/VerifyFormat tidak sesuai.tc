@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify format no resi tidak sesuai.</description>
+   <name>VerifyFormat tidak sesuai</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0016adc3-f939-4cf2-924b-b6a09514f56c</testCaseGuid>
+</TestCaseEntity>

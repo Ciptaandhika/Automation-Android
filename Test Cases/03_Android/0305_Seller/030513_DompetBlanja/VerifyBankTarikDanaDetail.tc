@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can see 'Email' in detail transaction VA'</description>
+   <name>VerifyBankTarikDanaDetail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5124e22a-4d8d-4e60-b9d0-9d46612eb014</testCaseGuid>
+</TestCaseEntity>

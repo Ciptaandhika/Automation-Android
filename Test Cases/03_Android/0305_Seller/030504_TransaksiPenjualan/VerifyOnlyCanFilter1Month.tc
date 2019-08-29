@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click start date
+choose 1 januari 2019
+click ok
+verify label cannot filter more than 1 month</description>
+   <name>VerifyOnlyCanFilter1Month</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>25469170-3968-4274-8f94-d5304a5ee20c</testCaseGuid>
+</TestCaseEntity>

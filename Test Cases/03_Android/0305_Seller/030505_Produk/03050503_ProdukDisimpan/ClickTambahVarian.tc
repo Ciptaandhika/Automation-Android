@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click menu tambah varian</description>
+   <name>ClickTambahVarian</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0968443d-392c-4c0a-9fd1-924de188b01f</testCaseGuid>
+</TestCaseEntity>

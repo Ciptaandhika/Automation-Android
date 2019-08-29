@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search store name.</description>
+   <name>SearchStoreNameAndLihatSemua</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a095f5dd-7449-483b-87df-83073d94f62a</testCaseGuid>
+</TestCaseEntity>

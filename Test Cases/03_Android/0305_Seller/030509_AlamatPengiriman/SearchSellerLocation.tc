@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search seller location</description>
+   <name>SearchSellerLocation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1e183072-3104-465d-9940-783325198a51</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user at verifikasi akun page</description>
+   <name>VerifyPageVerifikasiAkun</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>584b5f77-948b-4113-8f02-cab60ba72c11</testCaseGuid>
+</TestCaseEntity>

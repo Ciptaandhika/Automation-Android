@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Input Panjang
+Input Lebar
+Input Tinggi</description>
+   <name>InputPanjang_InputLebar_InputTinggi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dcc94b3e-820f-431c-85c6-46447f897592</testCaseGuid>
+</TestCaseEntity>

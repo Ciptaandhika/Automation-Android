@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>-click btn close
+-set text again search box</description>
+   <name>DeleteKeywordInput_InputProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fad60c03-9981-43aa-8629-a1e4d171594a</testCaseGuid>
+</TestCaseEntity>

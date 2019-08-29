@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click tooltip
+verify popup pembeli menanggung pengiriman</description>
+   <name>ClickTooltipDitanggungPembeli</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>470735b9-d664-46de-9825-b854d0757fef</testCaseGuid>
+</TestCaseEntity>

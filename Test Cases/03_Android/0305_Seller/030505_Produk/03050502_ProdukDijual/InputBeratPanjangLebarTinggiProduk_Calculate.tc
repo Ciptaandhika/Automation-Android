@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Input Berat Produk
+Input Panjang Produk
+Input Lebar Produk
+Input Tinggi Produk</description>
+   <name>InputBeratPanjangLebarTinggiProduk_Calculate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b3c85e15-74be-4cad-b1f7-965abb41ce48</testCaseGuid>
+</TestCaseEntity>

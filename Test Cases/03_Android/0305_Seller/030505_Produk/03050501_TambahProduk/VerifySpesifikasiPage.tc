@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify kategori page</description>
+   <name>VerifySpesifikasiPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a80773d7-04d4-4f78-95e0-e680af5002d7</testCaseGuid>
+</TestCaseEntity>

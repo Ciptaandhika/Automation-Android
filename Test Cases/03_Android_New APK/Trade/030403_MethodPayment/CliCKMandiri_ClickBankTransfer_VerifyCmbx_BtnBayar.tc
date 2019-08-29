@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Select any payment method except ; Credit Card and Debit Online</description>
+   <name>CliCKMandiri_ClickBankTransfer_VerifyCmbx_BtnBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fde39ed8-6de0-4447-986b-e1dfb95e8264</testCaseGuid>
+</TestCaseEntity>

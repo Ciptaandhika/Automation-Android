@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Jasa Pengirman First Logistics dan Layanan Pengiriman Reguler</description>
+   <name>VerifyJasadanLayananPengirimanFirstLogisticsReguler</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3b6a58d3-7fe2-4417-be73-20e5dcc5fba3</testCaseGuid>
+</TestCaseEntity>

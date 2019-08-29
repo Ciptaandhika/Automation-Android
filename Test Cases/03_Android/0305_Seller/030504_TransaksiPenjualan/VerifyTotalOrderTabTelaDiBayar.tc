@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Total Order Telah Di Bayar</description>
+   <name>VerifyTotalOrderTabTelaDiBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a54698bd-ee10-4e63-ae64-b0143b40e103</testCaseGuid>
+</TestCaseEntity>

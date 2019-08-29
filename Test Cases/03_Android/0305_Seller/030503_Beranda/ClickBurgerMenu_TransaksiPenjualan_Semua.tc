@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click ' Semua ' on burger menu Transaksi Penjualan</description>
+   <name>ClickBurgerMenu_TransaksiPenjualan_Semua</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9b69f8e3-1aac-4188-bba1-ae7758cb5eb1</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>4.3 buyer can check details order on order list and order details, and sytem show payment information as 'Debit Online'</description>
+   <name>VerifyDebitOnlineEpayBRI</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3defac3e-d97b-4c51-95cd-14b7c128dabc</testCaseGuid>
+</TestCaseEntity>

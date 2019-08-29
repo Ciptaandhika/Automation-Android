@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Jumlah Pemasukan</description>
+   <name>VerifyJumlahPemasukan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2db96ae-a9bc-4638-b34c-1cd0e911d532</testCaseGuid>
+</TestCaseEntity>

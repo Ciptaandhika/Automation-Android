@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3. Tap Hamburger menu</description>
+   <name>ClickBurgerMenu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5346410e-6cf9-476e-92c5-95c40fcf2069</testCaseGuid>
+</TestCaseEntity>

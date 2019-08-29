@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify Detail Hadiah Langsusng</description>
+   <name>verifyDetailHadiahLangsung</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5ebaac79-8cf7-4b45-aeb9-0b3654357a84</testCaseGuid>
+</TestCaseEntity>

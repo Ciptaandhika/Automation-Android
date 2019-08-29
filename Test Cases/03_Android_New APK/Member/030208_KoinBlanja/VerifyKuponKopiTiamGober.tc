@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify element exist</description>
+   <name>VerifyKuponKopiTiamGober</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db5da8b0-7314-4577-aca3-2c89d7b30693</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>input txtbox stok</description>
+   <name>InputStokTambahVariantBaru</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>78a9a59d-f63f-41ef-b402-f16a8fabe1b6</testCaseGuid>
+</TestCaseEntity>

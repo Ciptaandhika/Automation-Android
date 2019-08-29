@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Input code coupon
+Click Use</description>
+   <name>InputCodeLinkAja_ClickUse</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb89347e-3d65-4849-a3fd-8b07e6963cd9</testCaseGuid>
+</TestCaseEntity>

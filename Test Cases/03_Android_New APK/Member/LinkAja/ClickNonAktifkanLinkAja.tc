@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click href NonAktifkan</description>
+   <name>ClickNonAktifkanLinkAja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e691f0e5-8881-40fa-9b66-162ef74ec284</testCaseGuid>
+</TestCaseEntity>

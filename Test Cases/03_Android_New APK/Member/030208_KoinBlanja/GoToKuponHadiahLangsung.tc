@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>GoTo Menu Kupon Hadiah Langsung</description>
+   <name>GoToKuponHadiahLangsung</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>21504a3d-9972-4b33-85ad-a4f2377bf66f</testCaseGuid>
+</TestCaseEntity>

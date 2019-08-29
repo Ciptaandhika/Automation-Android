@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Pembayaran Online</description>
+   <name>VerifyPembayaranOnline</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b995499f-d15a-4c38-a3e6-57c1be6cd324</testCaseGuid>
+</TestCaseEntity>

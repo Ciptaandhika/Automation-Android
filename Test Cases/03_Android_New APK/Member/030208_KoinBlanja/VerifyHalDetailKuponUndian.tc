@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik detail
+sistem akan memverifikasi hal detail kupon undian</description>
+   <name>VerifyHalDetailKuponUndian</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c549a318-e8f7-4862-90c3-68526d462270</testCaseGuid>
+</TestCaseEntity>

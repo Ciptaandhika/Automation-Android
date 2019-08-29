@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3. Select order with red color text &quot;Konfirmasi Permintaan Penjual&quot;
+4. Click on &quot;Konfirmasi Permintaan Penjual&quot;</description>
+   <name>VerifyKonfirmasiPermintaanPenjual_ClickSetuju_ClickYakin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>24c306bb-11cc-49fa-af6d-344d2d174779</testCaseGuid>
+</TestCaseEntity>

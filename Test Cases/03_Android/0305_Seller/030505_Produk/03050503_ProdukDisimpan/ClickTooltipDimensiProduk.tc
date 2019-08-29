@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click tooltip dimensi produk</description>
+   <name>ClickTooltipDimensiProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f8336df1-e552-415a-823a-3be3658a222a</testCaseGuid>
+</TestCaseEntity>

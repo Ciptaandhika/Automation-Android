@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify list announcement</description>
+   <name>VerifyListAnnouncement</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c1424565-4fb6-4bfb-b897-009ba762f0e8</testCaseGuid>
+</TestCaseEntity>

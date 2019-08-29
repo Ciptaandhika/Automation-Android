@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>4.2 Buyer name entered</description>
+   <name>TypingSearchBuyerName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0141f288-6a6b-428d-8ec0-8ef5ed8fa3bc</testCaseGuid>
+</TestCaseEntity>

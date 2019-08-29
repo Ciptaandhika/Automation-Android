@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify nama Perusahaan
+Display information &quot;opsional&quot; on field &quot;Nama Perusahaan&quot;
+When user did not input this field, then save address. System will saved address successfully</description>
+   <name>VerifyNamaPerusahaan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d5692a89-4ec9-4882-a786-9217929cb5f4</testCaseGuid>
+</TestCaseEntity>

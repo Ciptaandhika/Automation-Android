@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>2. Choose start date, 10 Maret 2018
+3. Choose end date, 18 April 2018</description>
+   <name>ChooseDateLebihDariSatuBulan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c052e170-6cf3-4ea6-bd3c-dc5a6f486e98</testCaseGuid>
+</TestCaseEntity>

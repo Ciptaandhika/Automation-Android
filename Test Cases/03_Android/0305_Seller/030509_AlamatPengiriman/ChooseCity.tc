@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Choose city</description>
+   <name>ChooseCity</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c960bf89-e7d0-4537-84f9-38cf1114555c</testCaseGuid>
+</TestCaseEntity>

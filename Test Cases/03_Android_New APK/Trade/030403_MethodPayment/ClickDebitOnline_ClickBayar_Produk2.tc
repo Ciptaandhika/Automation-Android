@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3. Choose payment method Others - Debit Online
+ 4. then click 'Konfirmasi Pembayaran'</description>
+   <name>ClickDebitOnline_ClickBayar_Produk2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>962e6eaf-c8bf-4668-a13f-953a91c7e4a9</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify object phone number
+input 18 password
+input less than 9 password
+tap button lanjutkan
+input 0 char password
+tap button lanjutkan</description>
+   <name>VerifyDSSIPhoneNumber</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>702486a6-f771-4f07-9700-6d994b16f092</testCaseGuid>
+</TestCaseEntity>

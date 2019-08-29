@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Liat</description>
+   <name>TapLihatBlanjaan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe825027-0d5f-40bf-8d40-0e496fd216d0</testCaseGuid>
+</TestCaseEntity>

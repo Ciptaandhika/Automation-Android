@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click BNI Transfer
+Click Bayar</description>
+   <name>ClickBNITransfer_ClickBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>00ad914f-d52c-45c7-af34-3761a8c7ff75</testCaseGuid>
+</TestCaseEntity>

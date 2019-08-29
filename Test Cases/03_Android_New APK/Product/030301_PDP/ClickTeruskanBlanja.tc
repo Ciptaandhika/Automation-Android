@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click Teruskan Blanja on Cart</description>
+   <name>ClickTeruskanBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd04a512-88eb-4026-9bee-6e2c978be549</testCaseGuid>
+</TestCaseEntity>

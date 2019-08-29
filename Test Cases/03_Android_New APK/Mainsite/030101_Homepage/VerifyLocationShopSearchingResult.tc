@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tap Lihat Semua Toko
+Tap Filter</description>
+   <name>VerifyLocationShopSearchingResult</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>21316558-6c51-425f-b41f-db2f648aa480</testCaseGuid>
+</TestCaseEntity>

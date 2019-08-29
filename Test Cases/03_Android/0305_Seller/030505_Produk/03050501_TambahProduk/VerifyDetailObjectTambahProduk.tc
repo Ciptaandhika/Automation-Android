@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>System will display field of 'Detail Produk' such as:
+1. Pilih Kategori
+- Harga Produk
+- Harga Diskon (Opsional)
+- Stok
+- SKU (Opsional)
+2. Pilih Varian
+3. Pilih Etalase</description>
+   <name>VerifyDetailObjectTambahProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad6026bb-5b96-4fa0-8233-16d9260777eb</testCaseGuid>
+</TestCaseEntity>

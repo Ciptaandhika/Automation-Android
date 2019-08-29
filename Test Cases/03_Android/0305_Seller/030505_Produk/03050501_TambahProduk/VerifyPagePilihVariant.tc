@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify page variant</description>
+   <name>VerifyPagePilihVariant</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e56d0798-70e0-4c7b-98cc-bc8f22225fd2</testCaseGuid>
+</TestCaseEntity>

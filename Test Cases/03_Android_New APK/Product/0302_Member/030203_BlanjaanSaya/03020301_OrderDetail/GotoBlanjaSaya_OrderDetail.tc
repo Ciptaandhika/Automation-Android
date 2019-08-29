@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Goto Blanja Saya
+Melihat Order Detail</description>
+   <name>GotoBlanjaSaya_OrderDetail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2d4c5472-d6ec-4a05-ab11-4220e4bde2db</testCaseGuid>
+</TestCaseEntity>

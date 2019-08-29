@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Choose 'jenis pengiriman' and choose 'kurir standar'
+Click 'Pilih Metode Pembayaran'</description>
+   <name>ChooseJasaPengiriman_KurirStandar_PilihMetodePembayaran_2_Product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0ae800c-62e2-4e23-8919-12147b8c50ec</testCaseGuid>
+</TestCaseEntity>

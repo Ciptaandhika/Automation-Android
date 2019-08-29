@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Button Pilih Metode Pembayaran dari beli sekarang</description>
+   <name>ClickPilihMetodePembayaranSekarang</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6457db96-b36e-44d6-a950-8a5a4cd9c453</testCaseGuid>
+</TestCaseEntity>

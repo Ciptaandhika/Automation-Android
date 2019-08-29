@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Jasa dan Layanan Pengiriman Jet Express</description>
+   <name>VerifyJasadanLayananPengirimanJetExpress</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>944e1cfa-abdd-4cfe-aaf1-18b2a4fb521b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click toggle off
+click batal on modal</description>
+   <name>ToggleOffDitanggungPembeliBatal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3686c541-728b-487e-9b44-962a4c47d5e7</testCaseGuid>
+</TestCaseEntity>

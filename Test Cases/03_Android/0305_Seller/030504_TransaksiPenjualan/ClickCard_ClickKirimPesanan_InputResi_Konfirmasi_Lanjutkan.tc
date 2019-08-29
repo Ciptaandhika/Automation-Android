@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click card
+click kirim pesanan
+input resi konfirmasi
+lanjutkan</description>
+   <name>ClickCard_ClickKirimPesanan_InputResi_Konfirmasi_Lanjutkan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>063d3014-192b-42f0-9f36-20556db7b61a</testCaseGuid>
+</TestCaseEntity>

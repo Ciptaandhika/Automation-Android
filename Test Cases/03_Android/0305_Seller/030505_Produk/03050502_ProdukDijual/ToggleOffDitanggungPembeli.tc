@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click toggle off</description>
+   <name>ToggleOffDitanggungPembeli</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3dc9bbf8-585d-4af1-a451-489fffb54fb2</testCaseGuid>
+</TestCaseEntity>

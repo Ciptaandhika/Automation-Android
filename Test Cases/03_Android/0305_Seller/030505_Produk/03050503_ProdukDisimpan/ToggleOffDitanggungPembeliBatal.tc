@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click toggle ditaggung pembeli
+click button batal pada pop up</description>
+   <name>ToggleOffDitanggungPembeliBatal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c78c7763-e111-47b2-b5a1-0bf8f9bbee3d</testCaseGuid>
+</TestCaseEntity>

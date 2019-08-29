@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Button Lihat Lainnya Enable pada Hadiah Langsung</description>
+   <name>VerifyEnableButtonLihatLainya_HadiahLangsung</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7b97630b-b257-43a4-845a-8e3c8b24ddb0</testCaseGuid>
+</TestCaseEntity>

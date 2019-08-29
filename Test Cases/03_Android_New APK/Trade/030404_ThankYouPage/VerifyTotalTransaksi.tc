@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>close dialog
+verify total transaksi</description>
+   <name>VerifyTotalTransaksi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ebb8063f-d397-4d55-9be0-c22f0927d316</testCaseGuid>
+</TestCaseEntity>

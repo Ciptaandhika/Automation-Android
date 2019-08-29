@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>get Kode Undian</description>
+   <name>GetKodeUndian</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dda2237a-369a-4975-bbb7-915a98de6b07</testCaseGuid>
+</TestCaseEntity>

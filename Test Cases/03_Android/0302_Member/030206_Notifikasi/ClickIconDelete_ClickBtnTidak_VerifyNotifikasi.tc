@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click icon delete
+click button tidak</description>
+   <name>ClickIconDelete_ClickBtnTidak_VerifyNotifikasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5220eccb-3a57-41aa-a693-2405223db8ad</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click Link Aja
+- Click Bayar</description>
+   <name>ClickLinkAja_ClickBayarSaldoTakCukup</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b11d2092-c251-475e-803e-211ef576d294</testCaseGuid>
+</TestCaseEntity>

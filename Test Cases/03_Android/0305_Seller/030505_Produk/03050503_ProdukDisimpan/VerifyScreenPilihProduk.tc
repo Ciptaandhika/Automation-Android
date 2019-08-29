@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Verify Screen Pilih Produk after deleted one of the product</description>
+   <name>VerifyScreenPilihProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af0fc610-be73-4cb4-b084-b9a09e10e86f</testCaseGuid>
+</TestCaseEntity>

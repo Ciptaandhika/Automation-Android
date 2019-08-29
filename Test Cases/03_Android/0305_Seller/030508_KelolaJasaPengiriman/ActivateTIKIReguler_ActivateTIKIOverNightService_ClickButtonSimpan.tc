@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Go to menu &quot;Kelola Jasa Pengiriman&quot;
+2. See logistics 
+3. Activate logistic TIKI - Reguler
+4. Activate logistic TIKI - Overnight Service
+5. Click button &quot;Simpan&quot;</description>
+   <name>ActivateTIKIReguler_ActivateTIKIOverNightService_ClickButtonSimpan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4573b5f2-7778-47ed-b455-6ef7e1c9625e</testCaseGuid>
+</TestCaseEntity>

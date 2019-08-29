@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>input txtbox sku</description>
+   <name>InputSKUTambahVariantBaru</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0789b1f3-16d5-4991-ba72-14c524d38a84</testCaseGuid>
+</TestCaseEntity>

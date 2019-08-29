@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify &quot;.&quot; will display on that character</description>
+   <name>VerifyProductPrice</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>923c420e-a568-4998-93f5-92d4947699f3</testCaseGuid>
+</TestCaseEntity>

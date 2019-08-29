@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click menu kategori
+klik menu komputer &amp; laptop
+klik menu komputer &amp; peripheral
+klik PC All In One
+verify menu spesifikasi not displayed</description>
+   <name>ClickMenuKategori_UbahKategori_VerifyMenuSpesifikasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d323a6c7-6b1a-4212-867f-c7e1d3cd9ff2</testCaseGuid>
+</TestCaseEntity>

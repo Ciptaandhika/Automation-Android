@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify store display all product.</description>
+   <name>VerifyStoreDisplayAllProduct(1-2)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e1c03a85-a5e5-4d9b-8a12-47227a6a2df8</testCaseGuid>
+</TestCaseEntity>

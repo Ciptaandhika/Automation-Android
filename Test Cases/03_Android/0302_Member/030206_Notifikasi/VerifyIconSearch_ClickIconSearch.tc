@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify icon search
+click icon search</description>
+   <name>VerifyIconSearch_ClickIconSearch</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>75df2e5b-6ed5-4496-93d0-9dd760ff9be7</testCaseGuid>
+</TestCaseEntity>

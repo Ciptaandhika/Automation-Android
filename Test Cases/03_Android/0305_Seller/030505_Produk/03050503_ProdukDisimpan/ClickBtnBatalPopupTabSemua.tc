@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click btn batal</description>
+   <name>ClickBtnBatalPopupTabSemua</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2f5556a-8cee-41a7-ac68-10b0f4d69e10</testCaseGuid>
+</TestCaseEntity>

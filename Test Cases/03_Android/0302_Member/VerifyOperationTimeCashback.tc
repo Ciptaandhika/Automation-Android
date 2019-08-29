@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>2. Halaman my cashback menampilkan operation time</description>
+   <name>VerifyOperationTimeCashback</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a111ce48-8e6e-40ff-b129-2d3c3b90eb1e</testCaseGuid>
+</TestCaseEntity>

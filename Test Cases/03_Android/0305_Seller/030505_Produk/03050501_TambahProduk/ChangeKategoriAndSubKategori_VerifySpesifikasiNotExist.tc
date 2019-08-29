@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>change kategori</description>
+   <name>ChangeKategoriAndSubKategori_VerifySpesifikasiNotExist</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ce508825-ae01-4829-99e7-6be13bb91101</testCaseGuid>
+</TestCaseEntity>

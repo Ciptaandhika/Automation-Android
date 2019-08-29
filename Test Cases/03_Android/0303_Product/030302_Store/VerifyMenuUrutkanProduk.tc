@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify menu terbaru
+verify menu produk terlaris
+verify menu harga termahal
+verify menu termurah</description>
+   <name>VerifyMenuUrutkanProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e1938488-abdf-4319-8347-64c98bea3e10</testCaseGuid>
+</TestCaseEntity>

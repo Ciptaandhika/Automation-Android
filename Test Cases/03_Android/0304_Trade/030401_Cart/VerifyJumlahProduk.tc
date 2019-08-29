@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Jumlah Produk Cart</description>
+   <name>VerifyJumlahProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd1f53fb-d15d-40e3-8057-dda93373a3ea</testCaseGuid>
+</TestCaseEntity>

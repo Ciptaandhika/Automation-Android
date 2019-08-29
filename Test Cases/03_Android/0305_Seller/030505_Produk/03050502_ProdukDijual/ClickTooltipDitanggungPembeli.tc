@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click tooltip dimensi produk
+verify modal</description>
+   <name>ClickTooltipDitanggungPembeli</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2871bc58-1610-411b-b4a2-98a6e2b07169</testCaseGuid>
+</TestCaseEntity>

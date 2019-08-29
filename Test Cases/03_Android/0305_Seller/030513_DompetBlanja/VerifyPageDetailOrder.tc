@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify halaman order detail (Pesanan)</description>
+   <name>VerifyPageDetailOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b5d00e55-c3f1-4874-bd42-0c360307a034</testCaseGuid>
+</TestCaseEntity>

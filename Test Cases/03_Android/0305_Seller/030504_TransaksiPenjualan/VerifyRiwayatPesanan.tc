@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify riwayat pengiriman
+verify lihat hyperlink
+verify latest status
+tap lihat
+verify riwayat page</description>
+   <name>VerifyRiwayatPesanan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc66f9a1-5386-4172-af6b-bcb78ef6a805</testCaseGuid>
+</TestCaseEntity>

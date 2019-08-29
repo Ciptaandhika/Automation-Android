@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>seller set product condition as 'Second'</description>
+   <name>ClickRbSecond</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c489e29c-8ab9-4ef3-8f1c-7472caebcc4a</testCaseGuid>
+</TestCaseEntity>

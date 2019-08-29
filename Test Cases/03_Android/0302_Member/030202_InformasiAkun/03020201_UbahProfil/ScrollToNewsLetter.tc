@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Scroll until checkbox newsletter</description>
+   <name>ScrollToNewsLetter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2e7a8b0-18b2-4a3b-89da-ea95ea53d622</testCaseGuid>
+</TestCaseEntity>

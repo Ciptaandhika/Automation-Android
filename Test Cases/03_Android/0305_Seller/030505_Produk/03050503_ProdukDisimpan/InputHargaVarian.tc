@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>set text harga</description>
+   <name>InputHargaVarian</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>02b0af25-f0de-4a0f-856e-1b801957630c</testCaseGuid>
+</TestCaseEntity>

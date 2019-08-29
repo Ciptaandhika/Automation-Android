@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensure seller will redirect to basic dashboard If seller click button Beranda.</description>
+   <name>KlikBeranda</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e0609a7f-57ce-4137-a7c1-be0669640a9f</testCaseGuid>
+</TestCaseEntity>
